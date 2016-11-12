@@ -19,10 +19,10 @@ function MapChart() {
 MapChart.prototype.init = function(){
 
     var self = this;
-    self.margin = {top: 10, right: 20, bottom: 30, left: 50};
+    self.margin = {top: 0, right: 0, bottom: 0, left: 0};
 
     var width = 0.50 * window.innerWidth;
-    var height = 0.80 * window.innerHeight;
+    var height = 0.50 * window.innerHeight;
 
     var divmapChart = d3.select("#map-div")
         .style('width', width + 'px')
@@ -34,12 +34,13 @@ MapChart.prototype.init = function(){
     self.svgHeight = self.svgBounds.height - self.margin.top - self.margin.bottom;
 
     //creates svg element within the div
-    self.svg = divmapChart.append("svg")
+    self.svg = divmapChart.select("svg")
         .attr("width",self.svgWidth)
         .attr("height",self.svgHeight)
 
     self.svg.append('g')
         .attr("id",'map');
+    self.drawMap();
 
 };
 
@@ -60,19 +61,34 @@ MapChart.prototype.tooltip_render = function (state,totalSize,totalCrime) {
         "</table>";
 };
 
+MapChart.prototype.drawMap = function() {
+    var self = this;
+    var projection = d3.geoAlbersUsa()
+        .translate([self.svgWidth / 2, self.svgHeight / 2])    // translate to center of screen
+        .scale([500]);          // scale things down so see entire US
+
+    var path = d3.geoPath()
+        .projection(projection);
+    d3.json("data/us-states.json", function (error, usMap) {
+        if (error) throw error;
+        var map = d3.select("#map")
+            .selectAll("path")
+            .data(usMap.features)
+            .enter()
+            .append("path")
+            .attr("d", path)
+            .attr("id", function (d) {
+                return d.id;
+            });
+    });
+
+};
 /**
  * Creates a map with color saturation representing the crime ratio in each state
  */
 MapChart.prototype.update = function(year) {
     var self = this;
-
-    var stateAbrev = 	["HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
-     "ME", "NH", "VT", "NY", "NJ", "PA", "DE", "MD", "WV", "KY", "OH",
-     "MI", "WY", "MT", "ID", "WA", "DC", "TX", "CA", "AZ", "NV", "UT",
-     "CO", "NM", "OR", "ND", "SD", "NE", "IA", "MS", "IN", "IL", "MN",
-     "WI", "MO", "AR", "OK", "KS", "LS", "VA"];
-
-
+    
     d3.csv("data/cumulativeData.csv", function (error, cumulativeData) {
         var max = d3.max(cumulativeData, function (d) {
             return d.totalRate
@@ -82,12 +98,8 @@ MapChart.prototype.update = function(year) {
             .domain([0, max])
             .range(["white", "darkred"]);
 
-        var projection = d3.geoAlbersUsa()
-            .translate([self.svgWidth / 2, self.svgHeight / 2])    // translate to center of screen
-            .scale([500]);          // scale things down so see entire US
-
         //Use this tool tip element to handle any hover over the chart
-        tip = d3.tip().attr('class', 'd3-tip')
+        var tip = d3.tip().attr('class', 'd3-tip')
             .direction('se')
             .offset(function() {
                 return [0,0];
@@ -101,42 +113,53 @@ MapChart.prototype.update = function(year) {
                 return htmlContent;
             });
 
-        var path = d3.geoPath()
-            .projection(projection);
-
         function filterByYear(obj) {
             return (obj['year'] == year );
         }
 
         var thisYearData = cumulativeData.filter(filterByYear);
 
-        d3.json("data/us-states.json", function (error, usMap) {
-            if (error) throw error;
-            var map = d3.select("#map")
-                .selectAll("path")
-                .data(usMap.features)
-                .enter()
-                .append("path")
-                .attr("d", path)
-                .attr('fill', function (d) {
-                    function findState(yearData) {
-                        return yearData.state == d.id;
-                    }
-                    var state=thisYearData.find(findState);
-                    return (colorScale(state.totalRate));
+        var map = d3.select("#map")
+            .selectAll("path")
+            .attr('fill', function (d) {
+                function findState(yearData) {
+                    return yearData.state == d.id;
+                }
+                var state=thisYearData.find(findState);
+                return (colorScale(state.totalRate));
 
-                })
-                .attr("id", function (d) {
-                    return d.id;
-                });
+            });
 
-            map.call(tip);
-            map.on("mouseover", tip.show)
-                .on("mouseout",tip.hide);
+        map.call(tip);
+        map.on("mouseover", function (d) {
+            tip.show(d);
+            d3.select(this)
+                .classed("highlighted",true);
+        })
+            .on("mouseout",function(d){
+                tip.hide(d);
+                d3.select(this)
+                    .classed("highlighted",false);
+            });
 
+
+        map.on('click', function (d) {
+            if (d3.select(this).classed("selected")) {
+                d3.select(this)
+                    .classed("selected",false);
+                //updateCharts();
+                //clearRectChart();
+            } else {
+                map.classed("selected",false);
+                d3.select(this)
+                    .classed("selected",true);
+                //updateCharts(d.id);
+                //rectChart(d.id);
+            }
         });
 
+
     });
-    
+
 
 };
