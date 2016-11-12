@@ -9,11 +9,12 @@ function TypeChart() {
  */
 TypeChart.prototype.init = function(){
     var self = this;
-    self.margin = {top: 100, right: 20, bottom: 20, left: 100};
+    self.margin = {top: 200, right: 20, bottom: 20, left: 200};
     var ratioChart = d3.select("#rect-chart");
+	$("#uni-svg").remove();
 
-	var width = 0.80 * window.innerWidth;
-    var height = 0.80 * window.innerWidth;
+	var width = 0.50 * window.innerWidth;
+    var height = 0.50 * window.innerWidth;
 
     var ratioChart = d3.select("#rect-chart")
         .style('width', width + 'px')
@@ -33,9 +34,8 @@ TypeChart.prototype.init = function(){
 		.attr('id','uni-svg')
 };
 
-TypeChart.prototype.update = function(state,year){
+TypeChart.prototype.update = function(state){
     var self = this;
-	  
 	var svg = d3.select("#rect-chart").select('svg');
 	
 	var ratioChartScale = d3.scaleLinear()
@@ -43,10 +43,10 @@ TypeChart.prototype.update = function(state,year){
 		.range([100,  self.svgWidth - 50]);
 		
 	typeNames = [
-		{'name': 'Disciplinary Actions', 'x': 0.85, 'y': 1.03},
-		{'name': 'Hate Crimes', 'x': 0.9, 'y': -0.05},
-		{'name': 'VAWA Offenses', 'x':-0.05, 'y': 1.03},
-		{'name': 'Criminal offenses', 'x':-0.05, 'y':-0.05}
+		{'name': 'Disciplinary Actions', 'x': 0.93, 'y': 1.05},
+		{'name': 'Hate Crimes', 'x': 0.93, 'y': -0.07},
+		{'name': 'VAWA Offenses', 'x':-0.07, 'y': 1.05},
+		{'name': 'Criminal offenses', 'x':-0.07, 'y':-0.07}
 	]
 	texts = svg.selectAll('text')
 		.data(typeNames)

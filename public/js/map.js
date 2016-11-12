@@ -19,7 +19,7 @@ function MapChart() {
 MapChart.prototype.init = function(){
 
     var self = this;
-    self.margin = {top: 0, right: 0, bottom: 0, left: 0};
+    self.margin = {top: 0, right: 0, bottom: 100, left: 0};
 
     var width = 0.50 * window.innerWidth;
     var height = 0.50 * window.innerHeight;
@@ -155,6 +155,8 @@ MapChart.prototype.update = function(year) {
                     .classed("selected",true);
                 //updateCharts(d.id);
                 //rectChart(d.id);
+				var typeChart = new TypeChart();
+				typeChart.update(d.id)
             }
         });
 
