@@ -22,9 +22,9 @@
 		
         //var year = 2001;
         //Creating the map
-        //var mapChart = new MapChart(lineChart, rectChart);
-        //var mapChart = new MapChart();
-       // mapChart.update(year);
+        var mapChart = new MapChart(lineChart, rectChart);
+        var mapChart = new MapChart();
+        mapChart.update(year);
 		
 		var typeChart = new TypeChart();
 		typeChart.update('CA',2010)
