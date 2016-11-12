@@ -27,7 +27,6 @@ h2{
     fill: yellow;
 }
 
-<<<<<<< HEAD
 .uniCircle{
     fill: #8B0000;
 }
@@ -46,11 +45,10 @@ h2{
     /*stroke: #e5e5e5;*/
 }
 
-=======
 .selected {
     fill: lightblue;
 }
->>>>>>> origin/master
+
 .d3-tip {
      position: absolute;
      text-align: left;
@@ -90,10 +88,6 @@ h2{
     text-align:left;
 }
 
-<<<<<<< HEAD
-
-
-=======
 .timeline-wrapper {
     font-size: 12px;
     color: black;
@@ -103,4 +97,3 @@ h2{
 #yearSlider {
     padding: 0 8px;
 }
->>>>>>> origin/master
