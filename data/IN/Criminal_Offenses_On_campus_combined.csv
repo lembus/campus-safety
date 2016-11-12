@@ -1,0 +1,137 @@
+Survey year,Unitid,Institution name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2001,150136,Ball State University,18965,0,0,5,0,0,0,0,0,0,0,39,6,6
+2002,150136,Ball State University,19411,0,0,0,0,0,0,0,0,3,0,37,4,2
+2003,150136,Ball State University,20490,0,0,4,0,0,0,0,0,0,2,39,3,2
+2004,150136,Ball State University,20507,0,0,5,0,0,0,0,0,3,2,31,2,0
+2005,150136,Ball State University,20351,0,0,1,0,0,0,0,0,1,1,28,0,0
+2006,150136,Ball State University,20030,0,0,11,0,0,0,0,0,1,2,58,1,0
+2007,150136,Ball State University,19849,0,0,4,0,0,0,0,0,1,1,33,2,0
+2008,150136,Ball State University,20243,0,0,1,0,0,0,0,0,1,0,17,3,0
+2009,150136,Ball State University,21401,0,0,1,0,0,0,0,0,4,1,16,1,0
+2010,150136,Ball State University,22083,0,0,3,0,0,0,0,0,4,0,18,6,1
+2011,150136,Ball State University,22147,0,0,8,0,0,0,0,0,1,0,31,0,0
+2012,150136,Ball State University,21053,0,0,8,0,0,0,0,0,0,4,9,0,4
+2013,150136,Ball State University,20503,0,0,17,0,0,0,0,0,2,3,13,2,0
+2014,150136,Ball State University,20655,0,0,0,14,5,0,0,0,0,3,10,0,0
+2001,151102,Indiana University-Purdue University-Fort Wayne,11128,0,0,0,0,0,0,0,0,0,0,4,1,0
+2002,151102,Indiana University-Purdue University-Fort Wayne,11755,0,0,0,0,0,0,0,0,0,0,1,1,0
+2003,151102,Indiana University-Purdue University-Fort Wayne,11806,0,0,0,0,0,0,0,0,0,0,3,2,0
+2004,151102,Indiana University-Purdue University-Fort Wayne,11810,0,0,0,0,0,0,0,0,0,0,5,2,0
+2005,151102,Indiana University-Purdue University-Fort Wayne,11795,0,0,0,0,0,0,0,0,0,1,5,2,0
+2006,151102,Indiana University-Purdue University-Fort Wayne,11672,0,0,0,0,0,0,0,0,0,0,19,0,0
+2007,151102,Indiana University-Purdue University-Fort Wayne,11943,0,0,1,0,0,0,0,0,0,1,11,1,0
+2008,151102,Indiana University-Purdue University-Fort Wayne,12338,1,0,1,0,0,0,0,0,0,0,15,1,0
+2009,151102,Indiana University-Purdue University-Fort Wayne,13675,0,0,2,0,0,0,0,0,0,0,15,1,0
+2010,151102,Indiana University-Purdue University-Fort Wayne,14192,0,0,7,0,0,0,0,0,0,2,4,1,0
+2011,151102,Indiana University-Purdue University-Fort Wayne,14326,0,0,4,0,0,0,0,0,0,0,3,0,0
+2012,151102,Indiana University-Purdue University-Fort Wayne,13771,0,0,0,0,0,1,0,0,0,0,4,0,0
+2013,151102,Indiana University-Purdue University-Fort Wayne,13459,0,0,4,0,0,0,0,0,1,0,5,1,0
+2014,151102,Indiana University-Purdue University-Fort Wayne,13214,0,0,0,0,1,0,0,0,0,0,3,0,0
+2001,151111,Indiana University-Purdue University-Indianapolis,28339,0,0,1,0,0,0,0,0,4,1,10,5,0
+2002,151111,Indiana University-Purdue University-Indianapolis,29025,0,0,1,0,0,0,0,0,4,0,10,9,0
+2003,151111,Indiana University-Purdue University-Indianapolis,29860,0,0,0,0,0,0,0,0,0,2,6,19,0
+2004,151111,Indiana University-Purdue University-Indianapolis,29953,0,0,0,0,0,0,0,0,1,0,173,10,1
+2005,151111,Indiana University-Purdue University-Indianapolis,29933,0,0,4,0,0,0,0,0,5,0,99,6,0
+2006,151111,Indiana University-Purdue University-Indianapolis,29764,0,0,1,0,0,0,0,0,1,2,73,24,0
+2007,151111,Indiana University-Purdue University-Indianapolis,29854,0,0,1,0,0,0,0,0,0,6,93,11,0
+2008,151111,Indiana University-Purdue University-Indianapolis,30300,0,0,1,0,0,0,0,0,3,2,67,17,1
+2009,151111,Indiana University-Purdue University-Indianapolis,30383,0,0,1,0,0,0,0,0,3,4,60,13,1
+2010,151111,Indiana University-Purdue University-Indianapolis,30566,0,0,2,0,0,0,0,0,2,1,40,9,0
+2011,151111,Indiana University-Purdue University-Indianapolis,30530,0,0,2,0,0,0,0,0,3,7,51,10,1
+2012,151111,Indiana University-Purdue University-Indianapolis,30451,1,0,62,0,0,1,0,0,10,29,213,32,11
+2013,151111,Indiana University-Purdue University-Indianapolis,30488,0,0,68,0,0,1,0,0,10,20,169,32,7
+2014,151111,Indiana University-Purdue University-Indianapolis,30690,1,0,0,53,29,0,0,0,12,23,137,35,3
+2001,151324,Indiana State University,11321,0,0,5,0,0,0,0,0,0,2,55,5,1
+2002,151324,Indiana State University,11714,0,0,6,0,0,0,0,0,0,2,47,4,1
+2003,151324,Indiana State University,11360,0,0,7,0,0,0,0,0,2,1,65,7,0
+2004,151324,Indiana State University,11200,0,0,3,0,0,0,0,0,0,1,57,6,1
+2005,151324,Indiana State University,10679,0,0,1,0,0,0,0,0,0,1,62,4,1
+2006,151324,Indiana State University,10568,0,0,3,0,0,0,0,0,1,0,50,4,0
+2007,151324,Indiana State University,10543,0,0,3,0,0,0,0,0,0,1,44,1,0
+2008,151324,Indiana State University,10457,0,0,7,0,0,0,0,0,2,1,49,0,1
+2009,151324,Indiana State University,10534,0,0,1,0,0,0,0,0,1,6,22,0,0
+2010,151324,Indiana State University,11494,0,0,2,0,0,0,0,0,0,3,16,2,0
+2011,151324,Indiana State University,11528,0,0,0,0,0,0,0,0,1,1,28,1,0
+2012,151324,Indiana State University,12114,1,0,10,0,0,0,0,0,0,5,17,1,1
+2013,151324,Indiana State University,12448,0,0,6,0,0,0,0,0,3,4,23,3,0
+2014,151324,Indiana State University,13183,0,0,0,3,3,0,0,0,2,9,17,0,0
+2001,151351,Indiana University-Bloomington,37963,0,0,10,0,0,0,0,0,5,0,68,5,1
+2002,151351,Indiana University-Bloomington,38903,0,0,17,0,0,0,0,0,3,3,53,5,1
+2003,151351,Indiana University-Bloomington,38589,0,0,6,0,0,0,0,0,1,5,49,1,0
+2004,151351,Indiana University-Bloomington,37821,0,0,3,0,0,0,0,0,4,0,56,0,1
+2005,151351,Indiana University-Bloomington,37958,0,0,15,0,0,0,0,0,1,1,33,0,0
+2006,151351,Indiana University-Bloomington,38247,0,0,9,0,0,0,0,0,1,6,52,6,0
+2007,151351,Indiana University-Bloomington,38990,0,0,8,0,0,0,0,0,5,9,75,13,0
+2008,151351,Indiana University-Bloomington,40354,0,0,5,0,0,0,0,0,2,0,48,9,1
+2009,151351,Indiana University-Bloomington,42347,0,0,21,0,0,0,0,0,1,2,31,10,0
+2010,151351,Indiana University-Bloomington,42464,0,0,16,0,0,1,0,0,4,7,52,7,2
+2011,151351,Indiana University-Bloomington,42731,0,0,11,0,0,0,0,0,3,12,89,18,3
+2012,151351,Indiana University-Bloomington,42133,0,0,27,0,0,0,0,0,2,6,71,14,1
+2013,151351,Indiana University-Bloomington,46817,0,0,15,0,0,0,0,0,0,9,57,11,2
+2014,151351,Indiana University-Bloomington,46416,0,0,0,13,6,0,0,0,6,9,16,9,0
+2001,151801,Indiana Wesleyan University,7929,0,0,0,0,0,0,0,0,0,0,2,0,0
+2002,151801,Indiana Wesleyan University,8765,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,151801,Indiana Wesleyan University,10149,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,151801,Indiana Wesleyan University,11412,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,151801,Indiana Wesleyan University,12632,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,151801,Indiana Wesleyan University,13917,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,151801,Indiana Wesleyan University,14756,0,0,0,0,0,0,0,0,0,0,12,1,0
+2008,151801,Indiana Wesleyan University,15442,0,0,0,0,0,0,0,0,0,0,12,0,0
+2009,151801,Indiana Wesleyan University,15345,0,0,0,0,0,0,0,0,0,0,1,0,0
+2010,151801,Indiana Wesleyan University,15953,0,0,1,0,0,0,0,0,0,0,1,0,0
+2011,151801,Indiana Wesleyan University,15872,0,0,0,0,0,0,0,0,0,0,6,0,1
+2012,151801,Indiana Wesleyan University,15580,0,0,0,0,0,0,0,0,0,0,1,0,0
+2013,151801,Indiana Wesleyan University,14959,0,0,1,0,0,0,0,0,0,0,2,1,0
+2014,151801,Indiana Wesleyan University,14943,0,0,0,0,0,0,0,0,0,0,5,1,0
+2001,152080,University of Notre Dame,11054,0,0,3,0,0,0,0,0,0,0,44,20,0
+2002,152080,University of Notre Dame,11311,0,0,2,0,0,0,0,0,4,0,43,8,2
+2003,152080,University of Notre Dame,11415,0,0,1,0,0,0,0,0,0,1,49,4,1
+2004,152080,University of Notre Dame,11479,0,0,2,0,0,0,0,0,0,1,62,3,1
+2005,152080,University of Notre Dame,11417,0,0,1,0,0,0,0,0,3,0,87,6,1
+2006,152080,University of Notre Dame,11603,0,0,5,0,0,0,0,0,2,1,51,2,2
+2007,152080,University of Notre Dame,11733,0,0,7,0,0,0,0,0,0,2,37,5,0
+2008,152080,University of Notre Dame,11731,0,0,9,0,0,0,0,0,0,1,52,5,1
+2009,152080,University of Notre Dame,11816,0,0,2,0,0,0,0,0,0,2,49,4,1
+2010,152080,University of Notre Dame,11992,0,0,7,0,0,0,0,0,0,0,59,4,1
+2011,152080,University of Notre Dame,12004,0,0,8,0,0,0,0,0,1,5,43,5,1
+2012,152080,University of Notre Dame,12126,0,0,7,0,0,0,0,0,2,1,35,6,0
+2013,152080,University of Notre Dame,12124,0,0,16,0,0,0,0,0,0,1,13,10,0
+2014,152080,University of Notre Dame,12179,0,0,0,15,4,0,0,0,0,1,15,14,0
+2001,152637,Vincennes University,18285,0,0,3,0,0,0,0,0,0,0,41,2,2
+2002,152637,Vincennes University,8565,0,0,1,0,0,0,0,0,0,0,43,5,0
+2003,152637,Vincennes University,8183,0,0,10,0,0,0,0,0,1,0,28,3,0
+2004,152637,Vincennes University,8824,0,0,8,0,0,0,0,0,1,0,22,2,1
+2005,152637,Vincennes University,9672,0,0,6,0,0,0,0,0,1,0,2,2,0
+2006,152637,Vincennes University,9769,0,0,3,0,0,0,0,0,1,0,17,4,0
+2007,152637,Vincennes University,10750,0,0,1,0,0,0,0,0,0,0,3,3,0
+2008,152637,Vincennes University,11590,0,0,11,0,0,0,0,0,2,0,22,0,0
+2009,152637,Vincennes University,13947,0,0,5,0,0,0,0,0,0,1,17,1,0
+2010,152637,Vincennes University,16595,0,0,3,0,0,0,0,0,3,0,13,0,0
+2011,152637,Vincennes University,17140,0,0,4,0,0,0,0,0,3,2,23,0,0
+2012,152637,Vincennes University,17530,0,0,3,0,0,0,0,0,4,1,24,0,1
+2013,152637,Vincennes University,18383,0,0,3,0,0,0,0,0,2,1,18,2,0
+2014,152637,Vincennes University,19205,0,0,0,8,5,0,0,0,4,0,10,0,0
+2001,243780,Purdue University-Main Campus,39882,2,0,10,0,0,0,0,0,1,0,16,2,3
+2002,243780,Purdue University-Main Campus,40117,0,0,13,0,0,0,0,0,1,1,25,12,1
+2003,243780,Purdue University-Main Campus,40376,0,0,6,0,0,0,0,0,5,1,28,6,0
+2004,243780,Purdue University-Main Campus,40108,0,0,5,0,0,0,0,0,1,2,27,7,1
+2005,243780,Purdue University-Main Campus,40151,0,0,4,0,0,0,0,0,0,3,13,5,0
+2006,243780,Purdue University-Main Campus,40609,0,0,4,0,0,0,0,0,2,8,39,2,0
+2007,243780,Purdue University-Main Campus,40534,0,0,9,0,0,0,0,0,2,1,72,4,0
+2008,243780,Purdue University-Main Campus,41433,0,0,1,0,0,0,0,0,2,1,49,9,3
+2009,243780,Purdue University-Main Campus,41052,0,0,7,0,0,0,0,0,4,3,32,4,1
+2010,243780,Purdue University-Main Campus,41063,0,0,5,0,0,0,0,0,1,4,41,2,0
+2011,243780,Purdue University-Main Campus,40849,0,0,7,0,0,0,0,0,1,2,49,4,2
+2012,243780,Purdue University-Main Campus,40393,0,0,4,0,0,0,0,0,6,8,37,4,4
+2013,243780,Purdue University-Main Campus,39794,0,0,5,0,0,0,0,0,1,2,21,0,2
+2014,243780,Purdue University-Main Campus,39752,1,0,0,13,12,0,0,0,1,0,28,4,2
+2012,260901,Kaplan University-Davenport Campus,48865,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,260901,Kaplan University-Davenport Campus,52407,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,260901,Kaplan University-Davenport Campus,52018,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0,0,0,0,0,0,0,0,0

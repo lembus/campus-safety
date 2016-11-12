@@ -1,0 +1,102 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,162928,Johns Hopkins University,17826,44,311,0,10,365
+2002,162928,Johns Hopkins University,17989,25,296,0,10,331
+2003,162928,Johns Hopkins University,18820,24,543,0,10,577
+2004,162928,Johns Hopkins University,18626,16,713,0,10,739
+2005,162928,Johns Hopkins University,19225,17,282,0,10,309
+2006,162928,Johns Hopkins University,19708,8,370,0,10,388
+2007,162928,Johns Hopkins University,19682,9,378,0,10,397
+2008,162928,Johns Hopkins University,19758,5,264,0,10,279
+2009,162928,Johns Hopkins University,20383,1,277,0,10,288
+2010,162928,Johns Hopkins University,20977,5,257,0,10,272
+2011,162928,Johns Hopkins University,20996,4,320,0,10,334
+2012,162928,Johns Hopkins University,20871,12,286,0,10,308
+2013,162928,Johns Hopkins University,20918,11,310,0,10,331
+2014,162928,Johns Hopkins University,21372,24,808,2,10,844
+2001,163204,University of Maryland-University College,22233,2,0,0,2,4
+2002,163204,University of Maryland-University College,24030,2,1,0,2,5
+2003,163204,University of Maryland-University College,25857,2,0,0,2,4
+2004,163204,University of Maryland-University College,28374,3,0,1,2,6
+2005,163204,University of Maryland-University College,27429,2,0,0,2,4
+2006,163204,University of Maryland-University College,33096,5,0,0,2,7
+2007,163204,University of Maryland-University College,32540,4,1,0,2,7
+2008,163204,University of Maryland-University College,34172,3,0,0,2,5
+2009,163204,University of Maryland-University College,37347,0,0,0,2,2
+2010,163204,University of Maryland-University College,39577,2,0,0,2,4
+2011,163204,University of Maryland-University College,42713,1,0,0,2,3
+2012,163204,University of Maryland-University College,42268,4,0,0,2,6
+2013,163204,University of Maryland-University College,39557,3,0,0,2,5
+2014,163204,University of Maryland-University College,47906,1,0,0,2,3
+2001,163268,University of Maryland-Baltimore County,11237,27,145,0,6,178
+2002,163268,University of Maryland-Baltimore County,11711,28,177,0,6,211
+2003,163268,University of Maryland-Baltimore County,11872,31,219,0,6,256
+2004,163268,University of Maryland-Baltimore County,11852,18,320,0,6,344
+2005,163268,University of Maryland-Baltimore County,11650,21,318,0,6,345
+2006,163268,University of Maryland-Baltimore County,11798,23,324,0,6,353
+2007,163268,University of Maryland-Baltimore County,12041,36,257,0,6,299
+2008,163268,University of Maryland-Baltimore County,12268,28,242,0,6,276
+2009,163268,University of Maryland-Baltimore County,12870,15,220,0,6,241
+2010,163268,University of Maryland-Baltimore County,12888,11,173,2,6,192
+2011,163268,University of Maryland-Baltimore County,13199,20,213,2,6,241
+2012,163268,University of Maryland-Baltimore County,13637,14,184,6,6,210
+2013,163268,University of Maryland-Baltimore County,13908,15,184,4,6,209
+2014,163268,University of Maryland-Baltimore County,13979,16,204,0,6,226
+2001,163286,University of Maryland-College Park,34160,270,969,1,24,1264
+2002,163286,University of Maryland-College Park,34801,253,1367,0,24,1644
+2003,163286,University of Maryland-College Park,35329,266,1118,1,24,1409
+2004,163286,University of Maryland-College Park,34933,212,1122,1,24,1359
+2005,163286,University of Maryland-College Park,35369,194,1480,1,24,1699
+2006,163286,University of Maryland-College Park,35102,315,963,0,24,1302
+2007,163286,University of Maryland-College Park,36014,167,1073,1,24,1265
+2008,163286,University of Maryland-College Park,37000,219,1086,0,24,1329
+2009,163286,University of Maryland-College Park,37195,146,1063,10,24,1243
+2010,163286,University of Maryland-College Park,37641,154,1271,20,24,1469
+2011,163286,University of Maryland-College Park,37631,114,1318,6,24,1462
+2012,163286,University of Maryland-College Park,37248,87,976,14,24,1101
+2013,163286,University of Maryland-College Park,37272,95,782,8,24,909
+2014,163286,University of Maryland-College Park,37610,142,899,6,24,1071
+2001,164076,Towson University,16980,87,298,0,10,395
+2002,164076,Towson University,17481,82,366,0,10,458
+2003,164076,Towson University,17188,57,191,0,10,258
+2004,164076,Towson University,17667,40,364,0,10,414
+2005,164076,Towson University,18011,40,344,1,10,395
+2006,164076,Towson University,18921,61,345,0,10,416
+2007,164076,Towson University,19758,73,392,0,10,475
+2008,164076,Towson University,21111,49,421,0,10,480
+2009,164076,Towson University,21177,30,398,24,10,462
+2010,164076,Towson University,21840,27,276,22,10,335
+2011,164076,Towson University,21464,23,393,16,10,442
+2012,164076,Towson University,21960,17,355,10,10,392
+2013,164076,Towson University,22499,12,338,8,10,368
+2014,164076,Towson University,22285,16,329,0,10,355
+2014,169248,Central Michigan University,26879,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2012,241739,Universidad Metropolitana,13616,0,0,0,0,0
+2013,241739,Universidad Metropolitana,13631,0,0,0,0,0
+2014,241739,Universidad Metropolitana,13773,0,0,0,0,0
+2012,243346,Universidad Del Este,13630,0,0,0,0,0
+2013,243346,Universidad Del Este,13420,0,0,0,0,0
+2014,243346,Universidad Del Este,13331,0,0,0,0,0
+2012,243601,Universidad Del Turabo,17040,0,0,0,0,0
+2013,243601,Universidad Del Turabo,17287,0,0,0,0,0
+2014,243601,Universidad Del Turabo,17325,0,0,0,0,0
+2012,260901,Kaplan University-Davenport Campus,48865,0,0,0,0,0
+2013,260901,Kaplan University-Davenport Campus,52407,0,0,0,0,0
+2014,260901,Kaplan University-Davenport Campus,52018,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

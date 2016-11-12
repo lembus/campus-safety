@@ -1,0 +1,133 @@
+Survey year,Unitid,Institution name,Institution Size,Illegal weapons possession,Drug law violations,Liquor law violations
+2007,151801,Indiana Wesleyan University,14756,0,0,0
+2008,151801,Indiana Wesleyan University,15442,0,0,0
+2009,151801,Indiana Wesleyan University,15345,0,0,0
+2010,151801,Indiana Wesleyan University,15953,0,0,0
+2011,151801,Indiana Wesleyan University,15872,0,0,0
+2012,151801,Indiana Wesleyan University,15580,0,0,0
+2013,151801,Indiana Wesleyan University,14959,0,0,0
+2014,151801,Indiana Wesleyan University,14943,0,0,0
+2001,156620,Eastern Kentucky University,14945,0,0,148
+2002,156620,Eastern Kentucky University,14695,0,2,250
+2003,156620,Eastern Kentucky University,15951,0,0,245
+2004,156620,Eastern Kentucky University,16183,0,0,122
+2005,156620,Eastern Kentucky University,16219,0,0,279
+2006,156620,Eastern Kentucky University,15763,0,0,319
+2007,156620,Eastern Kentucky University,15839,0,0,511
+2008,156620,Eastern Kentucky University,16031,0,0,511
+2009,156620,Eastern Kentucky University,16268,0,0,218
+2010,156620,Eastern Kentucky University,16567,0,0,279
+2011,156620,Eastern Kentucky University,16062,0,0,220
+2012,156620,Eastern Kentucky University,15968,0,0,239
+2013,156620,Eastern Kentucky University,16111,0,1,309
+2014,156620,Eastern Kentucky University,16305,0,9,423
+2001,157085,University of Kentucky,23901,1,73,386
+2002,157085,University of Kentucky,24985,0,66,115
+2003,157085,University of Kentucky,25397,7,83,123
+2004,157085,University of Kentucky,25686,0,59,0
+2005,157085,University of Kentucky,25672,3,35,0
+2006,157085,University of Kentucky,26382,3,0,0
+2007,157085,University of Kentucky,25856,1,2,0
+2008,157085,University of Kentucky,26054,2,20,2
+2009,157085,University of Kentucky,26295,2,75,70
+2010,157085,University of Kentucky,27108,0,55,246
+2011,157085,University of Kentucky,27226,3,74,396
+2012,157085,University of Kentucky,28034,0,40,276
+2013,157085,University of Kentucky,28435,0,29,381
+2014,157085,University of Kentucky,29203,1,71,731
+2001,157289,University of Louisville,19682,0,3,13
+2002,157289,University of Louisville,20416,0,3,3
+2003,157289,University of Louisville,20605,1,3,3
+2004,157289,University of Louisville,20729,2,1,4
+2005,157289,University of Louisville,20726,0,0,0
+2006,157289,University of Louisville,20785,0,10,72
+2007,157289,University of Louisville,20592,4,0,18
+2008,157289,University of Louisville,20834,5,9,16
+2009,157289,University of Louisville,21016,2,18,24
+2010,157289,University of Louisville,21234,4,15,16
+2011,157289,University of Louisville,21152,10,28,132
+2012,157289,University of Louisville,21239,9,31,131
+2013,157289,University of Louisville,21444,0,26,130
+2014,157289,University of Louisville,21561,0,38,189
+2001,157386,Morehead State University,9008,0,39,20
+2002,157386,Morehead State University,9378,0,17,47
+2003,157386,Morehead State University,9492,0,5,5
+2004,157386,Morehead State University,9278,0,17,7
+2005,157386,Morehead State University,9003,0,3,6
+2006,157386,Morehead State University,8958,0,2,4
+2007,157386,Morehead State University,8897,1,6,14
+2008,157386,Morehead State University,8832,0,2,23
+2009,157386,Morehead State University,8822,0,1,0
+2010,157386,Morehead State University,8541,0,0,0
+2011,157386,Morehead State University,10968,0,0,0
+2012,157386,Morehead State University,11169,0,0,0
+2013,157386,Morehead State University,11358,0,0,0
+2014,157386,Morehead State University,11052,0,7,132
+2001,157401,Murray State University,9635,0,3,17
+2002,157401,Murray State University,9915,0,2,32
+2003,157401,Murray State University,10093,0,0,22
+2004,157401,Murray State University,10120,0,10,4
+2005,157401,Murray State University,10266,0,2,1
+2006,157401,Murray State University,10298,0,1,2
+2007,157401,Murray State University,10778,0,1,6
+2008,157401,Murray State University,10014,0,0,2
+2009,157401,Murray State University,10071,0,0,3
+2010,157401,Murray State University,10412,0,0,6
+2011,157401,Murray State University,10623,0,4,7
+2012,157401,Murray State University,10832,0,7,31
+2013,157401,Murray State University,10943,1,12,70
+2014,157401,Murray State University,11207,0,9,67
+2001,157447,Northern Kentucky University,12530,0,13,40
+2002,157447,Northern Kentucky University,13715,0,18,71
+2003,157447,Northern Kentucky University,13910,0,10,46
+2004,157447,Northern Kentucky University,13903,0,0,103
+2005,157447,Northern Kentucky University,14004,0,6,60
+2006,157447,Northern Kentucky University,14617,0,4,40
+2007,157447,Northern Kentucky University,14785,0,1,6
+2008,157447,Northern Kentucky University,15082,0,0,14
+2009,157447,Northern Kentucky University,15378,1,2,15
+2010,157447,Northern Kentucky University,15716,0,2,16
+2011,157447,Northern Kentucky University,15724,0,7,15
+2012,157447,Northern Kentucky University,15634,0,2,13
+2013,157447,Northern Kentucky University,15263,0,5,11
+2014,157447,Northern Kentucky University,15090,0,5,19
+2001,157951,Western Kentucky University,16552,9,45,156
+2002,157951,Western Kentucky University,17811,3,42,126
+2003,157951,Western Kentucky University,18380,2,11,47
+2004,157951,Western Kentucky University,18485,2,15,143
+2005,157951,Western Kentucky University,18634,5,21,213
+2006,157951,Western Kentucky University,18660,4,14,130
+2007,157951,Western Kentucky University,19258,0,24,57
+2008,157951,Western Kentucky University,19742,5,26,109
+2009,157951,Western Kentucky University,20712,3,16,135
+2010,157951,Western Kentucky University,20897,5,60,221
+2011,157951,Western Kentucky University,21036,4,51,318
+2012,157951,Western Kentucky University,21110,5,116,357
+2013,157951,Western Kentucky University,20448,5,79,284
+2014,157951,Western Kentucky University,20171,3,72,247
+2001,179894,Webster University,15402,0,0,0
+2002,179894,Webster University,17249,0,0,0
+2003,179894,Webster University,18740,0,0,0
+2004,179894,Webster University,19038,0,0,0
+2005,179894,Webster University,18407,0,0,0
+2006,179894,Webster University,18963,0,0,0
+2007,179894,Webster University,19398,0,0,0
+2008,179894,Webster University,19154,0,0,0
+2009,179894,Webster University,19372,0,0,0
+2010,179894,Webster University,19342,0,0,0
+2011,179894,Webster University,19224,0,0,0
+2012,179894,Webster University,18456,0,0,0
+2013,179894,Webster University,17904,0,0,0
+2014,179894,Webster University,16769,0,0,0
+2010,219602,Austin Peay State University,10723,0,0,0
+2011,219602,Austin Peay State University,10873,0,0,0
+2012,219602,Austin Peay State University,10597,0,0,0
+2013,219602,Austin Peay State University,10399,0,0,0
+2014,219602,Austin Peay State University,10111,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0

@@ -1,0 +1,102 @@
+Survey year,Unitid,Institution name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2011,137032,Saint Leo University,15564,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,137032,Saint Leo University,15986,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,137032,Saint Leo University,16275,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,137032,Saint Leo University,16349,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,177065,Columbia College,15556,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,177065,Columbia College,16962,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,177065,Columbia College,18091,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,177065,Columbia College,17830,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,177065,Columbia College,16946,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,177065,Columbia College,16567,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,179894,Webster University,15402,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,179894,Webster University,17249,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0,0,0,0,0,0,1,0,0
+2007,179894,Webster University,19398,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,217819,College of Charleston,11617,0,0,2,0,0,0,0,0,1,1,32,4,1
+2002,217819,College of Charleston,11716,0,0,1,0,0,0,0,0,0,4,40,2,0
+2003,217819,College of Charleston,11536,0,0,5,0,0,0,0,0,3,1,18,7,2
+2004,217819,College of Charleston,11607,0,0,5,0,0,0,0,0,0,2,19,5,0
+2005,217819,College of Charleston,11332,0,0,4,0,0,0,0,0,3,1,34,1,1
+2006,217819,College of Charleston,11218,0,0,4,0,0,0,0,0,2,2,33,2,1
+2007,217819,College of Charleston,11316,0,0,0,0,0,0,0,0,2,2,22,4,2
+2008,217819,College of Charleston,11367,0,0,3,0,0,0,0,0,0,4,16,1,0
+2009,217819,College of Charleston,11772,0,0,6,0,0,0,0,0,0,0,11,0,0
+2010,217819,College of Charleston,11532,0,0,6,0,0,0,0,0,0,2,4,1,0
+2011,217819,College of Charleston,11649,0,0,6,0,0,0,0,0,1,0,7,0,0
+2012,217819,College of Charleston,11723,0,0,10,0,0,0,0,0,0,1,1,2,1
+2013,217819,College of Charleston,11619,0,0,3,0,0,0,0,0,0,2,2,3,0
+2014,217819,College of Charleston,11456,0,0,0,9,4,0,0,0,0,0,1,3,0
+2001,217882,Clemson University,17101,0,0,5,0,0,0,0,0,1,2,23,18,0
+2002,217882,Clemson University,16876,0,0,3,0,0,0,0,0,2,2,38,13,0
+2003,217882,Clemson University,17016,0,0,1,0,0,0,0,0,2,0,26,11,0
+2004,217882,Clemson University,17110,0,0,2,0,0,0,0,0,1,5,36,9,0
+2005,217882,Clemson University,17165,0,0,2,0,0,1,0,0,0,2,30,20,0
+2006,217882,Clemson University,17309,0,0,1,0,0,0,0,0,2,1,36,14,1
+2007,217882,Clemson University,17585,0,0,4,0,0,0,0,0,1,8,35,13,1
+2008,217882,Clemson University,18317,0,0,0,0,0,0,0,0,2,4,33,3,2
+2009,217882,Clemson University,19111,0,0,2,0,0,0,0,0,1,2,66,13,1
+2010,217882,Clemson University,19453,0,0,2,0,0,0,0,0,0,3,45,21,1
+2011,217882,Clemson University,19914,0,0,4,0,0,0,0,0,1,3,26,13,0
+2012,217882,Clemson University,20768,0,0,2,0,0,0,0,0,0,2,29,5,0
+2013,217882,Clemson University,21303,0,0,2,0,0,0,0,0,2,3,21,12,1
+2014,217882,Clemson University,21857,0,0,0,4,5,0,0,0,0,2,6,39,2
+2001,218663,University of South Carolina-Columbia,23000,0,0,14,0,0,0,0,0,5,9,16,34,0
+2002,218663,University of South Carolina-Columbia,25140,0,0,16,0,0,0,0,0,4,7,13,20,2
+2003,218663,University of South Carolina-Columbia,25288,0,0,3,0,0,0,0,0,4,10,27,25,1
+2004,218663,University of South Carolina-Columbia,25596,0,0,14,0,0,0,0,0,5,19,22,16,1
+2005,218663,University of South Carolina-Columbia,27065,0,0,4,0,0,0,0,0,6,14,32,18,3
+2006,218663,University of South Carolina-Columbia,27390,0,0,7,0,0,0,0,0,6,9,47,12,0
+2007,218663,University of South Carolina-Columbia,27272,0,0,3,0,0,0,0,0,3,5,91,7,0
+2008,218663,University of South Carolina-Columbia,27488,0,0,2,0,0,0,0,0,4,6,99,17,0
+2009,218663,University of South Carolina-Columbia,28482,0,0,1,0,0,0,0,0,3,2,68,15,0
+2010,218663,University of South Carolina-Columbia,29599,0,0,2,0,0,0,0,0,2,7,87,26,0
+2011,218663,University of South Carolina-Columbia,30721,0,0,1,0,0,0,0,0,2,8,113,22,0
+2012,218663,University of South Carolina-Columbia,31288,0,0,2,0,0,0,0,0,2,1,32,35,3
+2013,218663,University of South Carolina-Columbia,31964,0,0,4,0,0,0,0,0,2,2,15,32,0
+2014,218663,University of South Carolina-Columbia,32971,0,0,0,1,0,0,0,0,3,2,16,60,0
+2001,248934,ECPI University,3132,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,248934,ECPI University,3297,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,248934,ECPI University,3346,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,248934,ECPI University,4759,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,248934,ECPI University,5301,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,248934,ECPI University,7016,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,248934,ECPI University,8122,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,248934,ECPI University,8543,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,248934,ECPI University,12194,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,248934,ECPI University,12764,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,248934,ECPI University,10762,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,248934,ECPI University,9840,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,248934,ECPI University,10845,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,248934,ECPI University,10932,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0,0,0,0,0,0,1,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0,0,0,0,0,0,0,0,0

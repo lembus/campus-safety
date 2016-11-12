@@ -1,0 +1,516 @@
+Survey year,Unitid,Institution name,Institution Size,Illegal weapons possession,Drug law violations,Liquor law violations
+2004,102368,Troy University,20855,0,0,0
+2005,102368,Troy University,26880,0,0,0
+2006,102368,Troy University,27938,0,0,0
+2007,102368,Troy University,28955,0,0,0
+2008,102368,Troy University,28303,0,0,0
+2009,102368,Troy University,29328,0,0,0
+2010,102368,Troy University,28322,0,0,0
+2011,102368,Troy University,26172,0,0,0
+2012,102368,Troy University,22554,0,0,0
+2013,102368,Troy University,20573,0,0,0
+2014,102368,Troy University,19041,0,0,0
+2001,132693,Eastern Florida State College,13680,0,4,1
+2002,132693,Eastern Florida State College,14297,0,0,0
+2003,132693,Eastern Florida State College,14806,0,0,0
+2004,132693,Eastern Florida State College,14616,0,0,0
+2005,132693,Eastern Florida State College,14039,0,0,0
+2006,132693,Eastern Florida State College,13670,0,0,0
+2007,132693,Eastern Florida State College,14496,0,0,0
+2008,132693,Eastern Florida State College,15607,0,0,0
+2009,132693,Eastern Florida State College,17853,1,0,0
+2010,132693,Eastern Florida State College,18096,0,0,0
+2011,132693,Eastern Florida State College,17917,1,0,1
+2012,132693,Eastern Florida State College,17202,1,0,0
+2013,132693,Eastern Florida State College,16711,0,0,2
+2014,132693,Eastern Florida State College,15931,0,0,0
+2001,132709,Broward College,29020,0,0,0
+2002,132709,Broward College,30496,0,0,0
+2003,132709,Broward College,32030,0,0,0
+2004,132709,Broward College,32948,0,0,0
+2005,132709,Broward College,31835,0,0,0
+2006,132709,Broward College,30607,0,0,0
+2007,132709,Broward College,31730,1,0,1
+2008,132709,Broward College,33448,0,0,0
+2009,132709,Broward College,37360,0,0,0
+2010,132709,Broward College,40375,0,0,0
+2011,132709,Broward College,42198,0,0,0
+2012,132709,Broward College,42309,0,0,0
+2013,132709,Broward College,43883,0,0,0
+2014,132709,Broward College,44119,0,0,0
+2001,132903,University of Central Florida,35850,0,12,13
+2002,132903,University of Central Florida,38501,0,23,64
+2003,132903,University of Central Florida,41535,0,73,156
+2004,132903,University of Central Florida,42465,0,39,105
+2005,132903,University of Central Florida,44856,0,68,244
+2006,132903,University of Central Florida,46646,0,40,108
+2007,132903,University of Central Florida,48398,0,5,45
+2008,132903,University of Central Florida,50121,1,42,57
+2009,132903,University of Central Florida,53401,3,70,239
+2010,132903,University of Central Florida,56106,6,89,294
+2011,132903,University of Central Florida,58465,1,73,138
+2012,132903,University of Central Florida,59601,0,76,111
+2013,132903,University of Central Florida,59589,0,102,102
+2014,132903,University of Central Florida,60767,1,166,233
+2001,133386,Daytona State College,11204,0,0,0
+2002,133386,Daytona State College,11656,0,0,0
+2003,133386,Daytona State College,12262,0,1,0
+2004,133386,Daytona State College,12083,0,0,0
+2005,133386,Daytona State College,11413,0,0,0
+2006,133386,Daytona State College,12064,0,0,0
+2007,133386,Daytona State College,13675,0,0,0
+2008,133386,Daytona State College,15030,0,0,0
+2009,133386,Daytona State College,17352,1,0,0
+2010,133386,Daytona State College,18497,0,1,0
+2011,133386,Daytona State College,16555,0,0,0
+2012,133386,Daytona State College,15184,1,0,0
+2013,133386,Daytona State College,14865,0,2,0
+2014,133386,Daytona State College,13248,1,0,0
+2001,133508,Florida SouthWestern State College,9057,0,0,0
+2002,133508,Florida SouthWestern State College,9740,0,0,0
+2003,133508,Florida SouthWestern State College,10341,0,0,0
+2004,133508,Florida SouthWestern State College,10116,0,0,0
+2005,133508,Florida SouthWestern State College,10653,0,0,0
+2006,133508,Florida SouthWestern State College,10474,0,0,0
+2007,133508,Florida SouthWestern State College,11369,0,0,0
+2008,133508,Florida SouthWestern State College,13007,0,0,0
+2009,133508,Florida SouthWestern State College,16034,0,1,1
+2010,133508,Florida SouthWestern State College,16951,0,0,0
+2011,133508,Florida SouthWestern State College,17107,0,1,0
+2012,133508,Florida SouthWestern State College,15731,0,10,8
+2013,133508,Florida SouthWestern State College,15423,0,18,7
+2014,133508,Florida SouthWestern State College,15389,0,24,17
+2001,133650,Florida Agricultural and Mechanical University,12316,0,6,0
+2002,133650,Florida Agricultural and Mechanical University,12464,1,12,1
+2003,133650,Florida Agricultural and Mechanical University,13013,0,16,4
+2004,133650,Florida Agricultural and Mechanical University,13067,1,19,1
+2005,133650,Florida Agricultural and Mechanical University,12154,2,16,0
+2006,133650,Florida Agricultural and Mechanical University,11907,1,18,3
+2007,133650,Florida Agricultural and Mechanical University,11562,3,17,1
+2008,133650,Florida Agricultural and Mechanical University,11857,7,19,0
+2009,133650,Florida Agricultural and Mechanical University,12274,0,24,0
+2010,133650,Florida Agricultural and Mechanical University,13284,0,21,0
+2011,133650,Florida Agricultural and Mechanical University,13204,0,34,0
+2012,133650,Florida Agricultural and Mechanical University,12057,1,58,5
+2013,133650,Florida Agricultural and Mechanical University,10743,3,23,6
+2014,133650,Florida Agricultural and Mechanical University,10241,3,43,2
+2001,133669,Florida Atlantic University,23345,0,13,10
+2002,133669,Florida Atlantic University,23705,0,23,8
+2003,133669,Florida Atlantic University,24932,3,11,18
+2004,133669,Florida Atlantic University,25319,1,33,71
+2005,133669,Florida Atlantic University,25645,0,38,117
+2006,133669,Florida Atlantic University,25325,4,38,205
+2007,133669,Florida Atlantic University,26193,0,27,84
+2008,133669,Florida Atlantic University,26839,4,36,75
+2009,133669,Florida Atlantic University,27637,0,23,147
+2010,133669,Florida Atlantic University,28270,1,22,148
+2011,133669,Florida Atlantic University,29246,1,76,454
+2012,133669,Florida Atlantic University,29994,1,64,203
+2013,133669,Florida Atlantic University,30759,0,63,245
+2014,133669,Florida Atlantic University,30297,0,81,392
+2001,133702,Florida State College at Jacksonville,22121,0,0,0
+2002,133702,Florida State College at Jacksonville,23611,0,0,0
+2003,133702,Florida State College at Jacksonville,25692,0,0,0
+2004,133702,Florida State College at Jacksonville,24769,0,0,0
+2005,133702,Florida State College at Jacksonville,23627,0,0,0
+2006,133702,Florida State College at Jacksonville,22732,2,7,0
+2007,133702,Florida State College at Jacksonville,24939,4,7,2
+2008,133702,Florida State College at Jacksonville,25903,1,7,0
+2009,133702,Florida State College at Jacksonville,28877,0,2,0
+2010,133702,Florida State College at Jacksonville,28642,0,1,0
+2011,133702,Florida State College at Jacksonville,30863,1,2,2
+2012,133702,Florida State College at Jacksonville,30053,0,0,0
+2013,133702,Florida State College at Jacksonville,28134,0,0,0
+2014,133702,Florida State College at Jacksonville,25514,0,1,0
+2001,133951,Florida International University,31727,1,8,5
+2002,133951,Florida International University,33349,5,8,12
+2003,133951,Florida International University,33228,1,18,1
+2004,133951,Florida International University,34865,8,12,6
+2005,133951,Florida International University,36904,0,2,0
+2006,133951,Florida International University,37997,0,0,0
+2007,133951,Florida International University,38182,1,2,4
+2008,133951,Florida International University,38759,25,15,31
+2009,133951,Florida International University,39610,5,14,28
+2010,133951,Florida International University,42197,0,11,76
+2011,133951,Florida International University,44616,1,24,126
+2012,133951,Florida International University,46171,3,53,188
+2013,133951,Florida International University,47663,3,13,75
+2014,133951,Florida International University,49610,0,144,136
+2001,134097,Florida State University,34982,0,12,151
+2002,134097,Florida State University,36210,1,9,89
+2003,134097,Florida State University,36884,5,5,183
+2004,134097,Florida State University,38431,4,29,262
+2005,134097,Florida State University,39146,7,20,260
+2006,134097,Florida State University,39973,1,14,243
+2007,134097,Florida State University,40555,2,12,126
+2008,134097,Florida State University,38682,1,3,188
+2009,134097,Florida State University,39785,0,0,204
+2010,134097,Florida State University,40416,0,2,214
+2011,134097,Florida State University,41087,0,5,214
+2012,134097,Florida State University,40695,0,10,195
+2013,134097,Florida State University,40909,1,17,142
+2014,134097,Florida State University,41226,1,6,270
+2001,134130,University of Florida,46515,0,4,115
+2002,134130,University of Florida,47373,0,10,229
+2003,134130,University of Florida,47858,0,72,188
+2004,134130,University of Florida,47993,0,9,339
+2005,134130,University of Florida,49693,0,7,272
+2006,134130,University of Florida,50912,1,34,273
+2007,134130,University of Florida,51725,1,45,245
+2008,134130,University of Florida,51474,0,85,185
+2009,134130,University of Florida,50691,0,25,119
+2010,134130,University of Florida,49827,0,19,214
+2011,134130,University of Florida,49589,0,9,195
+2012,134130,University of Florida,49913,0,28,259
+2013,134130,University of Florida,49878,0,24,191
+2014,134130,University of Florida,49459,1,34,262
+2001,134237,Full Sail University,2788,0,2,0
+2002,134237,Full Sail University,3676,0,0,0
+2003,134237,Full Sail University,4332,0,0,0
+2004,134237,Full Sail University,5034,0,0,0
+2005,134237,Full Sail University,4511,0,0,0
+2006,134237,Full Sail University,5295,0,0,0
+2007,134237,Full Sail University,6150,0,0,0
+2008,134237,Full Sail University,6979,0,0,0
+2009,134237,Full Sail University,7516,0,0,2
+2010,134237,Full Sail University,15695,0,1,0
+2011,134237,Full Sail University,20160,0,0,1
+2012,134237,Full Sail University,23497,0,0,0
+2013,134237,Full Sail University,20949,0,1,0
+2014,134237,Full Sail University,19285,0,2,2
+2001,134608,Indian River State College,14092,0,0,0
+2002,134608,Indian River State College,13044,0,0,0
+2003,134608,Indian River State College,14112,0,0,0
+2004,134608,Indian River State College,12912,0,0,0
+2005,134608,Indian River State College,13404,0,0,0
+2006,134608,Indian River State College,13270,0,0,0
+2007,134608,Indian River State College,14932,2,0,0
+2008,134608,Indian River State College,15366,0,0,0
+2009,134608,Indian River State College,17110,0,0,0
+2010,134608,Indian River State College,17511,0,0,0
+2011,134608,Indian River State College,17528,0,0,0
+2012,134608,Indian River State College,17816,0,0,0
+2013,134608,Indian River State College,17248,0,0,0
+2014,134608,Indian River State College,17665,0,0,0
+2001,135081,Keiser University-Ft Lauderdale,3166,0,0,0
+2002,135081,Keiser University-Ft Lauderdale,3603,0,0,0
+2003,135081,Keiser University-Ft Lauderdale,4673,0,0,0
+2004,135081,Keiser University-Ft Lauderdale,6121,0,0,0
+2005,135081,Keiser University-Ft Lauderdale,7371,0,0,0
+2006,135081,Keiser University-Ft Lauderdale,9639,0,0,0
+2007,135081,Keiser University-Ft Lauderdale,11548,0,0,0
+2008,135081,Keiser University-Ft Lauderdale,13392,0,0,0
+2009,135081,Keiser University-Ft Lauderdale,16882,0,0,0
+2010,135081,Keiser University-Ft Lauderdale,16968,0,3,0
+2011,135081,Keiser University-Ft Lauderdale,17042,1,2,0
+2012,135081,Keiser University-Ft Lauderdale,16713,0,0,0
+2013,135081,Keiser University-Ft Lauderdale,17129,0,0,1
+2014,135081,Keiser University-Ft Lauderdale,19110,0,0,0
+2001,135391,State College of Florida-Manatee-Sarasota,8369,0,1,0
+2002,135391,State College of Florida-Manatee-Sarasota,8325,0,0,2
+2003,135391,State College of Florida-Manatee-Sarasota,9172,0,4,0
+2004,135391,State College of Florida-Manatee-Sarasota,9582,0,5,1
+2005,135391,State College of Florida-Manatee-Sarasota,9767,0,0,0
+2006,135391,State College of Florida-Manatee-Sarasota,9080,0,0,0
+2007,135391,State College of Florida-Manatee-Sarasota,9869,0,0,0
+2008,135391,State College of Florida-Manatee-Sarasota,10838,0,0,0
+2009,135391,State College of Florida-Manatee-Sarasota,11746,0,0,0
+2010,135391,State College of Florida-Manatee-Sarasota,11431,0,0,0
+2011,135391,State College of Florida-Manatee-Sarasota,11349,0,2,1
+2012,135391,State College of Florida-Manatee-Sarasota,10765,1,3,8
+2013,135391,State College of Florida-Manatee-Sarasota,10533,0,3,9
+2014,135391,State College of Florida-Manatee-Sarasota,10314,0,3,5
+2001,135717,Miami Dade College,51717,0,0,0
+2002,135717,Miami Dade College,54926,0,0,0
+2003,135717,Miami Dade College,58490,0,0,0
+2004,135717,Miami Dade College,57026,0,0,0
+2005,135717,Miami Dade College,54169,0,0,0
+2006,135717,Miami Dade College,51329,1,0,0
+2007,135717,Miami Dade College,54094,0,0,0
+2008,135717,Miami Dade College,57222,0,0,0
+2009,135717,Miami Dade College,59120,0,1,0
+2010,135717,Miami Dade College,61674,1,0,0
+2011,135717,Miami Dade College,63736,0,0,0
+2012,135717,Miami Dade College,66701,0,0,0
+2013,135717,Miami Dade College,66298,3,10,1
+2014,135717,Miami Dade College,66046,2,11,0
+2001,135726,University of Miami,14436,2,19,137
+2002,135726,University of Miami,14978,3,20,234
+2003,135726,University of Miami,15235,2,33,218
+2004,135726,University of Miami,15250,0,24,277
+2005,135726,University of Miami,15674,3,21,296
+2006,135726,University of Miami,15670,7,42,326
+2007,135726,University of Miami,15449,2,47,317
+2008,135726,University of Miami,15323,2,65,371
+2009,135726,University of Miami,15629,1,122,695
+2010,135726,University of Miami,15657,0,153,427
+2011,135726,University of Miami,16068,0,147,196
+2012,135726,University of Miami,16172,0,84,306
+2013,135726,University of Miami,16935,0,142,413
+2014,135726,University of Miami,16674,0,114,277
+2001,136172,University of North Florida,12992,2,12,63
+2002,136172,University of North Florida,13470,2,7,25
+2003,136172,University of North Florida,13966,0,18,53
+2004,136172,University of North Florida,14533,1,14,104
+2005,136172,University of North Florida,15234,0,21,105
+2006,136172,University of North Florida,15954,0,12,177
+2007,136172,University of North Florida,16406,0,20,147
+2008,136172,University of North Florida,15280,0,90,153
+2009,136172,University of North Florida,16477,0,41,67
+2010,136172,University of North Florida,16153,0,17,104
+2011,136172,University of North Florida,16198,2,36,182
+2012,136172,University of North Florida,16201,0,103,92
+2013,136172,University of North Florida,16083,0,130,92
+2014,136172,University of North Florida,15984,0,73,144
+2001,136215,Nova Southeastern University,19059,1,10,19
+2002,136215,Nova Southeastern University,21619,0,4,6
+2003,136215,Nova Southeastern University,23522,2,15,12
+2004,136215,Nova Southeastern University,25430,2,4,70
+2005,136215,Nova Southeastern University,26335,1,6,103
+2006,136215,Nova Southeastern University,25960,2,7,58
+2007,136215,Nova Southeastern University,27518,0,2,44
+2008,136215,Nova Southeastern University,28378,1,7,87
+2009,136215,Nova Southeastern University,29153,1,8,39
+2010,136215,Nova Southeastern University,28741,0,17,30
+2011,136215,Nova Southeastern University,28457,0,11,74
+2012,136215,Nova Southeastern University,26808,0,6,11
+2013,136215,Nova Southeastern University,25670,0,5,19
+2014,136215,Nova Southeastern University,24148,0,7,26
+2001,136358,Palm Beach State College,20109,2,0,0
+2002,136358,Palm Beach State College,22163,0,0,0
+2003,136358,Palm Beach State College,22660,1,0,0
+2004,136358,Palm Beach State College,22554,0,0,0
+2005,136358,Palm Beach State College,21686,0,0,0
+2006,136358,Palm Beach State College,21563,0,0,0
+2007,136358,Palm Beach State College,22881,0,0,0
+2008,136358,Palm Beach State College,25122,0,2,2
+2009,136358,Palm Beach State College,28017,0,0,0
+2010,136358,Palm Beach State College,29534,0,0,0
+2011,136358,Palm Beach State College,29354,0,0,0
+2012,136358,Palm Beach State College,29974,2,1,1
+2013,136358,Palm Beach State College,29763,0,0,1
+2014,136358,Palm Beach State College,28517,0,0,0
+2001,136400,Pasco-Hernando State College,5625,0,0,0
+2002,136400,Pasco-Hernando State College,6475,0,0,0
+2003,136400,Pasco-Hernando State College,6909,0,0,0
+2004,136400,Pasco-Hernando State College,7213,0,0,0
+2005,136400,Pasco-Hernando State College,7346,0,0,0
+2006,136400,Pasco-Hernando State College,7547,0,0,0
+2007,136400,Pasco-Hernando State College,8065,0,0,0
+2008,136400,Pasco-Hernando State College,8602,0,0,0
+2009,136400,Pasco-Hernando State College,10036,0,1,0
+2010,136400,Pasco-Hernando State College,10770,0,0,0
+2011,136400,Pasco-Hernando State College,10928,0,0,0
+2012,136400,Pasco-Hernando State College,10376,1,0,2
+2013,136400,Pasco-Hernando State College,10206,0,0,0
+2014,136400,Pasco-Hernando State College,11263,0,0,0
+2001,136473,Pensacola State College,10678,2,10,0
+2002,136473,Pensacola State College,10546,0,0,0
+2003,136473,Pensacola State College,10934,0,4,1
+2004,136473,Pensacola State College,10879,3,4,0
+2005,136473,Pensacola State College,9858,1,1,1
+2006,136473,Pensacola State College,10208,0,0,0
+2007,136473,Pensacola State College,10728,0,0,0
+2008,136473,Pensacola State College,10665,0,3,0
+2009,136473,Pensacola State College,11598,1,2,0
+2010,136473,Pensacola State College,11676,0,0,0
+2011,136473,Pensacola State College,11531,1,4,0
+2012,136473,Pensacola State College,11862,3,2,1
+2013,136473,Pensacola State College,11235,1,7,1
+2014,136473,Pensacola State College,10317,0,8,0
+2001,136516,Polk State College,5893,0,0,0
+2002,136516,Polk State College,6400,0,0,0
+2003,136516,Polk State College,7080,0,0,0
+2004,136516,Polk State College,7057,0,0,0
+2005,136516,Polk State College,7069,0,0,0
+2006,136516,Polk State College,6872,0,0,0
+2007,136516,Polk State College,7757,0,0,0
+2008,136516,Polk State College,8516,0,0,0
+2009,136516,Polk State College,9437,0,0,0
+2010,136516,Polk State College,10589,0,0,0
+2011,136516,Polk State College,11529,0,0,0
+2012,136516,Polk State College,11862,0,0,0
+2013,136516,Polk State College,11085,0,0,0
+2014,136516,Polk State College,11060,0,0,0
+2001,137032,Saint Leo University,9931,0,1,0
+2002,137032,Saint Leo University,10714,0,1,1
+2003,137032,Saint Leo University,12190,0,0,0
+2004,137032,Saint Leo University,12677,0,0,0
+2005,137032,Saint Leo University,13018,0,0,9
+2006,137032,Saint Leo University,14179,0,16,237
+2007,137032,Saint Leo University,13788,0,11,97
+2008,137032,Saint Leo University,13731,0,3,52
+2009,137032,Saint Leo University,14339,0,26,204
+2010,137032,Saint Leo University,15565,0,41,175
+2011,137032,Saint Leo University,15564,1,47,304
+2012,137032,Saint Leo University,15986,0,48,253
+2013,137032,Saint Leo University,16275,0,24,221
+2014,137032,Saint Leo University,16349,1,13,288
+2001,137078,St Petersburg College,20734,0,0,0
+2002,137078,St Petersburg College,22824,0,0,0
+2003,137078,St Petersburg College,23859,0,0,0
+2004,137078,St Petersburg College,24102,0,0,0
+2005,137078,St Petersburg College,24382,0,0,0
+2006,137078,St Petersburg College,24558,0,0,1
+2007,137078,St Petersburg College,25450,1,0,1
+2008,137078,St Petersburg College,26659,0,0,1
+2009,137078,St Petersburg College,29282,0,1,0
+2010,137078,St Petersburg College,31793,0,0,0
+2011,137078,St Petersburg College,33128,0,0,0
+2012,137078,St Petersburg College,32612,0,2,0
+2013,137078,St Petersburg College,31820,0,2,0
+2014,137078,St Petersburg College,32681,1,1,0
+2001,137096,Santa Fe College,13224,0,0,0
+2002,137096,Santa Fe College,13806,0,0,1
+2003,137096,Santa Fe College,13865,0,0,2
+2004,137096,Santa Fe College,13888,0,0,0
+2005,137096,Santa Fe College,13688,0,0,0
+2006,137096,Santa Fe College,14012,0,0,0
+2007,137096,Santa Fe College,14824,0,0,1
+2008,137096,Santa Fe College,14796,0,0,0
+2009,137096,Santa Fe College,15043,0,0,0
+2010,137096,Santa Fe College,15745,0,0,0
+2011,137096,Santa Fe College,15493,0,0,0
+2012,137096,Santa Fe College,15362,0,0,0
+2013,137096,Santa Fe College,15113,0,0,0
+2014,137096,Santa Fe College,15055,0,0,2
+2001,137209,Seminole State College of Florida,10565,0,1,0
+2002,137209,Seminole State College of Florida,11287,0,0,0
+2003,137209,Seminole State College of Florida,12108,0,0,1
+2004,137209,Seminole State College of Florida,12202,1,1,0
+2005,137209,Seminole State College of Florida,11407,1,4,1
+2006,137209,Seminole State College of Florida,11655,0,0,0
+2007,137209,Seminole State College of Florida,12745,4,0,0
+2008,137209,Seminole State College of Florida,14049,0,1,1
+2009,137209,Seminole State College of Florida,16417,1,1,0
+2010,137209,Seminole State College of Florida,18028,2,14,2
+2011,137209,Seminole State College of Florida,18514,1,11,3
+2012,137209,Seminole State College of Florida,19450,0,8,4
+2013,137209,Seminole State College of Florida,18427,0,5,3
+2014,137209,Seminole State College of Florida,18399,0,1,0
+2001,137351,University of South Florida-Main Campus,37221,2,18,4
+2002,137351,University of South Florida-Main Campus,38854,0,1,0
+2003,137351,University of South Florida-Main Campus,40945,1,10,19
+2004,137351,University of South Florida-Main Campus,42238,6,39,94
+2005,137351,University of South Florida-Main Campus,42660,0,51,135
+2006,137351,University of South Florida-Main Campus,43636,0,52,173
+2007,137351,University of South Florida-Main Campus,44870,2,26,174
+2008,137351,University of South Florida-Main Campus,46189,0,49,148
+2009,137351,University of South Florida-Main Campus,40022,0,41,164
+2010,137351,University of South Florida-Main Campus,40431,1,45,151
+2011,137351,University of South Florida-Main Campus,39596,2,65,129
+2012,137351,University of South Florida-Main Campus,41116,1,61,144
+2013,137351,University of South Florida-Main Campus,41428,1,70,158
+2014,137351,University of South Florida-Main Campus,41938,0,93,130
+2001,138187,Valencia College,29307,0,0,0
+2002,138187,Valencia College,29515,0,0,0
+2003,138187,Valencia College,29269,2,0,0
+2004,138187,Valencia College,29556,0,0,0
+2005,138187,Valencia College,29544,0,0,0
+2006,138187,Valencia College,30245,0,0,0
+2007,138187,Valencia College,32870,0,0,0
+2008,138187,Valencia College,35460,0,0,0
+2009,138187,Valencia College,39008,0,0,0
+2010,138187,Valencia College,41583,0,0,0
+2011,138187,Valencia College,42631,0,0,0
+2012,138187,Valencia College,42915,0,0,0
+2013,138187,Valencia College,42180,0,0,0
+2014,138187,Valencia College,43217,0,0,0
+2001,138354,The University of West Florida,9052,0,13,133
+2002,138354,The University of West Florida,9185,1,14,83
+2003,138354,The University of West Florida,9452,2,8,67
+2004,138354,The University of West Florida,9518,8,18,67
+2005,138354,The University of West Florida,9632,5,11,92
+2006,138354,The University of West Florida,9819,2,20,79
+2007,138354,The University of West Florida,10358,1,9,102
+2008,138354,The University of West Florida,10491,4,17,99
+2009,138354,The University of West Florida,11143,1,14,126
+2010,138354,The University of West Florida,11599,0,24,131
+2011,138354,The University of West Florida,11982,0,15,107
+2012,138354,The University of West Florida,12652,4,33,100
+2013,138354,The University of West Florida,12588,0,43,56
+2014,138354,The University of West Florida,12602,0,25,83
+2006,147767,Northwestern University,18486,0,0,0
+2007,147767,Northwestern University,19005,0,0,0
+2008,147767,Northwestern University,19291,0,0,0
+2009,147767,Northwestern University,19853,0,0,0
+2010,147767,Northwestern University,20481,0,0,0
+2011,147767,Northwestern University,20959,0,0,0
+2012,147767,Northwestern University,21215,0,0,0
+2013,147767,Northwestern University,21592,0,0,0
+2014,147767,Northwestern University,21554,0,0,0
+2001,177065,Columbia College,8564,0,0,0
+2002,177065,Columbia College,8958,0,0,0
+2003,177065,Columbia College,10146,0,0,0
+2004,177065,Columbia College,11017,0,0,0
+2005,177065,Columbia College,11792,0,0,0
+2006,177065,Columbia College,12280,0,0,0
+2007,177065,Columbia College,12954,0,0,0
+2008,177065,Columbia College,14081,0,0,0
+2009,177065,Columbia College,15556,0,0,0
+2010,177065,Columbia College,16962,0,0,0
+2011,177065,Columbia College,18091,0,0,0
+2012,177065,Columbia College,17830,0,0,0
+2013,177065,Columbia College,16946,0,0,0
+2014,177065,Columbia College,16567,0,0,0
+2001,179894,Webster University,15402,0,0,0
+2002,179894,Webster University,17249,0,0,0
+2003,179894,Webster University,18740,0,0,0
+2004,179894,Webster University,19038,0,0,0
+2005,179894,Webster University,18407,0,0,0
+2006,179894,Webster University,18963,0,0,0
+2007,179894,Webster University,19398,0,0,0
+2008,179894,Webster University,19154,0,0,0
+2009,179894,Webster University,19372,0,0,0
+2010,179894,Webster University,19342,0,0,0
+2011,179894,Webster University,19224,0,0,0
+2012,179894,Webster University,18456,0,0,0
+2013,179894,Webster University,17904,0,0,0
+2014,179894,Webster University,16769,0,0,0
+2011,241739,Universidad Metropolitana,13529,0,0,0
+2012,241739,Universidad Metropolitana,13616,0,0,0
+2013,241739,Universidad Metropolitana,13631,0,0,0
+2014,241739,Universidad Metropolitana,13773,0,0,0
+2011,243346,Universidad Del Este,13775,0,0,0
+2012,243346,Universidad Del Este,13630,0,0,0
+2013,243346,Universidad Del Este,13420,0,0,0
+2014,243346,Universidad Del Este,13331,0,0,0
+2011,243601,Universidad Del Turabo,16605,0,0,0
+2012,243601,Universidad Del Turabo,17040,0,0,0
+2013,243601,Universidad Del Turabo,17287,0,0,0
+2014,243601,Universidad Del Turabo,17325,0,0,0
+2001,390701,Everest University-South Orlando,1342,0,0,0
+2002,390701,Everest University-South Orlando,1964,0,0,0
+2003,390701,Everest University-South Orlando,2217,0,1,0
+2004,390701,Everest University-South Orlando,2163,0,0,0
+2005,390701,Everest University-South Orlando,2671,0,0,0
+2006,390701,Everest University-South Orlando,3772,0,0,0
+2007,390701,Everest University-South Orlando,823,0,0,0
+2008,390701,Everest University-South Orlando,11548,0,0,0
+2009,390701,Everest University-South Orlando,7799,0,0,0
+2010,390701,Everest University-South Orlando,16022,0,0,0
+2011,390701,Everest University-South Orlando,25537,0,0,0
+2012,390701,Everest University-South Orlando,33852,0,0,0
+2013,390701,Everest University-South Orlando,29693,0,0,0
+2014,390701,Everest University-South Orlando,22535,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2001,433660,Florida Gulf Coast University,4214,0,5,59
+2002,433660,Florida Gulf Coast University,5109,4,7,61
+2003,433660,Florida Gulf Coast University,5972,9,16,119
+2004,433660,Florida Gulf Coast University,5955,2,16,109
+2005,433660,Florida Gulf Coast University,7249,4,22,217
+2006,433660,Florida Gulf Coast University,8279,11,97,305
+2007,433660,Florida Gulf Coast University,9339,13,86,331
+2008,433660,Florida Gulf Coast University,10204,3,67,403
+2009,433660,Florida Gulf Coast University,11092,3,116,455
+2010,433660,Florida Gulf Coast University,12015,8,138,361
+2011,433660,Florida Gulf Coast University,12651,7,101,683
+2012,433660,Florida Gulf Coast University,13445,2,107,839
+2013,433660,Florida Gulf Coast University,14077,0,125,415
+2014,433660,Florida Gulf Coast University,14473,3,205,552

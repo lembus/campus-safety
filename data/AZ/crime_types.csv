@@ -1,0 +1,92 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,104151,Arizona State University-Tempe,45693,225,8,0,10,243
+2002,104151,Arizona State University-Tempe,47359,300,3,0,10,313
+2003,104151,Arizona State University-Tempe,48901,302,0,0,10,312
+2004,104151,Arizona State University-Tempe,49171,338,4,0,10,352
+2005,104151,Arizona State University-Tempe,51612,260,551,0,10,821
+2006,104151,Arizona State University-Tempe,51234,233,8,0,10,251
+2007,104151,Arizona State University-Tempe,51481,217,6,0,10,233
+2008,104151,Arizona State University-Tempe,67082,223,28,0,10,261
+2009,104151,Arizona State University-Tempe,68064,197,11,0,10,218
+2010,104151,Arizona State University-Tempe,70440,159,1077,0,10,1246
+2011,104151,Arizona State University-Tempe,72254,174,1555,0,10,1739
+2012,104151,Arizona State University-Tempe,73378,176,1387,0,10,1573
+2013,104151,Arizona State University-Tempe,48702,167,1952,0,10,2129
+2014,104151,Arizona State University-Tempe,50320,89,1907,0,10,2006
+2001,104179,University of Arizona,35747,230,1240,0,20,1490
+2002,104179,University of Arizona,36847,80,941,0,20,1041
+2003,104179,University of Arizona,37083,81,626,0,20,727
+2004,104179,University of Arizona,36932,96,696,0,20,812
+2005,104179,University of Arizona,37036,107,644,0,20,771
+2006,104179,University of Arizona,36805,44,649,0,20,713
+2007,104179,University of Arizona,37217,53,956,0,20,1029
+2008,104179,University of Arizona,38057,45,395,0,20,460
+2009,104179,University of Arizona,38767,56,715,6,20,797
+2010,104179,University of Arizona,39086,62,402,10,20,494
+2011,104179,University of Arizona,39236,55,470,12,20,557
+2012,104179,University of Arizona,40223,97,624,4,20,745
+2013,104179,University of Arizona,40621,47,739,0,20,806
+2014,104179,University of Arizona,42236,55,585,0,20,660
+2001,104717,Grand Canyon University,4113,34,0,0,3,37
+2002,104717,Grand Canyon University,3973,19,0,0,3,22
+2003,104717,Grand Canyon University,3091,15,0,0,3,18
+2004,104717,Grand Canyon University,4491,4,7,0,3,14
+2005,104717,Grand Canyon University,7969,17,7,1,3,28
+2006,104717,Grand Canyon University,10297,17,2,0,3,22
+2007,104717,Grand Canyon University,13415,12,1,0,3,16
+2008,104717,Grand Canyon University,22025,32,15,2,3,52
+2009,104717,Grand Canyon University,34205,26,24,0,3,53
+2010,104717,Grand Canyon University,37440,24,33,10,3,70
+2011,104717,Grand Canyon University,40487,11,36,0,3,50
+2012,104717,Grand Canyon University,48650,14,31,0,3,48
+2013,104717,Grand Canyon University,55497,31,75,6,3,115
+2014,104717,Grand Canyon University,62304,28,196,0,3,227
+2001,105330,Northern Arizona University,19728,83,334,0,19,436
+2002,105330,Northern Arizona University,19907,116,554,0,19,689
+2003,105330,Northern Arizona University,18820,96,573,1,19,689
+2004,105330,Northern Arizona University,19137,88,553,0,19,660
+2005,105330,Northern Arizona University,18773,94,720,0,19,833
+2006,105330,Northern Arizona University,20555,90,761,1,19,871
+2007,105330,Northern Arizona University,21347,86,893,2,19,1000
+2008,105330,Northern Arizona University,22502,64,1128,0,19,1211
+2009,105330,Northern Arizona University,23597,57,863,2,19,941
+2010,105330,Northern Arizona University,25197,34,1111,0,19,1164
+2011,105330,Northern Arizona University,25359,59,898,0,19,976
+2012,105330,Northern Arizona University,25991,98,963,4,19,1084
+2013,105330,Northern Arizona University,26594,52,1153,4,19,1228
+2014,105330,Northern Arizona University,27705,83,1076,16,19,1194
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,1,0,0,0,1
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0
+2013,484613,University of Phoenix-Arizona,,1,0,0,0,1
+2014,484613,University of Phoenix-Arizona,195059,0,0,2,0,2

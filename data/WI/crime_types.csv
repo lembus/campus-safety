@@ -1,0 +1,120 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2011,152080,University of Notre Dame,12004,0,2,0,0,2
+2012,152080,University of Notre Dame,12126,0,0,0,0,0
+2013,152080,University of Notre Dame,12124,1,0,0,0,1
+2014,152080,University of Notre Dame,12179,0,0,0,0,0
+2001,238263,Madison Area Technical College,14351,0,0,0,10,10
+2002,238263,Madison Area Technical College,15621,1,1,0,10,12
+2003,238263,Madison Area Technical College,13830,2,3,0,10,15
+2004,238263,Madison Area Technical College,13157,0,5,0,10,15
+2005,238263,Madison Area Technical College,14125,23,0,0,10,33
+2006,238263,Madison Area Technical College,14789,14,0,0,10,24
+2007,238263,Madison Area Technical College,14647,25,0,0,10,35
+2008,238263,Madison Area Technical College,14666,23,1,0,10,34
+2009,238263,Madison Area Technical College,16610,38,0,0,10,48
+2010,238263,Madison Area Technical College,17463,15,3,0,10,28
+2011,238263,Madison Area Technical College,16405,10,4,0,10,24
+2012,238263,Madison Area Technical College,16139,9,2,0,10,21
+2013,238263,Madison Area Technical College,15402,12,3,0,10,25
+2014,238263,Madison Area Technical College,16759,8,2,0,10,20
+2001,239105,Marquette University,10832,30,550,0,4,584
+2002,239105,Marquette University,11042,15,695,0,4,714
+2003,239105,Marquette University,11355,26,708,0,4,738
+2004,239105,Marquette University,11510,27,736,0,4,767
+2005,239105,Marquette University,11594,28,993,0,4,1025
+2006,239105,Marquette University,11548,15,1009,0,4,1028
+2007,239105,Marquette University,11516,37,852,0,4,893
+2008,239105,Marquette University,11633,29,920,0,4,953
+2009,239105,Marquette University,11689,25,851,0,4,880
+2010,239105,Marquette University,11806,42,918,0,4,964
+2011,239105,Marquette University,12002,30,1055,2,4,1091
+2012,239105,Marquette University,11749,27,785,0,4,816
+2013,239105,Marquette University,11782,26,411,0,4,441
+2014,239105,Marquette University,11745,30,816,2,4,852
+2001,240189,University of Wisconsin-Whitewater,10549,23,528,0,5,556
+2002,240189,University of Wisconsin-Whitewater,10796,31,295,0,5,331
+2003,240189,University of Wisconsin-Whitewater,10817,43,307,0,5,355
+2004,240189,University of Wisconsin-Whitewater,10938,40,502,0,5,547
+2005,240189,University of Wisconsin-Whitewater,10750,50,693,0,5,748
+2006,240189,University of Wisconsin-Whitewater,10502,60,564,0,5,629
+2007,240189,University of Wisconsin-Whitewater,10737,25,416,0,5,446
+2008,240189,University of Wisconsin-Whitewater,10962,16,431,0,5,452
+2009,240189,University of Wisconsin-Whitewater,11139,14,367,2,5,388
+2010,240189,University of Wisconsin-Whitewater,11557,17,543,8,5,573
+2011,240189,University of Wisconsin-Whitewater,11629,16,651,0,5,672
+2012,240189,University of Wisconsin-Whitewater,12028,12,777,0,5,794
+2013,240189,University of Wisconsin-Whitewater,12027,16,810,0,5,831
+2014,240189,University of Wisconsin-Whitewater,12176,19,816,0,5,840
+2001,240268,University of Wisconsin-Eau Claire,10802,6,270,0,10,286
+2002,240268,University of Wisconsin-Eau Claire,10961,2,170,0,10,182
+2003,240268,University of Wisconsin-Eau Claire,10677,1,391,0,10,402
+2004,240268,University of Wisconsin-Eau Claire,10648,3,476,0,10,489
+2005,240268,University of Wisconsin-Eau Claire,10688,3,575,0,10,588
+2006,240268,University of Wisconsin-Eau Claire,10766,6,657,0,10,673
+2007,240268,University of Wisconsin-Eau Claire,10854,4,294,0,10,308
+2008,240268,University of Wisconsin-Eau Claire,11140,6,411,0,10,427
+2009,240268,University of Wisconsin-Eau Claire,11216,9,403,0,10,422
+2010,240268,University of Wisconsin-Eau Claire,11413,7,486,4,10,507
+2011,240268,University of Wisconsin-Eau Claire,11300,5,369,0,10,384
+2012,240268,University of Wisconsin-Eau Claire,11067,6,350,2,10,368
+2013,240268,University of Wisconsin-Eau Claire,10923,7,631,2,10,650
+2014,240268,University of Wisconsin-Eau Claire,10721,13,588,6,10,617
+2001,240329,University of Wisconsin-La Crosse,9650,11,177,0,7,195
+2002,240329,University of Wisconsin-La Crosse,9618,3,221,0,7,231
+2003,240329,University of Wisconsin-La Crosse,9550,4,304,0,7,315
+2004,240329,University of Wisconsin-La Crosse,9019,7,433,0,7,447
+2005,240329,University of Wisconsin-La Crosse,9397,14,384,0,7,405
+2006,240329,University of Wisconsin-La Crosse,9849,9,557,0,7,573
+2007,240329,University of Wisconsin-La Crosse,9994,7,158,0,7,172
+2008,240329,University of Wisconsin-La Crosse,9880,1,459,0,7,467
+2009,240329,University of Wisconsin-La Crosse,10009,5,414,0,7,426
+2010,240329,University of Wisconsin-La Crosse,10135,3,468,0,7,478
+2011,240329,University of Wisconsin-La Crosse,10284,2,410,0,7,419
+2012,240329,University of Wisconsin-La Crosse,10385,1,520,0,7,528
+2013,240329,University of Wisconsin-La Crosse,10520,2,771,0,7,780
+2014,240329,University of Wisconsin-La Crosse,10669,4,902,2,7,915
+2001,240365,University of Wisconsin-Oshkosh,11033,11,297,0,12,320
+2002,240365,University of Wisconsin-Oshkosh,11483,15,478,0,12,505
+2003,240365,University of Wisconsin-Oshkosh,11431,28,592,0,12,632
+2004,240365,University of Wisconsin-Oshkosh,11532,28,490,0,12,530
+2005,240365,University of Wisconsin-Oshkosh,11433,29,346,0,12,387
+2006,240365,University of Wisconsin-Oshkosh,12530,17,407,0,12,436
+2007,240365,University of Wisconsin-Oshkosh,12772,24,325,0,12,361
+2008,240365,University of Wisconsin-Oshkosh,12753,22,260,0,12,294
+2009,240365,University of Wisconsin-Oshkosh,13192,10,737,2,12,761
+2010,240365,University of Wisconsin-Oshkosh,13629,8,454,6,12,480
+2011,240365,University of Wisconsin-Oshkosh,13513,10,478,0,12,500
+2012,240365,University of Wisconsin-Oshkosh,13519,12,967,4,12,995
+2013,240365,University of Wisconsin-Oshkosh,13900,13,1284,2,12,1311
+2014,240365,University of Wisconsin-Oshkosh,14541,15,974,2,12,1003
+2001,240444,University of Wisconsin-Madison,40922,175,167,2,33,377
+2002,240444,University of Wisconsin-Madison,40884,120,276,0,33,429
+2003,240444,University of Wisconsin-Madison,40879,86,391,0,33,510
+2004,240444,University of Wisconsin-Madison,40455,125,471,0,33,629
+2005,240444,University of Wisconsin-Madison,40793,73,551,0,33,657
+2006,240444,University of Wisconsin-Madison,41028,195,646,0,33,874
+2007,240444,University of Wisconsin-Madison,41563,212,641,0,33,886
+2008,240444,University of Wisconsin-Madison,41620,78,960,0,33,1071
+2009,240444,University of Wisconsin-Madison,41654,114,1943,0,33,2090
+2010,240444,University of Wisconsin-Madison,42180,82,1300,0,33,1415
+2011,240444,University of Wisconsin-Madison,41946,65,1305,0,33,1403
+2012,240444,University of Wisconsin-Madison,42269,53,2202,0,33,2288
+2013,240444,University of Wisconsin-Madison,42677,76,2892,0,33,3001
+2014,240444,University of Wisconsin-Madison,42598,79,3127,0,33,3239
+2001,240453,University of Wisconsin-Milwaukee,24216,54,447,0,8,509
+2002,240453,University of Wisconsin-Milwaukee,24587,55,449,0,8,512
+2003,240453,University of Wisconsin-Milwaukee,25440,34,246,0,8,288
+2004,240453,University of Wisconsin-Milwaukee,26832,45,252,0,8,305
+2005,240453,University of Wisconsin-Milwaukee,27502,42,496,0,8,546
+2006,240453,University of Wisconsin-Milwaukee,28309,47,251,0,8,306
+2007,240453,University of Wisconsin-Milwaukee,29338,47,324,1,8,380
+2008,240453,University of Wisconsin-Milwaukee,29215,32,690,0,8,730
+2009,240453,University of Wisconsin-Milwaukee,30418,32,400,0,8,440
+2010,240453,University of Wisconsin-Milwaukee,30470,20,450,0,8,478
+2011,240453,University of Wisconsin-Milwaukee,29350,43,448,0,8,499
+2012,240453,University of Wisconsin-Milwaukee,28712,20,468,0,8,496
+2013,240453,University of Wisconsin-Milwaukee,27416,22,423,2,8,455
+2014,240453,University of Wisconsin-Milwaukee,27596,48,586,8,8,650
+2012,260901,Kaplan University-Davenport Campus,48865,0,0,0,0,0
+2013,260901,Kaplan University-Davenport Campus,52407,0,0,0,0,0
+2014,260901,Kaplan University-Davenport Campus,52018,0,0,0,0,0

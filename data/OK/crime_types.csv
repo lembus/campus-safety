@@ -1,0 +1,83 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2008,177065,Columbia College,14081,0,0,0,0,0
+2009,177065,Columbia College,15556,0,0,0,0,0
+2010,177065,Columbia College,16962,0,0,0,0,0
+2011,177065,Columbia College,18091,0,0,0,0,0
+2012,177065,Columbia College,17830,0,0,0,0,0
+2013,177065,Columbia College,16946,0,0,0,0,0
+2014,177065,Columbia College,16567,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2001,206941,University of Central Oklahoma,14660,23,64,0,4,91
+2002,206941,University of Central Oklahoma,15239,14,59,0,4,77
+2003,206941,University of Central Oklahoma,15044,16,111,0,4,131
+2004,206941,University of Central Oklahoma,14598,9,102,0,4,115
+2005,206941,University of Central Oklahoma,15859,14,86,0,4,104
+2006,206941,University of Central Oklahoma,15588,21,102,0,4,127
+2007,206941,University of Central Oklahoma,15495,20,71,0,4,95
+2008,206941,University of Central Oklahoma,15724,20,188,0,4,212
+2009,206941,University of Central Oklahoma,16092,19,163,0,4,186
+2010,206941,University of Central Oklahoma,17101,24,100,6,4,134
+2011,206941,University of Central Oklahoma,17239,23,83,8,4,118
+2012,206941,University of Central Oklahoma,17211,11,67,0,4,82
+2013,206941,University of Central Oklahoma,17220,19,68,10,4,101
+2014,206941,University of Central Oklahoma,16840,15,53,4,4,76
+2001,207388,Oklahoma State University-Main Campus,22008,69,48,0,14,131
+2002,207388,Oklahoma State University-Main Campus,23220,54,94,0,14,162
+2003,207388,Oklahoma State University-Main Campus,23844,63,95,0,14,172
+2004,207388,Oklahoma State University-Main Campus,23819,51,96,0,14,161
+2005,207388,Oklahoma State University-Main Campus,23692,75,176,0,14,265
+2006,207388,Oklahoma State University-Main Campus,23499,64,400,0,14,478
+2007,207388,Oklahoma State University-Main Campus,23213,60,198,0,14,272
+2008,207388,Oklahoma State University-Main Campus,22995,61,202,0,14,277
+2009,207388,Oklahoma State University-Main Campus,23033,81,414,0,14,509
+2010,207388,Oklahoma State University-Main Campus,23667,46,419,0,14,479
+2011,207388,Oklahoma State University-Main Campus,24390,59,507,0,14,580
+2012,207388,Oklahoma State University-Main Campus,25708,46,287,0,14,347
+2013,207388,Oklahoma State University-Main Campus,26073,52,406,0,14,472
+2014,207388,Oklahoma State University-Main Campus,25962,48,391,0,14,453
+2001,207500,University of Oklahoma-Norman Campus,25104,75,175,0,27,277
+2002,207500,University of Oklahoma-Norman Campus,26263,59,399,0,27,485
+2003,207500,University of Oklahoma-Norman Campus,27146,62,395,0,27,484
+2004,207500,University of Oklahoma-Norman Campus,27483,60,448,0,27,535
+2005,207500,University of Oklahoma-Norman Campus,26506,77,319,0,27,423
+2006,207500,University of Oklahoma-Norman Campus,25923,53,309,0,27,389
+2007,207500,University of Oklahoma-Norman Campus,26068,51,258,0,27,336
+2008,207500,University of Oklahoma-Norman Campus,26140,46,411,0,27,484
+2009,207500,University of Oklahoma-Norman Campus,25881,64,148,0,27,239
+2010,207500,University of Oklahoma-Norman Campus,26476,34,495,0,27,556
+2011,207500,University of Oklahoma-Norman Campus,27138,55,471,0,27,553
+2012,207500,University of Oklahoma-Norman Campus,27507,25,258,0,27,310
+2013,207500,University of Oklahoma-Norman Campus,27292,27,383,2,27,439
+2014,207500,University of Oklahoma-Norman Campus,27261,33,499,0,27,559
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

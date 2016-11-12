@@ -1,0 +1,77 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,155061,Fort Hays State University,5626,17,59,0,6,82
+2002,155061,Fort Hays State University,6392,37,80,0,6,123
+2003,155061,Fort Hays State University,7373,11,65,0,6,82
+2004,155061,Fort Hays State University,8500,12,81,0,6,99
+2005,155061,Fort Hays State University,9019,7,88,0,6,101
+2006,155061,Fort Hays State University,9122,23,66,0,6,95
+2007,155061,Fort Hays State University,9588,17,25,0,6,48
+2008,155061,Fort Hays State University,10107,15,44,0,6,65
+2009,155061,Fort Hays State University,11308,10,33,0,6,49
+2010,155061,Fort Hays State University,11883,6,55,2,6,69
+2011,155061,Fort Hays State University,12802,21,80,0,6,107
+2012,155061,Fort Hays State University,13310,9,94,0,6,109
+2013,155061,Fort Hays State University,13441,19,83,4,6,112
+2014,155061,Fort Hays State University,13825,12,153,2,6,173
+2001,155317,University of Kansas,25782,94,779,0,39,912
+2002,155317,University of Kansas,26458,95,724,0,39,858
+2003,155317,University of Kansas,26814,101,980,0,39,1120
+2004,155317,University of Kansas,26980,106,1051,0,39,1196
+2005,155317,University of Kansas,26934,90,969,0,39,1098
+2006,155317,University of Kansas,26773,112,1166,0,39,1317
+2007,155317,University of Kansas,28569,90,1111,0,39,1240
+2008,155317,University of Kansas,29365,106,1228,0,39,1373
+2009,155317,University of Kansas,29242,85,1150,0,39,1274
+2010,155317,University of Kansas,28697,75,920,0,39,1034
+2011,155317,University of Kansas,27939,61,1037,0,39,1137
+2012,155317,University of Kansas,27135,83,882,2,39,1006
+2013,155317,University of Kansas,26968,70,1007,0,39,1116
+2014,155317,University of Kansas,27180,81,945,2,39,1067
+2001,155399,Kansas State University,22396,75,88,0,14,177
+2002,155399,Kansas State University,22762,102,49,0,14,165
+2003,155399,Kansas State University,23050,80,109,0,14,203
+2004,155399,Kansas State University,23151,87,99,0,14,200
+2005,155399,Kansas State University,23182,86,222,0,14,322
+2006,155399,Kansas State University,23141,74,166,0,14,254
+2007,155399,Kansas State University,23332,51,101,0,14,166
+2008,155399,Kansas State University,23520,47,100,0,14,161
+2009,155399,Kansas State University,23581,28,153,0,14,195
+2010,155399,Kansas State University,23588,36,375,0,14,425
+2011,155399,Kansas State University,23863,33,519,0,14,566
+2012,155399,Kansas State University,24378,35,685,0,14,734
+2013,155399,Kansas State University,24581,26,646,0,14,686
+2014,155399,Kansas State University,24766,20,446,0,14,480
+2001,156125,Wichita State University,14854,19,16,0,7,42
+2002,156125,Wichita State University,15437,18,36,0,7,61
+2003,156125,Wichita State University,14570,28,45,0,7,80
+2004,156125,Wichita State University,14039,13,32,0,7,52
+2005,156125,Wichita State University,13812,17,46,0,7,70
+2006,156125,Wichita State University,13964,18,81,0,7,106
+2007,156125,Wichita State University,14226,20,85,0,7,112
+2008,156125,Wichita State University,14405,16,77,0,7,100
+2009,156125,Wichita State University,14601,9,78,0,7,94
+2010,156125,Wichita State University,14577,10,32,0,7,49
+2011,156125,Wichita State University,14909,11,96,0,7,114
+2012,156125,Wichita State University,14716,23,74,0,7,104
+2013,156125,Wichita State University,14386,5,23,0,7,35
+2014,156125,Wichita State University,14995,7,32,0,7,46
+2014,169248,Central Michigan University,26879,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

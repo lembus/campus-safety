@@ -1,0 +1,89 @@
+Survey year,Unitid,Institution name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2001,125231,Walden University,2082,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,125231,Walden University,4565,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,125231,Walden University,8227,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,125231,Walden University,47456,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,125231,Walden University,48982,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,125231,Walden University,50209,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,125231,Walden University,51016,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,125231,Walden University,52188,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,173920,Minnesota State University-Mankato,13275,0,0,5,0,0,0,0,0,0,1,11,0,4
+2002,173920,Minnesota State University-Mankato,13795,0,0,7,0,0,0,0,0,0,1,10,0,3
+2003,173920,Minnesota State University-Mankato,14058,0,0,1,0,0,0,0,0,1,1,15,2,3
+2004,173920,Minnesota State University-Mankato,14151,0,0,2,0,0,0,0,0,1,1,14,0,0
+2005,173920,Minnesota State University-Mankato,14333,0,0,5,0,0,0,0,0,0,1,14,0,3
+2006,173920,Minnesota State University-Mankato,14149,0,0,3,0,0,1,0,0,0,0,13,3,2
+2007,173920,Minnesota State University-Mankato,14515,0,0,3,0,0,1,0,0,0,0,13,0,4
+2008,173920,Minnesota State University-Mankato,14621,0,0,2,0,0,0,0,0,1,3,24,2,3
+2009,173920,Minnesota State University-Mankato,14955,0,0,8,0,0,0,0,0,2,5,18,0,0
+2010,173920,Minnesota State University-Mankato,15435,0,0,5,0,0,0,0,0,1,7,21,1,1
+2011,173920,Minnesota State University-Mankato,15709,0,0,1,0,0,0,0,0,4,4,10,1,1
+2012,173920,Minnesota State University-Mankato,15441,0,0,6,0,0,0,0,0,7,1,7,1,0
+2013,173920,Minnesota State University-Mankato,15426,0,0,9,0,0,0,0,0,0,2,8,2,0
+2014,173920,Minnesota State University-Mankato,15387,0,0,0,3,3,0,0,0,0,1,12,0,0
+2001,174066,University of Minnesota-Twin Cities,46597,0,0,14,0,0,0,0,0,2,3,33,12,1
+2002,174066,University of Minnesota-Twin Cities,48677,0,0,10,0,0,0,0,0,2,2,93,14,10
+2003,174066,University of Minnesota-Twin Cities,49474,0,0,16,0,0,0,0,0,5,3,84,11,24
+2004,174066,University of Minnesota-Twin Cities,50954,0,0,10,0,0,0,0,0,0,2,81,6,4
+2005,174066,University of Minnesota-Twin Cities,51175,0,0,11,0,0,0,0,0,7,5,65,5,4
+2006,174066,University of Minnesota-Twin Cities,50402,0,0,13,0,0,0,0,0,2,3,289,4,0
+2007,174066,University of Minnesota-Twin Cities,50883,0,0,12,0,0,0,0,0,7,5,272,7,3
+2008,174066,University of Minnesota-Twin Cities,51140,0,0,11,0,0,0,0,0,4,3,186,8,1
+2009,174066,University of Minnesota-Twin Cities,51659,0,0,15,0,0,0,0,0,2,1,83,10,1
+2010,174066,University of Minnesota-Twin Cities,51721,0,0,13,0,0,0,0,0,2,0,50,11,2
+2011,174066,University of Minnesota-Twin Cities,52557,0,0,12,0,0,0,0,0,5,2,45,6,0
+2012,174066,University of Minnesota-Twin Cities,51853,0,0,14,0,0,0,0,0,2,1,33,9,0
+2013,174066,University of Minnesota-Twin Cities,51526,0,0,10,0,0,0,0,0,7,3,18,12,2
+2014,174066,University of Minnesota-Twin Cities,51147,0,0,0,10,5,0,0,0,1,1,32,21,1
+2001,174233,University of Minnesota-Duluth,9380,0,0,0,0,0,0,0,0,0,0,3,0,0
+2002,174233,University of Minnesota-Duluth,9815,0,0,1,0,0,0,0,0,0,0,4,0,0
+2003,174233,University of Minnesota-Duluth,10114,0,0,1,0,0,0,0,0,0,0,12,0,0
+2004,174233,University of Minnesota-Duluth,10366,0,0,1,0,0,0,0,0,0,0,14,0,0
+2005,174233,University of Minnesota-Duluth,10496,0,0,0,0,0,0,0,0,0,0,12,2,2
+2006,174233,University of Minnesota-Duluth,11190,0,0,2,0,0,0,0,0,1,0,11,2,1
+2007,174233,University of Minnesota-Duluth,11184,0,0,1,0,0,0,0,0,1,1,11,0,1
+2008,174233,University of Minnesota-Duluth,11366,0,0,0,0,0,0,0,0,0,3,6,0,0
+2009,174233,University of Minnesota-Duluth,11664,0,0,1,0,0,0,0,0,0,1,7,0,1
+2010,174233,University of Minnesota-Duluth,11729,0,0,2,0,0,0,0,0,0,0,2,0,0
+2011,174233,University of Minnesota-Duluth,11806,0,0,3,0,0,0,0,0,0,1,2,0,0
+2012,174233,University of Minnesota-Duluth,11491,0,0,3,0,0,0,0,0,0,2,3,0,1
+2013,174233,University of Minnesota-Duluth,11241,0,0,7,0,0,0,0,0,0,1,5,0,0
+2014,174233,University of Minnesota-Duluth,11093,0,0,0,6,1,0,0,0,0,0,0,2,0
+2001,174783,Saint Cloud State University,15920,0,0,5,0,0,0,0,0,0,0,17,2,2
+2002,174783,Saint Cloud State University,16224,0,0,5,0,0,0,0,0,1,0,27,1,1
+2003,174783,Saint Cloud State University,16133,0,0,7,0,0,0,0,0,0,0,21,1,1
+2004,174783,Saint Cloud State University,16077,0,0,2,0,0,0,0,0,0,0,22,0,4
+2005,174783,Saint Cloud State University,15954,0,0,4,0,0,0,0,0,1,0,20,1,1
+2006,174783,Saint Cloud State University,16334,0,0,6,0,0,0,0,0,0,1,20,1,1
+2007,174783,Saint Cloud State University,16940,0,0,6,0,0,0,0,0,2,1,29,2,2
+2008,174783,Saint Cloud State University,17430,0,0,3,0,0,0,0,0,2,0,12,0,1
+2009,174783,Saint Cloud State University,18123,0,0,9,0,0,0,0,0,0,0,28,0,0
+2010,174783,Saint Cloud State University,18650,0,0,7,0,0,0,0,0,0,1,23,1,0
+2011,174783,Saint Cloud State University,17604,0,0,3,0,0,0,0,0,1,1,17,0,0
+2012,174783,Saint Cloud State University,16922,0,0,11,0,0,0,0,0,1,0,17,1,0
+2013,174783,Saint Cloud State University,16765,0,0,0,0,0,0,0,0,0,0,12,0,1
+2014,174783,Saint Cloud State University,16076,0,0,0,2,0,0,0,0,0,0,27,2,0
+2001,174914,University of St Thomas,11473,0,0,3,0,0,0,0,0,0,0,18,1,0
+2002,174914,University of St Thomas,11257,0,0,0,0,0,0,0,0,0,1,32,2,1
+2003,174914,University of St Thomas,11037,0,0,4,0,0,0,0,0,0,2,9,4,1
+2004,174914,University of St Thomas,10474,0,0,3,0,0,0,0,0,0,1,9,1,0
+2005,174914,University of St Thomas,10641,0,0,2,0,0,0,0,0,1,2,41,1,0
+2006,174914,University of St Thomas,10712,0,0,3,0,0,0,0,0,0,1,54,3,0
+2007,174914,University of St Thomas,10984,0,0,6,0,0,0,0,0,1,2,47,1,0
+2008,174914,University of St Thomas,10963,0,0,0,0,0,0,0,0,1,0,10,6,0
+2009,174914,University of St Thomas,10851,0,0,0,0,0,0,0,0,0,0,15,1,2
+2010,174914,University of St Thomas,10815,0,0,0,0,0,0,0,0,0,0,20,0,0
+2011,174914,University of St Thomas,10506,0,0,1,0,0,0,0,0,0,0,17,0,0
+2012,174914,University of St Thomas,10289,0,0,1,0,0,0,0,0,0,1,8,2,2
+2013,174914,University of St Thomas,10192,0,0,3,0,0,0,0,0,2,2,7,1,0
+2014,174914,University of St Thomas,10140,0,0,0,2,2,0,0,0,0,0,1,0,0
+2004,413413,Capella University,12599,0,0,0,0,0,0,0,0,4,0,0,0,0
+2005,413413,Capella University,13907,0,0,0,0,0,0,0,0,7,0,0,0,0
+2006,413413,Capella University,17203,0,0,0,0,0,0,0,0,0,0,0,1,0
+2007,413413,Capella University,21773,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,413413,Capella University,31998,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,413413,Capella University,39457,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,413413,Capella University,36375,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,413413,Capella University,35754,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,413413,Capella University,34007,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,413413,Capella University,35061,0,0,0,0,0,0,0,0,0,0,0,0,0

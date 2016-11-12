@@ -1,0 +1,151 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,164924,Boston College,14308,86,690,0,6,782
+2002,164924,Boston College,14111,75,618,0,6,699
+2003,164924,Boston College,13728,79,632,0,6,717
+2004,164924,Boston College,14561,84,599,0,6,689
+2005,164924,Boston College,14829,78,657,0,6,741
+2006,164924,Boston College,14661,78,578,2,6,664
+2007,164924,Boston College,14621,91,693,0,6,790
+2008,164924,Boston College,14836,68,888,0,6,962
+2009,164924,Boston College,15036,25,1267,0,6,1298
+2010,164924,Boston College,14868,20,1158,0,6,1184
+2011,164924,Boston College,14754,22,1645,0,6,1673
+2012,164924,Boston College,14605,11,1045,0,6,1062
+2013,164924,Boston College,14309,21,1252,2,6,1281
+2014,164924,Boston College,14317,33,1017,0,6,1056
+2001,164988,Boston University,27756,84,488,0,29,601
+2002,164988,Boston University,28982,85,485,0,29,599
+2003,164988,Boston University,29049,110,609,0,29,748
+2004,164988,Boston University,29596,82,674,0,29,785
+2005,164988,Boston University,30957,123,578,0,29,730
+2006,164988,Boston University,31574,165,510,0,29,704
+2007,164988,Boston University,32053,80,500,0,29,609
+2008,164988,Boston University,31766,77,447,0,29,553
+2009,164988,Boston University,31960,76,491,0,29,596
+2010,164988,Boston University,32727,76,625,0,29,730
+2011,164988,Boston University,32439,73,549,8,29,659
+2012,164988,Boston University,32603,61,642,4,29,736
+2013,164988,Boston University,32411,37,783,2,29,851
+2014,164988,Boston University,32112,39,1097,2,29,1167
+2001,165024,Bridgewater State University,9038,41,368,0,21,430
+2002,165024,Bridgewater State University,9561,34,317,0,21,372
+2003,165024,Bridgewater State University,9626,39,371,1,21,432
+2004,165024,Bridgewater State University,9731,75,392,0,21,488
+2005,165024,Bridgewater State University,9649,75,383,0,21,479
+2006,165024,Bridgewater State University,9655,57,302,0,21,380
+2007,165024,Bridgewater State University,9934,55,441,0,21,517
+2008,165024,Bridgewater State University,10269,42,469,0,21,532
+2009,165024,Bridgewater State University,10774,26,490,0,21,537
+2010,165024,Bridgewater State University,11201,18,435,0,21,474
+2011,165024,Bridgewater State University,11294,17,547,0,21,585
+2012,165024,Bridgewater State University,11417,11,374,0,21,406
+2013,165024,Bridgewater State University,11267,10,139,2,21,172
+2014,165024,Bridgewater State University,11187,8,82,2,21,113
+2001,166027,Harvard University,24474,455,75,0,30,560
+2002,166027,Harvard University,24969,473,98,1,30,602
+2003,166027,Harvard University,24851,562,138,0,30,730
+2004,166027,Harvard University,24648,487,125,1,30,643
+2005,166027,Harvard University,25017,408,108,0,30,546
+2006,166027,Harvard University,25778,347,44,0,30,421
+2007,166027,Harvard University,25690,332,65,0,30,427
+2008,166027,Harvard University,26496,318,39,0,30,387
+2009,166027,Harvard University,27651,52,61,0,30,143
+2010,166027,Harvard University,27594,92,33,6,30,161
+2011,166027,Harvard University,27392,60,48,12,30,150
+2012,166027,Harvard University,28147,77,57,0,30,164
+2013,166027,Harvard University,28297,78,59,0,30,167
+2014,166027,Harvard University,28791,83,75,6,30,194
+2001,166513,University of Massachusetts-Lowell,12397,28,252,0,12,292
+2002,166513,University of Massachusetts-Lowell,12086,33,275,0,12,320
+2003,166513,University of Massachusetts-Lowell,11706,36,326,0,12,374
+2004,166513,University of Massachusetts-Lowell,11089,54,121,0,12,187
+2005,166513,University of Massachusetts-Lowell,10666,31,269,0,12,312
+2006,166513,University of Massachusetts-Lowell,11207,36,270,0,12,318
+2007,166513,University of Massachusetts-Lowell,11635,74,247,0,12,333
+2008,166513,University of Massachusetts-Lowell,12471,48,262,0,12,322
+2009,166513,University of Massachusetts-Lowell,13602,32,232,0,12,276
+2010,166513,University of Massachusetts-Lowell,14702,28,379,0,12,419
+2011,166513,University of Massachusetts-Lowell,15431,41,403,0,12,456
+2012,166513,University of Massachusetts-Lowell,16294,34,309,0,12,355
+2013,166513,University of Massachusetts-Lowell,16932,14,316,2,12,344
+2014,166513,University of Massachusetts-Lowell,17179,18,425,0,12,455
+2001,166629,University of Massachusetts-Amherst,24678,195,958,0,15,1168
+2002,166629,University of Massachusetts-Amherst,24062,176,881,0,15,1072
+2003,166629,University of Massachusetts-Amherst,24310,157,1121,0,15,1293
+2004,166629,University of Massachusetts-Amherst,24646,125,795,1,15,936
+2005,166629,University of Massachusetts-Amherst,25093,137,842,0,15,994
+2006,166629,University of Massachusetts-Amherst,25593,138,1026,0,15,1179
+2007,166629,University of Massachusetts-Amherst,25873,90,2681,1,15,2787
+2008,166629,University of Massachusetts-Amherst,26359,87,2025,1,15,2128
+2009,166629,University of Massachusetts-Amherst,27016,78,1588,0,15,1681
+2010,166629,University of Massachusetts-Amherst,27569,92,1610,0,15,1717
+2011,166629,University of Massachusetts-Amherst,28084,56,968,0,15,1039
+2012,166629,University of Massachusetts-Amherst,28236,84,644,2,15,745
+2013,166629,University of Massachusetts-Amherst,28518,54,837,4,15,910
+2014,166629,University of Massachusetts-Amherst,28635,44,717,6,15,782
+2001,166638,University of Massachusetts-Boston,13348,10,0,0,2,12
+2002,166638,University of Massachusetts-Boston,12719,13,2,0,2,17
+2003,166638,University of Massachusetts-Boston,12394,13,3,0,2,18
+2004,166638,University of Massachusetts-Boston,11682,8,1,1,2,12
+2005,166638,University of Massachusetts-Boston,11862,30,0,0,2,32
+2006,166638,University of Massachusetts-Boston,12362,35,0,0,2,37
+2007,166638,University of Massachusetts-Boston,13433,34,2,0,2,38
+2008,166638,University of Massachusetts-Boston,14117,23,6,0,2,31
+2009,166638,University of Massachusetts-Boston,14912,16,3,0,2,21
+2010,166638,University of Massachusetts-Boston,15454,6,4,0,2,12
+2011,166638,University of Massachusetts-Boston,15741,3,6,0,2,11
+2012,166638,University of Massachusetts-Boston,15874,2,5,0,2,9
+2013,166638,University of Massachusetts-Boston,16277,2,5,2,2,11
+2014,166638,University of Massachusetts-Boston,16756,5,2,0,2,9
+2001,166683,Massachusetts Institute of Technology,10197,41,7,0,18,66
+2002,166683,Massachusetts Institute of Technology,10317,49,0,0,18,67
+2003,166683,Massachusetts Institute of Technology,10340,123,3,0,18,144
+2004,166683,Massachusetts Institute of Technology,10320,126,11,0,18,155
+2005,166683,Massachusetts Institute of Technology,10206,295,0,0,18,313
+2006,166683,Massachusetts Institute of Technology,10253,274,8,0,18,300
+2007,166683,Massachusetts Institute of Technology,10220,215,2,0,18,235
+2008,166683,Massachusetts Institute of Technology,10299,98,22,0,18,138
+2009,166683,Massachusetts Institute of Technology,10384,135,34,0,18,187
+2010,166683,Massachusetts Institute of Technology,10566,29,27,0,18,74
+2011,166683,Massachusetts Institute of Technology,10894,26,38,2,18,84
+2012,166683,Massachusetts Institute of Technology,11189,16,52,0,18,86
+2013,166683,Massachusetts Institute of Technology,11301,38,65,0,18,121
+2014,166683,Massachusetts Institute of Technology,11319,38,58,0,18,114
+2001,167358,Northeastern University,23422,51,933,0,10,994
+2002,167358,Northeastern University,23357,56,972,0,10,1038
+2003,167358,Northeastern University,22944,59,814,0,10,883
+2004,167358,Northeastern University,22932,21,1055,0,10,1086
+2005,167358,Northeastern University,22604,42,1145,0,10,1197
+2006,167358,Northeastern University,23411,65,692,0,10,767
+2007,167358,Northeastern University,24434,40,788,0,10,838
+2008,167358,Northeastern University,25837,33,734,0,10,777
+2009,167358,Northeastern University,27537,28,689,18,10,745
+2010,167358,Northeastern University,29519,28,585,16,10,639
+2011,167358,Northeastern University,26959,31,452,8,10,501
+2012,167358,Northeastern University,27694,28,538,8,10,584
+2013,167358,Northeastern University,20053,46,556,10,10,622
+2014,167358,Northeastern University,19798,28,594,12,10,644
+2001,168148,Tufts University,9082,44,266,0,3,313
+2002,168148,Tufts University,9432,48,197,0,3,248
+2003,168148,Tufts University,9509,71,283,0,3,357
+2004,168148,Tufts University,9690,60,352,0,3,415
+2005,168148,Tufts University,9776,57,371,0,3,431
+2006,168148,Tufts University,9638,82,355,0,3,440
+2007,168148,Tufts University,9758,51,234,0,3,288
+2008,168148,Tufts University,10030,80,213,0,3,296
+2009,168148,Tufts University,10252,55,126,2,3,186
+2010,168148,Tufts University,10480,35,95,2,3,135
+2011,168148,Tufts University,10777,32,73,0,3,108
+2012,168148,Tufts University,10837,36,100,4,3,143
+2013,168148,Tufts University,10872,35,51,0,3,89
+2014,168148,Tufts University,10907,49,82,2,3,136
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0

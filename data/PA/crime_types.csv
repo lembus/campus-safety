@@ -1,0 +1,128 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2014,169248,Central Michigan University,26879,0,0,0,0,0
+2001,211440,Carnegie Mellon University,8588,23,7,0,35,65
+2002,211440,Carnegie Mellon University,9501,32,56,0,35,123
+2003,211440,Carnegie Mellon University,9756,24,85,0,35,144
+2004,211440,Carnegie Mellon University,9803,73,77,0,35,185
+2005,211440,Carnegie Mellon University,10017,49,103,0,35,187
+2006,211440,Carnegie Mellon University,9999,69,143,0,35,247
+2007,211440,Carnegie Mellon University,10326,41,133,0,35,209
+2008,211440,Carnegie Mellon University,10875,29,69,0,35,133
+2009,211440,Carnegie Mellon University,11197,21,39,0,35,95
+2010,211440,Carnegie Mellon University,11340,18,34,0,35,87
+2011,211440,Carnegie Mellon University,11531,29,58,0,35,122
+2012,211440,Carnegie Mellon University,11978,43,64,0,35,142
+2013,211440,Carnegie Mellon University,12367,37,43,4,35,119
+2014,211440,Carnegie Mellon University,12587,34,45,0,35,114
+2001,212054,Drexel University,13546,69,208,0,9,286
+2002,212054,Drexel University,16345,47,228,0,9,284
+2003,212054,Drexel University,17000,23,162,0,9,194
+2004,212054,Drexel University,17656,53,297,0,9,359
+2005,212054,Drexel University,18466,47,403,0,9,459
+2006,212054,Drexel University,19860,41,321,0,9,371
+2007,212054,Drexel University,20682,35,359,0,9,403
+2008,212054,Drexel University,21537,50,352,0,9,411
+2009,212054,Drexel University,22493,36,321,0,9,366
+2010,212054,Drexel University,23637,32,483,0,9,524
+2011,212054,Drexel University,24860,57,331,0,9,397
+2012,212054,Drexel University,25500,35,392,2,9,438
+2013,212054,Drexel University,26132,23,462,4,9,498
+2014,212054,Drexel University,26359,24,477,2,9,512
+2001,213020,Indiana University of Pennsylvania-Main Campus,13457,46,146,0,6,198
+2002,213020,Indiana University of Pennsylvania-Main Campus,13671,33,139,0,6,178
+2003,213020,Indiana University of Pennsylvania-Main Campus,13868,34,189,0,6,229
+2004,213020,Indiana University of Pennsylvania-Main Campus,13998,26,151,0,6,183
+2005,213020,Indiana University of Pennsylvania-Main Campus,14081,47,104,0,6,157
+2006,213020,Indiana University of Pennsylvania-Main Campus,14248,46,106,0,6,158
+2007,213020,Indiana University of Pennsylvania-Main Campus,14018,43,128,0,6,177
+2008,213020,Indiana University of Pennsylvania-Main Campus,14310,20,154,0,6,180
+2009,213020,Indiana University of Pennsylvania-Main Campus,14638,17,272,0,6,295
+2010,213020,Indiana University of Pennsylvania-Main Campus,15126,23,325,0,6,354
+2011,213020,Indiana University of Pennsylvania-Main Campus,15340,10,289,0,6,305
+2012,213020,Indiana University of Pennsylvania-Main Campus,15596,17,345,0,6,368
+2013,213020,Indiana University of Pennsylvania-Main Campus,14925,16,324,0,6,346
+2014,213020,Indiana University of Pennsylvania-Main Campus,14534,20,319,0,6,345
+2001,214777,Pennsylvania State University-Main Campus,40828,56,659,0,22,737
+2002,214777,Pennsylvania State University-Main Campus,41445,47,317,0,22,386
+2003,214777,Pennsylvania State University-Main Campus,41795,61,674,0,22,757
+2004,214777,Pennsylvania State University-Main Campus,41289,55,745,0,22,822
+2005,214777,Pennsylvania State University-Main Campus,40709,69,597,0,22,688
+2006,214777,Pennsylvania State University-Main Campus,42914,60,717,0,22,799
+2007,214777,Pennsylvania State University-Main Campus,43252,137,409,0,22,568
+2008,214777,Pennsylvania State University-Main Campus,44406,76,342,1,22,441
+2009,214777,Pennsylvania State University-Main Campus,45185,81,460,0,22,563
+2010,214777,Pennsylvania State University-Main Campus,45233,82,671,22,22,797
+2011,214777,Pennsylvania State University-Main Campus,45628,156,744,18,22,940
+2012,214777,Pennsylvania State University-Main Campus,45783,122,678,8,22,830
+2013,214777,Pennsylvania State University-Main Campus,46615,88,1218,16,22,1344
+2014,214777,Pennsylvania State University-Main Campus,47040,91,1077,12,22,1202
+2001,215062,University of Pennsylvania,22326,109,21,0,11,141
+2002,215062,University of Pennsylvania,22769,75,25,0,11,111
+2003,215062,University of Pennsylvania,23243,78,40,0,11,129
+2004,215062,University of Pennsylvania,23305,64,100,0,11,175
+2005,215062,University of Pennsylvania,23704,63,16,0,11,90
+2006,215062,University of Pennsylvania,23743,52,20,0,11,83
+2007,215062,University of Pennsylvania,23980,70,34,0,11,115
+2008,215062,University of Pennsylvania,24107,64,39,0,11,114
+2009,215062,University of Pennsylvania,24599,48,118,0,11,177
+2010,215062,University of Pennsylvania,25007,41,139,0,11,191
+2011,215062,University of Pennsylvania,24832,44,160,0,11,215
+2012,215062,University of Pennsylvania,24725,35,168,2,11,216
+2013,215062,University of Pennsylvania,24630,39,158,2,11,210
+2014,215062,University of Pennsylvania,24806,60,810,0,11,881
+2001,215293,University of Pittsburgh-Pittsburgh Campus,26710,54,243,0,9,306
+2002,215293,University of Pittsburgh-Pittsburgh Campus,27190,84,274,0,9,367
+2003,215293,University of Pittsburgh-Pittsburgh Campus,26795,53,271,0,9,333
+2004,215293,University of Pittsburgh-Pittsburgh Campus,26731,64,356,0,9,429
+2005,215293,University of Pittsburgh-Pittsburgh Campus,26559,44,544,0,9,597
+2006,215293,University of Pittsburgh-Pittsburgh Campus,26860,53,583,0,9,645
+2007,215293,University of Pittsburgh-Pittsburgh Campus,27020,36,234,0,9,279
+2008,215293,University of Pittsburgh-Pittsburgh Campus,27562,47,196,0,9,252
+2009,215293,University of Pittsburgh-Pittsburgh Campus,28328,29,347,0,9,385
+2010,215293,University of Pittsburgh-Pittsburgh Campus,28823,57,378,4,9,448
+2011,215293,University of Pittsburgh-Pittsburgh Campus,28766,39,282,4,9,334
+2012,215293,University of Pittsburgh-Pittsburgh Campus,28769,31,302,0,9,342
+2013,215293,University of Pittsburgh-Pittsburgh Campus,28649,44,340,0,9,393
+2014,215293,University of Pittsburgh-Pittsburgh Campus,28617,38,313,2,9,362
+2001,216339,Temple University,29872,52,0,0,15,67
+2002,216339,Temple University,32359,24,26,0,15,65
+2003,216339,Temple University,32877,47,52,0,15,114
+2004,216339,Temple University,33551,40,60,0,15,115
+2005,216339,Temple University,33695,95,49,0,15,159
+2006,216339,Temple University,33865,158,91,0,15,264
+2007,216339,Temple University,34696,150,116,0,15,281
+2008,216339,Temple University,35490,158,149,0,15,322
+2009,216339,Temple University,36507,36,128,2,15,181
+2010,216339,Temple University,37367,38,205,0,15,258
+2011,216339,Temple University,36855,17,186,0,15,218
+2012,216339,Temple University,36744,40,327,0,15,382
+2013,216339,Temple University,37270,34,363,4,15,416
+2014,216339,Temple University,37485,54,661,8,15,738
+2001,216597,Villanova University,10259,68,583,0,12,663
+2002,216597,Villanova University,10473,40,668,0,12,720
+2003,216597,Villanova University,10581,40,831,0,12,883
+2004,216597,Villanova University,10610,42,865,0,12,919
+2005,216597,Villanova University,10367,31,855,0,12,898
+2006,216597,Villanova University,10466,30,965,0,12,1007
+2007,216597,Villanova University,10470,39,981,0,12,1032
+2008,216597,Villanova University,10274,64,689,0,12,765
+2009,216597,Villanova University,10375,15,664,14,12,705
+2010,216597,Villanova University,10605,29,884,6,12,931
+2011,216597,Villanova University,10661,26,975,2,12,1015
+2012,216597,Villanova University,10583,38,894,0,12,944
+2013,216597,Villanova University,10696,29,843,0,12,884
+2014,216597,Villanova University,10735,16,729,0,12,757
+2001,216764,West Chester University of Pennsylvania,12244,26,652,0,7,685
+2002,216764,West Chester University of Pennsylvania,12584,14,672,0,7,693
+2003,216764,West Chester University of Pennsylvania,12695,46,398,0,7,451
+2004,216764,West Chester University of Pennsylvania,12822,30,250,0,7,287
+2005,216764,West Chester University of Pennsylvania,12988,82,311,0,7,400
+2006,216764,West Chester University of Pennsylvania,12879,67,187,0,7,261
+2007,216764,West Chester University of Pennsylvania,13219,60,14,0,7,81
+2008,216764,West Chester University of Pennsylvania,13619,72,2,0,7,81
+2009,216764,West Chester University of Pennsylvania,14211,37,99,24,7,167
+2010,216764,West Chester University of Pennsylvania,14490,23,146,16,7,192
+2011,216764,West Chester University of Pennsylvania,15100,30,200,16,7,253
+2012,216764,West Chester University of Pennsylvania,15411,34,132,0,7,173
+2013,216764,West Chester University of Pennsylvania,15845,27,138,2,7,174
+2014,216764,West Chester University of Pennsylvania,16086,17,178,0,7,202

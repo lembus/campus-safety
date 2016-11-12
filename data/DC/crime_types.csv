@@ -1,0 +1,140 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,110635,University of California-Berkeley,32128,0,0,0,0,0
+2002,110635,University of California-Berkeley,33145,0,0,0,0,0
+2003,110635,University of California-Berkeley,33065,0,0,0,0,0
+2004,110635,University of California-Berkeley,32803,0,0,0,0,0
+2005,110635,University of California-Berkeley,33547,1,0,0,0,1
+2006,110635,University of California-Berkeley,33920,0,0,0,0,0
+2007,110635,University of California-Berkeley,34940,0,0,0,0,0
+2008,110635,University of California-Berkeley,35396,0,1,0,0,1
+2009,110635,University of California-Berkeley,35830,0,2,0,0,2
+2010,110635,University of California-Berkeley,35833,0,1,0,0,1
+2011,110635,University of California-Berkeley,36137,0,0,0,0,0
+2012,110635,University of California-Berkeley,35893,0,5,0,0,5
+2013,110635,University of California-Berkeley,36198,0,10,0,0,10
+2014,110635,University of California-Berkeley,37565,0,4,0,0,4
+2001,131159,American University,10692,49,471,0,21,541
+2002,131159,American University,11052,28,595,2,21,646
+2003,131159,American University,10978,48,276,0,21,345
+2004,131159,American University,11192,50,367,0,21,438
+2005,131159,American University,11279,53,355,0,21,429
+2006,131159,American University,11378,25,421,0,21,467
+2007,131159,American University,11449,35,365,0,21,421
+2008,131159,American University,11684,59,291,1,21,372
+2009,131159,American University,12241,55,448,12,21,536
+2010,131159,American University,12795,23,498,8,21,550
+2011,131159,American University,12724,57,239,8,21,325
+2012,131159,American University,12904,39,444,4,21,508
+2013,131159,American University,12818,44,362,22,21,449
+2014,131159,American University,13061,41,470,12,21,544
+2001,131469,George Washington University,22184,83,590,0,31,704
+2002,131469,George Washington University,23019,83,386,0,31,500
+2003,131469,George Washington University,23417,125,599,0,31,755
+2004,131469,George Washington University,24092,123,746,0,31,900
+2005,131469,George Washington University,24099,140,1339,1,31,1511
+2006,131469,George Washington University,24531,140,616,1,31,788
+2007,131469,George Washington University,25078,167,1234,1,31,1433
+2008,131469,George Washington University,25116,155,567,0,31,753
+2009,131469,George Washington University,25061,123,425,0,31,579
+2010,131469,George Washington University,25135,91,455,2,31,579
+2011,131469,George Washington University,25260,69,447,4,31,551
+2012,131469,George Washington University,25653,37,476,4,31,548
+2013,131469,George Washington University,25264,58,742,2,31,833
+2014,131469,George Washington University,25613,50,382,4,31,467
+2001,131496,Georgetown University,12688,92,581,0,12,685
+2002,131496,Georgetown University,12856,43,796,0,12,851
+2003,131496,Georgetown University,13164,52,758,0,12,822
+2004,131496,Georgetown University,13233,65,590,0,12,667
+2005,131496,Georgetown University,13652,45,891,0,12,948
+2006,131496,Georgetown University,14148,38,558,0,12,608
+2007,131496,Georgetown University,14826,29,556,0,12,597
+2008,131496,Georgetown University,15318,26,335,0,12,373
+2009,131496,Georgetown University,16520,43,363,26,12,444
+2010,131496,Georgetown University,16937,53,483,2,12,550
+2011,131496,Georgetown University,17130,52,365,4,12,433
+2012,131496,Georgetown University,17357,76,238,4,12,330
+2013,131496,Georgetown University,17849,62,242,8,12,324
+2014,131496,Georgetown University,17858,65,273,2,12,352
+2001,131520,Howard University,11004,155,19,0,9,183
+2002,131520,Howard University,10517,131,13,0,9,153
+2003,131520,Howard University,10658,73,21,0,9,103
+2004,131520,Howard University,10623,55,12,0,9,76
+2005,131520,Howard University,10930,69,8,0,9,86
+2006,131520,Howard University,10771,88,6,0,9,103
+2007,131520,Howard University,10125,82,6,0,9,97
+2008,131520,Howard University,10320,90,5,0,9,104
+2009,131520,Howard University,10573,79,7,0,9,95
+2010,131520,Howard University,10379,43,25,0,9,77
+2011,131520,Howard University,10583,38,69,0,9,116
+2012,131520,Howard University,10002,69,102,0,9,180
+2013,131520,Howard University,10297,44,114,0,9,167
+2014,131520,Howard University,10265,35,174,0,9,218
+2006,147767,Northwestern University,18486,0,0,0,0,0
+2007,147767,Northwestern University,19005,0,0,0,0,0
+2008,147767,Northwestern University,19291,0,0,0,0,0
+2009,147767,Northwestern University,19853,0,0,0,0,0
+2010,147767,Northwestern University,20481,0,0,0,0,0
+2011,147767,Northwestern University,20959,0,0,0,0,0
+2012,147767,Northwestern University,21215,0,0,0,0,0
+2013,147767,Northwestern University,21592,0,0,0,0,0
+2014,147767,Northwestern University,21554,0,0,0,0,0
+2001,162928,Johns Hopkins University,17826,1,0,0,0,1
+2002,162928,Johns Hopkins University,17989,3,0,0,0,3
+2003,162928,Johns Hopkins University,18820,2,0,0,0,2
+2004,162928,Johns Hopkins University,18626,0,0,0,0,0
+2005,162928,Johns Hopkins University,19225,1,0,0,0,1
+2006,162928,Johns Hopkins University,19708,0,0,0,0,0
+2007,162928,Johns Hopkins University,19682,0,0,0,0,0
+2008,162928,Johns Hopkins University,19758,0,0,0,0,0
+2009,162928,Johns Hopkins University,20383,0,0,0,0,0
+2010,162928,Johns Hopkins University,20977,0,0,0,0,0
+2011,162928,Johns Hopkins University,20996,0,0,0,0,0
+2012,162928,Johns Hopkins University,20871,0,0,0,0,0
+2013,162928,Johns Hopkins University,20918,0,0,0,0,0
+2014,162928,Johns Hopkins University,21372,0,0,0,0,0
+2014,163204,University of Maryland-University College,47906,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2013,193900,New York University,44599,0,0,0,0,0
+2014,193900,New York University,49274,0,6,0,0,6
+2012,196413,Syracuse University,21029,0,0,0,0,0
+2013,196413,Syracuse University,21267,0,0,0,0,0
+2014,196413,Syracuse University,21492,0,0,0,0,0
+2001,230038,Brigham Young University-Provo,32771,0,0,0,0,0
+2002,230038,Brigham Young University-Provo,32408,0,0,0,0,0
+2003,230038,Brigham Young University-Provo,33008,0,0,0,0,0
+2004,230038,Brigham Young University-Provo,34347,0,0,0,0,0
+2005,230038,Brigham Young University-Provo,34067,0,0,0,0,0
+2006,230038,Brigham Young University-Provo,34185,0,0,0,0,0
+2007,230038,Brigham Young University-Provo,34174,0,0,0,0,0
+2008,230038,Brigham Young University-Provo,34244,0,0,0,0,0
+2009,230038,Brigham Young University-Provo,34130,0,0,0,0,0
+2010,230038,Brigham Young University-Provo,33841,0,0,0,0,0
+2011,230038,Brigham Young University-Provo,34101,0,0,0,0,0
+2012,230038,Brigham Young University-Provo,34409,0,0,0,0,0
+2013,230038,Brigham Young University-Provo,31123,0,0,0,0,0
+2014,230038,Brigham Young University-Provo,30484,0,0,0,0,0
+2001,243744,Stanford University,18591,0,0,0,0,0
+2002,243744,Stanford University,18297,0,0,0,0,0
+2003,243744,Stanford University,17824,0,0,0,0,0
+2004,243744,Stanford University,18836,0,0,0,0,0
+2005,243744,Stanford University,19042,0,0,0,0,0
+2006,243744,Stanford University,17747,0,0,0,0,0
+2007,243744,Stanford University,19782,0,0,0,0,0
+2008,243744,Stanford University,17833,0,0,0,0,0
+2009,243744,Stanford University,18498,0,0,0,0,0
+2010,243744,Stanford University,19535,0,0,0,0,0
+2011,243744,Stanford University,19945,0,0,0,0,0
+2012,243744,Stanford University,18519,3,0,0,0,3
+2013,243744,Stanford University,18346,0,0,0,0,0
+2014,243744,Stanford University,16963,0,0,0,0,0

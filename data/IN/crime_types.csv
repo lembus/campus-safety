@@ -1,0 +1,137 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,150136,Ball State University,18965,56,421,0,22,499
+2002,150136,Ball State University,19411,46,503,0,22,571
+2003,150136,Ball State University,20490,50,552,0,22,624
+2004,150136,Ball State University,20507,43,472,0,22,537
+2005,150136,Ball State University,20351,31,522,0,22,575
+2006,150136,Ball State University,20030,73,449,0,22,544
+2007,150136,Ball State University,19849,41,743,0,22,806
+2008,150136,Ball State University,20243,22,520,0,22,564
+2009,150136,Ball State University,21401,23,454,0,22,499
+2010,150136,Ball State University,22083,32,410,0,22,464
+2011,150136,Ball State University,22147,40,589,0,22,651
+2012,150136,Ball State University,21053,25,578,0,22,625
+2013,150136,Ball State University,20503,37,498,0,22,557
+2014,150136,Ball State University,20655,32,599,0,22,653
+2001,151102,Indiana University-Purdue University-Fort Wayne,11128,5,0,0,4,9
+2002,151102,Indiana University-Purdue University-Fort Wayne,11755,2,0,0,4,6
+2003,151102,Indiana University-Purdue University-Fort Wayne,11806,5,0,0,4,9
+2004,151102,Indiana University-Purdue University-Fort Wayne,11810,7,104,0,4,115
+2005,151102,Indiana University-Purdue University-Fort Wayne,11795,8,71,0,4,83
+2006,151102,Indiana University-Purdue University-Fort Wayne,11672,19,100,0,4,123
+2007,151102,Indiana University-Purdue University-Fort Wayne,11943,14,173,0,4,191
+2008,151102,Indiana University-Purdue University-Fort Wayne,12338,18,79,0,4,101
+2009,151102,Indiana University-Purdue University-Fort Wayne,13675,18,54,0,4,76
+2010,151102,Indiana University-Purdue University-Fort Wayne,14192,14,51,0,4,69
+2011,151102,Indiana University-Purdue University-Fort Wayne,14326,7,56,0,4,67
+2012,151102,Indiana University-Purdue University-Fort Wayne,13771,5,71,0,4,80
+2013,151102,Indiana University-Purdue University-Fort Wayne,13459,11,26,0,4,41
+2014,151102,Indiana University-Purdue University-Fort Wayne,13214,4,44,0,4,52
+2001,151111,Indiana University-Purdue University-Indianapolis,28339,21,0,0,158,179
+2002,151111,Indiana University-Purdue University-Indianapolis,29025,24,0,0,158,182
+2003,151111,Indiana University-Purdue University-Indianapolis,29860,27,4,0,158,189
+2004,151111,Indiana University-Purdue University-Indianapolis,29953,185,4,0,158,347
+2005,151111,Indiana University-Purdue University-Indianapolis,29933,114,51,0,158,323
+2006,151111,Indiana University-Purdue University-Indianapolis,29764,101,49,1,158,309
+2007,151111,Indiana University-Purdue University-Indianapolis,29854,111,78,0,158,347
+2008,151111,Indiana University-Purdue University-Indianapolis,30300,91,87,0,158,336
+2009,151111,Indiana University-Purdue University-Indianapolis,30383,82,82,10,158,332
+2010,151111,Indiana University-Purdue University-Indianapolis,30566,54,90,0,158,302
+2011,151111,Indiana University-Purdue University-Indianapolis,30530,74,85,2,158,319
+2012,151111,Indiana University-Purdue University-Indianapolis,30451,359,3130,16,158,3663
+2013,151111,Indiana University-Purdue University-Indianapolis,30488,307,2790,12,158,3267
+2014,151111,Indiana University-Purdue University-Indianapolis,30690,293,4190,10,158,4651
+2001,151324,Indiana State University,11321,68,75,0,10,153
+2002,151324,Indiana State University,11714,60,92,0,10,162
+2003,151324,Indiana State University,11360,82,47,0,10,139
+2004,151324,Indiana State University,11200,68,153,0,10,231
+2005,151324,Indiana State University,10679,69,148,0,10,227
+2006,151324,Indiana State University,10568,58,230,0,10,298
+2007,151324,Indiana State University,10543,49,151,0,10,210
+2008,151324,Indiana State University,10457,60,128,0,10,198
+2009,151324,Indiana State University,10534,30,36,4,10,80
+2010,151324,Indiana State University,11494,23,94,2,10,129
+2011,151324,Indiana State University,11528,31,85,2,10,128
+2012,151324,Indiana State University,12114,35,287,2,10,334
+2013,151324,Indiana State University,12448,39,227,0,10,276
+2014,151324,Indiana State University,13183,34,166,4,10,214
+2001,151351,Indiana University-Bloomington,37963,89,1040,0,35,1164
+2002,151351,Indiana University-Bloomington,38903,82,834,0,35,951
+2003,151351,Indiana University-Bloomington,38589,62,871,0,35,968
+2004,151351,Indiana University-Bloomington,37821,64,1367,0,35,1466
+2005,151351,Indiana University-Bloomington,37958,50,916,0,35,1001
+2006,151351,Indiana University-Bloomington,38247,74,1100,0,35,1209
+2007,151351,Indiana University-Bloomington,38990,110,1690,0,35,1835
+2008,151351,Indiana University-Bloomington,40354,65,1606,0,35,1706
+2009,151351,Indiana University-Bloomington,42347,65,1203,32,35,1335
+2010,151351,Indiana University-Bloomington,42464,89,1218,28,35,1370
+2011,151351,Indiana University-Bloomington,42731,136,1577,6,35,1754
+2012,151351,Indiana University-Bloomington,42133,121,1075,6,35,1237
+2013,151351,Indiana University-Bloomington,46817,94,783,4,35,916
+2014,151351,Indiana University-Bloomington,46416,59,1454,0,35,1548
+2001,151801,Indiana Wesleyan University,7929,2,0,0,3,5
+2002,151801,Indiana Wesleyan University,8765,0,0,0,3,3
+2003,151801,Indiana Wesleyan University,10149,0,9,0,3,12
+2004,151801,Indiana Wesleyan University,11412,0,0,0,3,3
+2005,151801,Indiana Wesleyan University,12632,0,0,0,3,3
+2006,151801,Indiana Wesleyan University,13917,0,0,0,3,3
+2007,151801,Indiana Wesleyan University,14756,13,0,0,3,16
+2008,151801,Indiana Wesleyan University,15442,12,1,0,3,16
+2009,151801,Indiana Wesleyan University,15345,1,1,0,3,5
+2010,151801,Indiana Wesleyan University,15953,2,1,0,3,6
+2011,151801,Indiana Wesleyan University,15872,7,10,2,3,22
+2012,151801,Indiana Wesleyan University,15580,1,2,0,3,6
+2013,151801,Indiana Wesleyan University,14959,4,0,0,3,7
+2014,151801,Indiana Wesleyan University,14943,6,17,0,3,26
+2001,152080,University of Notre Dame,11054,67,223,0,6,296
+2002,152080,University of Notre Dame,11311,59,194,0,6,259
+2003,152080,University of Notre Dame,11415,56,107,0,6,169
+2004,152080,University of Notre Dame,11479,69,190,0,6,265
+2005,152080,University of Notre Dame,11417,98,363,0,6,467
+2006,152080,University of Notre Dame,11603,63,270,0,6,339
+2007,152080,University of Notre Dame,11733,51,197,0,6,254
+2008,152080,University of Notre Dame,11731,68,244,0,6,318
+2009,152080,University of Notre Dame,11816,58,225,0,6,289
+2010,152080,University of Notre Dame,11992,71,250,0,6,327
+2011,152080,University of Notre Dame,12004,63,379,0,6,448
+2012,152080,University of Notre Dame,12126,51,218,0,6,275
+2013,152080,University of Notre Dame,12124,40,408,0,6,454
+2014,152080,University of Notre Dame,12179,49,917,0,6,972
+2001,152637,Vincennes University,18285,48,51,0,1,100
+2002,152637,Vincennes University,8565,49,58,0,1,108
+2003,152637,Vincennes University,8183,42,16,0,1,59
+2004,152637,Vincennes University,8824,34,24,0,1,59
+2005,152637,Vincennes University,9672,11,19,1,1,32
+2006,152637,Vincennes University,9769,25,54,0,1,80
+2007,152637,Vincennes University,10750,7,5,0,1,13
+2008,152637,Vincennes University,11590,35,41,1,1,78
+2009,152637,Vincennes University,13947,24,35,0,1,60
+2010,152637,Vincennes University,16595,19,34,0,1,54
+2011,152637,Vincennes University,17140,32,109,0,1,142
+2012,152637,Vincennes University,17530,33,91,2,1,127
+2013,152637,Vincennes University,18383,26,71,4,1,102
+2014,152637,Vincennes University,19205,27,133,2,1,163
+2001,243780,Purdue University-Main Campus,39882,34,333,0,31,398
+2002,243780,Purdue University-Main Campus,40117,53,359,0,31,443
+2003,243780,Purdue University-Main Campus,40376,46,263,1,31,341
+2004,243780,Purdue University-Main Campus,40108,43,459,0,31,533
+2005,243780,Purdue University-Main Campus,40151,25,379,0,31,435
+2006,243780,Purdue University-Main Campus,40609,55,476,0,31,562
+2007,243780,Purdue University-Main Campus,40534,88,440,0,31,559
+2008,243780,Purdue University-Main Campus,41433,65,327,0,31,423
+2009,243780,Purdue University-Main Campus,41052,51,302,6,31,390
+2010,243780,Purdue University-Main Campus,41063,53,376,18,31,478
+2011,243780,Purdue University-Main Campus,40849,65,744,14,31,854
+2012,243780,Purdue University-Main Campus,40393,63,691,2,31,787
+2013,243780,Purdue University-Main Campus,39794,31,633,2,31,697
+2014,243780,Purdue University-Main Campus,39752,61,803,4,31,899
+2012,260901,Kaplan University-Davenport Campus,48865,0,0,0,0,0
+2013,260901,Kaplan University-Davenport Campus,52407,0,0,0,0,0
+2014,260901,Kaplan University-Davenport Campus,52018,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

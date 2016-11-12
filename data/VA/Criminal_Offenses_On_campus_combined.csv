@@ -1,0 +1,178 @@
+Survey year,Unitid,Institution name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2004,102368,Troy University,20855,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,102368,Troy University,26880,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,102368,Troy University,27938,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,102368,Troy University,28955,0,0,0,0,0,0,0,0,0,0,1,0,0
+2008,102368,Troy University,28303,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,102368,Troy University,29328,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,102368,Troy University,28322,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,102368,Troy University,26172,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,102368,Troy University,22554,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,102368,Troy University,20573,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,102368,Troy University,19041,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,131469,George Washington University,22184,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,131469,George Washington University,23019,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,131469,George Washington University,23417,0,0,0,0,0,0,0,0,0,0,1,0,0
+2004,131469,George Washington University,24092,0,0,0,0,0,0,0,0,0,0,1,0,0
+2005,131469,George Washington University,24099,0,0,0,0,0,0,0,0,0,0,5,0,0
+2006,131469,George Washington University,24531,0,0,0,0,0,0,0,0,0,0,2,0,0
+2007,131469,George Washington University,25078,0,0,0,0,0,0,0,0,1,0,1,0,0
+2008,131469,George Washington University,25116,0,0,0,0,0,1,0,0,0,0,0,1,0
+2009,131469,George Washington University,25061,0,0,0,0,0,0,0,0,1,0,0,0,0
+2010,131469,George Washington University,25135,0,0,0,0,0,0,0,0,2,0,0,0,0
+2011,131469,George Washington University,25260,0,0,0,0,0,0,0,0,0,0,1,0,0
+2012,131469,George Washington University,25653,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,131469,George Washington University,25264,0,0,0,0,0,0,0,0,0,0,1,0,0
+2014,131469,George Washington University,25613,0,0,0,0,0,0,0,0,1,0,0,0,0
+2011,137032,Saint Leo University,15564,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,137032,Saint Leo University,15986,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,137032,Saint Leo University,16275,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,137032,Saint Leo University,16349,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,163204,University of Maryland-University College,39557,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,163204,University of Maryland-University College,47906,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,169248,Central Michigan University,26879,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,232186,George Mason University,24897,0,0,9,0,0,0,0,0,1,1,17,0,1
+2002,232186,George Mason University,26796,0,0,3,0,0,0,0,0,1,1,18,13,2
+2003,232186,George Mason University,28246,0,0,16,0,0,0,0,0,1,5,19,20,3
+2004,232186,George Mason University,28874,0,0,19,0,0,0,0,0,1,2,12,5,5
+2005,232186,George Mason University,29728,0,0,6,0,0,0,0,0,3,4,9,7,1
+2006,232186,George Mason University,29889,0,0,9,0,0,0,0,0,2,6,9,3,0
+2007,232186,George Mason University,30276,0,0,12,0,0,0,0,0,1,2,9,3,4
+2008,232186,George Mason University,30613,0,0,11,0,0,0,0,0,1,0,11,0,0
+2009,232186,George Mason University,32067,0,0,5,0,0,0,0,0,0,1,4,4,2
+2010,232186,George Mason University,32562,0,0,5,0,0,0,0,0,1,2,22,5,0
+2011,232186,George Mason University,33320,0,0,8,0,0,0,0,0,0,0,31,0,0
+2012,232186,George Mason University,32961,0,0,7,0,0,0,0,0,1,3,40,3,2
+2013,232186,George Mason University,33917,0,0,9,0,0,1,0,0,1,2,11,1,1
+2014,232186,George Mason University,33729,0,0,0,12,7,0,0,0,0,2,14,1,0
+2001,232423,James Madison University,15562,0,0,5,0,0,0,0,0,0,4,16,2,3
+2002,232423,James Madison University,15965,0,0,6,0,0,0,0,0,0,3,27,0,5
+2003,232423,James Madison University,16203,0,0,5,0,0,0,0,0,0,4,18,1,1
+2004,232423,James Madison University,16108,0,0,5,0,0,0,0,0,0,0,32,1,6
+2005,232423,James Madison University,16938,0,0,6,0,0,0,0,0,1,0,42,2,1
+2006,232423,James Madison University,17393,0,0,6,0,0,0,0,0,1,1,38,0,1
+2007,232423,James Madison University,17918,0,0,1,0,0,0,0,0,0,0,42,1,0
+2008,232423,James Madison University,18454,0,0,0,0,0,0,0,0,0,1,24,2,0
+2009,232423,James Madison University,18971,0,0,4,0,0,0,0,0,0,0,23,0,0
+2010,232423,James Madison University,19434,0,0,5,0,0,0,0,0,0,3,22,1,1
+2011,232423,James Madison University,19722,0,0,2,0,0,0,0,0,1,0,16,1,0
+2012,232423,James Madison University,19927,0,0,4,0,0,0,0,0,0,0,14,2,0
+2013,232423,James Madison University,20181,0,0,6,0,0,0,0,0,0,2,22,0,1
+2014,232423,James Madison University,20855,0,0,0,4,1,0,0,0,0,2,21,0,0
+2001,232557,Liberty University,6162,0,0,0,0,0,0,0,0,0,0,8,0,0
+2002,232557,Liberty University,7709,0,0,1,0,0,0,0,0,0,0,3,1,5
+2003,232557,Liberty University,9050,0,0,0,0,0,0,0,0,1,0,12,1,6
+2004,232557,Liberty University,10475,0,0,0,0,0,0,0,0,1,0,9,0,5
+2005,232557,Liberty University,12458,0,0,0,0,0,0,0,0,1,0,10,1,0
+2006,232557,Liberty University,17798,0,0,4,0,0,0,0,0,0,0,6,0,3
+2007,232557,Liberty University,27068,0,0,4,0,0,0,0,0,0,1,6,0,1
+2008,232557,Liberty University,33604,0,0,1,0,0,0,0,0,0,2,14,2,2
+2009,232557,Liberty University,46312,1,0,5,0,0,0,0,0,1,2,10,2,6
+2010,232557,Liberty University,56625,0,0,3,0,0,0,0,0,0,0,4,0,5
+2011,232557,Liberty University,64096,0,0,4,0,0,0,0,0,2,1,5,1,2
+2012,232557,Liberty University,74372,0,0,1,0,0,0,0,0,0,0,2,0,0
+2013,232557,Liberty University,77338,0,0,2,0,0,0,0,0,0,0,6,0,5
+2014,232557,Liberty University,81459,0,0,0,1,7,0,0,0,0,1,5,4,2
+2001,232982,Old Dominion University,19627,0,0,2,0,0,0,0,0,4,0,8,10,0
+2002,232982,Old Dominion University,20105,0,0,1,0,0,0,0,0,5,2,8,12,0
+2003,232982,Old Dominion University,20802,0,0,3,0,0,0,0,0,3,2,4,8,0
+2004,232982,Old Dominion University,20595,0,0,3,0,0,0,0,0,2,0,2,3,0
+2005,232982,Old Dominion University,21274,0,0,1,0,0,0,0,0,4,2,2,1,0
+2006,232982,Old Dominion University,21625,0,0,4,0,0,0,0,0,5,1,5,1,0
+2007,232982,Old Dominion University,22287,0,0,3,0,0,0,0,0,2,2,21,1,0
+2008,232982,Old Dominion University,23086,0,0,2,0,0,1,0,0,5,4,30,7,2
+2009,232982,Old Dominion University,24013,0,0,6,0,0,0,0,0,1,5,35,6,0
+2010,232982,Old Dominion University,24466,0,0,3,0,0,0,0,0,4,1,20,5,2
+2011,232982,Old Dominion University,24753,0,0,7,0,0,0,0,0,6,2,34,6,0
+2012,232982,Old Dominion University,24670,0,0,7,0,0,0,0,0,0,2,22,4,1
+2013,232982,Old Dominion University,24828,0,0,5,0,0,0,0,0,3,2,31,4,1
+2014,232982,Old Dominion University,24932,0,0,0,10,2,0,0,1,3,7,10,5,0
+2001,233921,Virginia Polytechnic Institute and State University,28203,0,0,5,0,0,0,0,0,0,7,43,2,0
+2002,233921,Virginia Polytechnic Institute and State University,28027,0,0,6,0,0,0,0,0,0,8,39,1,3
+2003,233921,Virginia Polytechnic Institute and State University,27755,0,0,7,0,0,0,0,0,1,7,31,1,0
+2004,233921,Virginia Polytechnic Institute and State University,27619,0,0,9,0,0,0,0,0,1,8,53,2,5
+2005,233921,Virginia Polytechnic Institute and State University,27979,0,0,7,0,0,0,0,0,0,5,22,2,9
+2006,233921,Virginia Polytechnic Institute and State University,28470,0,0,8,0,0,0,0,0,0,0,41,2,1
+2007,233921,Virginia Polytechnic Institute and State University,29898,32,0,3,0,0,0,0,0,1,24,55,2,2
+2008,233921,Virginia Polytechnic Institute and State University,30739,0,0,4,0,0,0,0,0,1,9,76,2,2
+2009,233921,Virginia Polytechnic Institute and State University,30870,1,0,8,0,0,0,0,0,1,0,30,4,3
+2010,233921,Virginia Polytechnic Institute and State University,31006,0,0,3,0,0,0,0,0,0,3,45,5,1
+2011,233921,Virginia Polytechnic Institute and State University,30936,1,0,16,0,0,0,0,0,0,3,30,3,0
+2012,233921,Virginia Polytechnic Institute and State University,31087,0,0,8,0,0,0,0,0,1,6,26,3,1
+2013,233921,Virginia Polytechnic Institute and State University,31205,0,0,12,0,0,0,0,0,0,0,20,3,1
+2014,233921,Virginia Polytechnic Institute and State University,31224,0,0,0,7,5,0,0,0,0,6,20,1,1
+2001,234030,Virginia Commonwealth University,25001,0,0,4,0,0,1,0,0,7,15,12,3,3
+2002,234030,Virginia Commonwealth University,26009,0,0,1,0,0,1,0,0,2,15,11,6,4
+2003,234030,Virginia Commonwealth University,26631,0,0,11,0,0,0,0,0,8,14,14,6,3
+2004,234030,Virginia Commonwealth University,28303,1,0,8,0,0,0,0,0,13,8,18,15,3
+2005,234030,Virginia Commonwealth University,29168,1,0,8,0,0,0,0,0,4,7,114,7,4
+2006,234030,Virginia Commonwealth University,30189,0,0,9,0,0,0,0,0,4,19,190,8,6
+2007,234030,Virginia Commonwealth University,31700,0,0,5,0,0,0,0,0,2,10,133,3,0
+2008,234030,Virginia Commonwealth University,32044,0,0,8,0,0,0,0,0,1,0,62,14,2
+2009,234030,Virginia Commonwealth University,32172,0,0,5,0,0,0,0,0,3,1,86,20,2
+2010,234030,Virginia Commonwealth University,32027,0,0,2,0,0,0,0,0,3,2,127,3,0
+2011,234030,Virginia Commonwealth University,31627,0,0,4,0,0,0,0,0,1,3,11,2,1
+2012,234030,Virginia Commonwealth University,31445,0,0,5,0,0,0,0,0,4,8,17,9,1
+2013,234030,Virginia Commonwealth University,30974,0,0,7,0,0,0,0,0,0,7,24,11,1
+2014,234030,Virginia Commonwealth University,30848,0,0,0,5,6,0,0,0,0,6,13,2,1
+2001,234076,University of Virginia-Main Campus,22739,0,0,20,0,0,0,0,0,4,9,10,3,1
+2002,234076,University of Virginia-Main Campus,23144,0,0,17,0,0,0,0,0,0,12,8,8,6
+2003,234076,University of Virginia-Main Campus,23077,0,0,23,0,0,0,0,0,2,4,82,5,0
+2004,234076,University of Virginia-Main Campus,23341,0,0,23,0,0,0,0,0,0,3,93,2,5
+2005,234076,University of Virginia-Main Campus,23765,0,1,20,0,0,0,0,0,0,7,69,3,10
+2006,234076,University of Virginia-Main Campus,24068,0,0,8,0,0,0,0,0,3,1,96,1,3
+2007,234076,University of Virginia-Main Campus,24257,0,1,4,0,0,0,0,0,6,7,73,4,5
+2008,234076,University of Virginia-Main Campus,24541,0,0,14,0,0,0,0,0,2,2,76,8,0
+2009,234076,University of Virginia-Main Campus,24355,0,0,8,0,0,0,0,0,2,7,89,9,2
+2010,234076,University of Virginia-Main Campus,24391,0,0,17,0,0,0,0,0,5,1,69,5,0
+2011,234076,University of Virginia-Main Campus,24297,0,0,13,0,0,0,0,0,1,0,54,16,0
+2012,234076,University of Virginia-Main Campus,23907,0,0,11,0,0,0,0,0,1,2,60,9,1
+2013,234076,University of Virginia-Main Campus,23464,0,0,26,0,0,0,0,0,0,3,52,21,0
+2014,234076,University of Virginia-Main Campus,23732,0,0,0,35,4,0,0,0,1,0,35,6,3
+2001,248934,ECPI University,3132,0,0,0,0,0,0,0,0,8,0,0,1,0
+2002,248934,ECPI University,3297,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,248934,ECPI University,3346,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,248934,ECPI University,4759,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,248934,ECPI University,5301,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,248934,ECPI University,7016,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,248934,ECPI University,8122,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,248934,ECPI University,8543,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,248934,ECPI University,12194,0,0,0,0,0,0,0,0,1,0,0,0,0
+2010,248934,ECPI University,12764,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,248934,ECPI University,10762,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,248934,ECPI University,9840,0,0,0,0,0,0,0,0,0,1,3,2,0
+2013,248934,ECPI University,10845,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,248934,ECPI University,10932,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0,0,0,0,0,0,0,0,0

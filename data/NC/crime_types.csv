@@ -1,0 +1,191 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2014,164988,Boston University,32112,0,0,0,0,0
+2014,167358,Northeastern University,19798,0,0,0,0,0
+2014,169248,Central Michigan University,26879,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,1,0,0,0,1
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,1,0,0,0,1
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2001,197869,Appalachian State University,13762,27,634,0,12,673
+2002,197869,Appalachian State University,14178,26,695,0,12,733
+2003,197869,Appalachian State University,14343,21,864,0,12,897
+2004,197869,Appalachian State University,14653,33,845,0,12,890
+2005,197869,Appalachian State University,14653,23,778,0,12,813
+2006,197869,Appalachian State University,15117,45,678,0,12,735
+2007,197869,Appalachian State University,15871,32,338,0,12,382
+2008,197869,Appalachian State University,16610,23,257,0,12,292
+2009,197869,Appalachian State University,16968,29,258,0,12,299
+2010,197869,Appalachian State University,17222,28,422,0,12,462
+2011,197869,Appalachian State University,17344,18,654,2,12,686
+2012,197869,Appalachian State University,17589,28,553,0,12,593
+2013,197869,Appalachian State University,17838,32,362,0,12,406
+2014,197869,Appalachian State University,18026,32,219,0,12,263
+2001,198419,Duke University,11926,96,246,0,12,354
+2002,198419,Duke University,12488,102,415,0,12,529
+2003,198419,Duke University,12223,66,331,0,12,409
+2004,198419,Duke University,12770,71,560,0,12,643
+2005,198419,Duke University,14075,83,469,0,12,564
+2006,198419,Duke University,13373,71,301,0,12,384
+2007,198419,Duke University,13598,82,308,0,12,402
+2008,198419,Duke University,14060,68,351,0,12,431
+2009,198419,Duke University,14350,87,401,0,12,500
+2010,198419,Duke University,15016,83,487,0,12,582
+2011,198419,Duke University,15427,81,740,0,12,833
+2012,198419,Duke University,15386,89,596,0,12,697
+2013,198419,Duke University,15467,72,341,0,12,425
+2014,198419,Duke University,15856,83,422,0,12,517
+2001,198464,East Carolina University,19412,39,207,0,13,259
+2002,198464,East Carolina University,20577,25,126,0,13,164
+2003,198464,East Carolina University,21756,26,170,0,13,209
+2004,198464,East Carolina University,22767,24,648,0,13,685
+2005,198464,East Carolina University,23164,44,486,0,13,543
+2006,198464,East Carolina University,24351,68,515,0,13,596
+2007,198464,East Carolina University,25990,63,622,0,13,698
+2008,198464,East Carolina University,27677,49,521,0,13,583
+2009,198464,East Carolina University,27654,32,539,0,13,584
+2010,198464,East Carolina University,27783,18,769,2,13,802
+2011,198464,East Carolina University,27386,34,868,0,13,915
+2012,198464,East Carolina University,26947,21,726,0,13,760
+2013,198464,East Carolina University,26887,24,694,2,13,733
+2014,198464,East Carolina University,27511,24,911,0,13,948
+2001,199102,North Carolina A & T State University,8319,73,40,0,9,122
+2002,199102,North Carolina A & T State University,9115,86,59,0,9,154
+2003,199102,North Carolina A & T State University,10030,82,24,0,9,115
+2004,199102,North Carolina A & T State University,10383,16,68,0,9,93
+2005,199102,North Carolina A & T State University,11103,83,30,0,9,122
+2006,199102,North Carolina A & T State University,11098,58,40,0,9,107
+2007,199102,North Carolina A & T State University,10498,83,81,0,9,173
+2008,199102,North Carolina A & T State University,10388,66,10,0,9,85
+2009,199102,North Carolina A & T State University,10614,22,7,0,9,38
+2010,199102,North Carolina A & T State University,10795,11,11,0,9,31
+2011,199102,North Carolina A & T State University,10881,16,43,0,9,68
+2012,199102,North Carolina A & T State University,10636,13,34,0,9,56
+2013,199102,North Carolina A & T State University,10561,32,71,0,9,112
+2014,199102,North Carolina A & T State University,10725,23,98,0,9,130
+2001,199120,University of North Carolina at Chapel Hill,25494,100,140,0,26,266
+2002,199120,University of North Carolina at Chapel Hill,26028,59,167,0,26,252
+2003,199120,University of North Carolina at Chapel Hill,26359,56,202,0,26,284
+2004,199120,University of North Carolina at Chapel Hill,26878,60,182,0,26,268
+2005,199120,University of North Carolina at Chapel Hill,27276,66,279,0,26,371
+2006,199120,University of North Carolina at Chapel Hill,27717,62,216,10,26,314
+2007,199120,University of North Carolina at Chapel Hill,28136,28,203,0,26,257
+2008,199120,University of North Carolina at Chapel Hill,28567,26,301,0,26,353
+2009,199120,University of North Carolina at Chapel Hill,28916,27,476,0,26,529
+2010,199120,University of North Carolina at Chapel Hill,29390,52,329,0,26,407
+2011,199120,University of North Carolina at Chapel Hill,29137,58,376,0,26,460
+2012,199120,University of North Carolina at Chapel Hill,29278,70,387,0,26,483
+2013,199120,University of North Carolina at Chapel Hill,29127,49,765,0,26,840
+2014,199120,University of North Carolina at Chapel Hill,29135,77,701,0,26,804
+2001,199139,University of North Carolina at Charlotte,18308,50,366,0,27,443
+2002,199139,University of North Carolina at Charlotte,18916,46,442,0,27,515
+2003,199139,University of North Carolina at Charlotte,19605,62,410,0,27,499
+2004,199139,University of North Carolina at Charlotte,19846,63,584,0,27,674
+2005,199139,University of North Carolina at Charlotte,20772,74,719,0,27,820
+2006,199139,University of North Carolina at Charlotte,21519,57,660,0,27,744
+2007,199139,University of North Carolina at Charlotte,22388,50,565,0,27,642
+2008,199139,University of North Carolina at Charlotte,23300,125,604,0,27,756
+2009,199139,University of North Carolina at Charlotte,24701,100,906,0,27,1033
+2010,199139,University of North Carolina at Charlotte,25063,128,566,4,27,725
+2011,199139,University of North Carolina at Charlotte,25277,83,653,0,27,763
+2012,199139,University of North Carolina at Charlotte,26232,57,403,0,27,487
+2013,199139,University of North Carolina at Charlotte,26571,39,305,0,27,371
+2014,199139,University of North Carolina at Charlotte,27238,71,267,0,27,365
+2001,199148,University of North Carolina at Greensboro,13775,25,186,0,19,230
+2002,199148,University of North Carolina at Greensboro,14453,125,252,0,19,396
+2003,199148,University of North Carolina at Greensboro,14870,138,238,0,19,395
+2004,199148,University of North Carolina at Greensboro,15329,51,188,0,19,258
+2005,199148,University of North Carolina at Greensboro,16147,54,59,1,19,133
+2006,199148,University of North Carolina at Greensboro,16872,54,158,0,19,231
+2007,199148,University of North Carolina at Greensboro,18627,50,100,0,19,169
+2008,199148,University of North Carolina at Greensboro,19976,53,106,0,19,178
+2009,199148,University of North Carolina at Greensboro,21306,25,97,0,19,141
+2010,199148,University of North Carolina at Greensboro,18771,24,101,0,19,144
+2011,199148,University of North Carolina at Greensboro,18627,21,183,0,19,223
+2012,199148,University of North Carolina at Greensboro,18516,25,193,0,19,237
+2013,199148,University of North Carolina at Greensboro,18074,28,194,10,19,251
+2014,199148,University of North Carolina at Greensboro,18647,36,167,0,19,222
+2001,199193,North Carolina State University at Raleigh,29286,74,559,0,31,664
+2002,199193,North Carolina State University at Raleigh,29637,111,566,0,31,708
+2003,199193,North Carolina State University at Raleigh,29854,98,531,0,31,660
+2004,199193,North Carolina State University at Raleigh,29957,116,622,0,31,769
+2005,199193,North Carolina State University at Raleigh,30148,125,470,0,31,626
+2006,199193,North Carolina State University at Raleigh,31130,126,745,0,31,902
+2007,199193,North Carolina State University at Raleigh,31802,87,513,0,31,631
+2008,199193,North Carolina State University at Raleigh,32872,81,412,0,31,524
+2009,199193,North Carolina State University at Raleigh,33819,52,286,0,31,369
+2010,199193,North Carolina State University at Raleigh,34376,65,246,2,31,344
+2011,199193,North Carolina State University at Raleigh,34767,75,600,4,31,710
+2012,199193,North Carolina State University at Raleigh,34340,59,563,2,31,655
+2013,199193,North Carolina State University at Raleigh,34009,33,520,2,31,586
+2014,199193,North Carolina State University at Raleigh,33989,62,499,0,31,592
+2001,199218,University of North Carolina Wilmington,10799,50,236,0,12,298
+2002,199218,University of North Carolina Wilmington,10918,34,268,0,12,314
+2003,199218,University of North Carolina Wilmington,11079,67,431,0,12,510
+2004,199218,University of North Carolina Wilmington,11574,59,407,0,12,478
+2005,199218,University of North Carolina Wilmington,11839,48,475,0,12,535
+2006,199218,University of North Carolina Wilmington,12098,52,605,0,12,669
+2007,199218,University of North Carolina Wilmington,12180,71,692,0,12,775
+2008,199218,University of North Carolina Wilmington,12643,64,526,0,12,602
+2009,199218,University of North Carolina Wilmington,12924,37,769,0,12,818
+2010,199218,University of North Carolina Wilmington,13071,30,771,0,12,813
+2011,199218,University of North Carolina Wilmington,13145,24,748,0,12,784
+2012,199218,University of North Carolina Wilmington,13733,21,734,0,12,767
+2013,199218,University of North Carolina Wilmington,13937,28,652,4,12,696
+2014,199218,University of North Carolina Wilmington,14570,26,759,2,12,799
+2001,200004,Western Carolina University,6863,46,368,0,9,423
+2002,200004,Western Carolina University,7033,51,308,0,9,368
+2003,200004,Western Carolina University,7561,68,378,0,9,455
+2004,200004,Western Carolina University,8396,59,454,0,9,522
+2005,200004,Western Carolina University,8665,35,571,0,9,615
+2006,200004,Western Carolina University,8861,25,671,0,9,705
+2007,200004,Western Carolina University,9056,38,506,0,9,553
+2008,200004,Western Carolina University,9050,31,277,0,9,317
+2009,200004,Western Carolina University,9429,34,193,0,9,236
+2010,200004,Western Carolina University,9407,46,341,0,9,396
+2011,200004,Western Carolina University,9352,27,263,0,9,299
+2012,200004,Western Carolina University,9608,34,422,0,9,465
+2013,200004,Western Carolina University,10107,35,382,0,9,426
+2014,200004,Western Carolina University,10382,42,377,4,9,432
+2001,248934,ECPI University,3132,4,0,0,0,4
+2002,248934,ECPI University,3297,0,0,0,0,0
+2003,248934,ECPI University,3346,0,0,0,0,0
+2004,248934,ECPI University,4759,0,0,0,0,0
+2005,248934,ECPI University,5301,0,0,0,0,0
+2006,248934,ECPI University,7016,0,0,0,0,0
+2007,248934,ECPI University,8122,0,0,0,0,0
+2008,248934,ECPI University,8543,0,0,0,0,0
+2009,248934,ECPI University,12194,1,0,0,0,1
+2010,248934,ECPI University,12764,0,0,0,0,0
+2011,248934,ECPI University,10762,0,0,0,0,0
+2012,248934,ECPI University,9840,2,0,0,0,2
+2013,248934,ECPI University,10845,0,0,0,0,0
+2014,248934,ECPI University,10932,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

@@ -1,0 +1,199 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2004,102368,Troy University,20855,0,0,0,0,0
+2005,102368,Troy University,26880,0,0,0,0,0
+2006,102368,Troy University,27938,0,0,0,0,0
+2007,102368,Troy University,28955,0,0,0,0,0
+2008,102368,Troy University,28303,0,0,0,0,0
+2009,102368,Troy University,29328,0,0,0,0,0
+2010,102368,Troy University,28322,0,0,0,0,0
+2011,102368,Troy University,26172,0,0,0,0,0
+2012,102368,Troy University,22554,0,0,0,0,0
+2013,102368,Troy University,20573,0,0,0,0,0
+2014,102368,Troy University,19041,0,0,0,0,0
+2011,137032,Saint Leo University,15564,0,0,0,0,0
+2012,137032,Saint Leo University,15986,0,0,0,0,0
+2013,137032,Saint Leo University,16275,0,0,0,0,0
+2014,137032,Saint Leo University,16349,0,0,0,0,0
+2001,139658,Emory University,11443,54,250,0,33,337
+2002,139658,Emory University,11600,42,327,0,33,402
+2003,139658,Emory University,11654,82,263,0,33,378
+2004,139658,Emory University,11781,62,258,0,33,353
+2005,139658,Emory University,12134,89,333,0,33,455
+2006,139658,Emory University,12338,78,345,0,33,456
+2007,139658,Emory University,12570,49,206,0,33,288
+2008,139658,Emory University,12755,63,265,0,33,361
+2009,139658,Emory University,12930,39,245,0,33,317
+2010,139658,Emory University,13381,42,215,0,33,290
+2011,139658,Emory University,13893,38,243,0,33,314
+2012,139658,Emory University,14236,49,299,0,33,381
+2013,139658,Emory University,14513,54,325,0,33,412
+2014,139658,Emory University,14769,76,387,0,33,496
+2001,139755,Georgia Institute of Technology-Main Campus,15575,137,18,0,17,172
+2002,139755,Georgia Institute of Technology-Main Campus,16481,189,140,0,17,346
+2003,139755,Georgia Institute of Technology-Main Campus,16643,115,31,0,17,163
+2004,139755,Georgia Institute of Technology-Main Campus,16841,74,108,0,17,199
+2005,139755,Georgia Institute of Technology-Main Campus,17135,104,3,0,17,124
+2006,139755,Georgia Institute of Technology-Main Campus,17936,130,83,0,17,230
+2007,139755,Georgia Institute of Technology-Main Campus,18742,95,1,0,17,113
+2008,139755,Georgia Institute of Technology-Main Campus,19413,128,49,0,17,194
+2009,139755,Georgia Institute of Technology-Main Campus,20291,93,277,0,17,387
+2010,139755,Georgia Institute of Technology-Main Campus,20720,44,322,0,17,383
+2011,139755,Georgia Institute of Technology-Main Campus,20941,46,285,0,17,348
+2012,139755,Georgia Institute of Technology-Main Campus,21557,35,231,0,17,283
+2013,139755,Georgia Institute of Technology-Main Campus,21471,64,186,0,17,267
+2014,139755,Georgia Institute of Technology-Main Campus,23109,82,224,0,17,323
+2001,139931,Georgia Southern University,14371,3,143,0,5,151
+2002,139931,Georgia Southern University,15075,7,170,0,5,182
+2003,139931,Georgia Southern University,15704,6,216,0,5,227
+2004,139931,Georgia Southern University,16100,15,347,0,5,367
+2005,139931,Georgia Southern University,16646,6,345,0,5,356
+2006,139931,Georgia Southern University,16425,4,438,0,5,447
+2007,139931,Georgia Southern University,16841,27,338,0,5,370
+2008,139931,Georgia Southern University,17764,37,418,0,5,460
+2009,139931,Georgia Southern University,19086,32,486,0,5,523
+2010,139931,Georgia Southern University,19691,17,776,0,5,798
+2011,139931,Georgia Southern University,20212,15,520,0,5,540
+2012,139931,Georgia Southern University,20574,23,305,0,5,333
+2013,139931,Georgia Southern University,20517,15,314,0,5,334
+2014,139931,Georgia Southern University,20517,14,445,0,5,464
+2001,139940,Georgia State University,25743,29,61,0,6,96
+2002,139940,Georgia State University,27462,43,27,0,6,76
+2003,139940,Georgia State University,28042,25,86,0,6,117
+2004,139940,Georgia State University,27261,21,56,0,6,83
+2005,139940,Georgia State University,25967,34,121,0,6,161
+2006,139940,Georgia State University,26135,21,208,0,6,235
+2007,139940,Georgia State University,27134,29,207,0,6,242
+2008,139940,Georgia State University,28229,11,238,0,6,255
+2009,139940,Georgia State University,30427,27,231,0,6,264
+2010,139940,Georgia State University,31533,16,273,0,6,295
+2011,139940,Georgia State University,32022,20,153,0,6,179
+2012,139940,Georgia State University,32087,22,192,0,6,220
+2013,139940,Georgia State University,32165,22,195,0,6,223
+2014,139940,Georgia State University,32556,27,330,0,6,363
+2001,139959,University of Georgia,32317,35,265,0,22,322
+2002,139959,University of Georgia,32941,40,333,0,22,395
+2003,139959,University of Georgia,33878,33,305,0,22,360
+2004,139959,University of Georgia,33405,38,718,0,22,778
+2005,139959,University of Georgia,33660,40,549,0,22,611
+2006,139959,University of Georgia,33959,70,310,0,22,402
+2007,139959,University of Georgia,33831,36,363,0,22,421
+2008,139959,University of Georgia,34180,54,335,0,22,411
+2009,139959,University of Georgia,34885,96,301,12,22,431
+2010,139959,University of Georgia,34677,109,281,6,22,418
+2011,139959,University of Georgia,34816,69,324,2,22,417
+2012,139959,University of Georgia,34519,74,204,8,22,308
+2013,139959,University of Georgia,34536,58,200,8,22,288
+2014,139959,University of Georgia,35197,99,240,0,22,361
+2001,140164,Kennesaw State University,13940,8,0,0,10,18
+2002,140164,Kennesaw State University,15650,15,68,0,10,93
+2003,140164,Kennesaw State University,17477,33,0,0,10,43
+2004,140164,Kennesaw State University,17955,22,0,0,10,32
+2005,140164,Kennesaw State University,18551,18,126,0,10,154
+2006,140164,Kennesaw State University,19844,35,196,0,10,241
+2007,140164,Kennesaw State University,20607,74,280,0,10,364
+2008,140164,Kennesaw State University,21449,30,354,0,10,394
+2009,140164,Kennesaw State University,22389,29,508,0,10,547
+2010,140164,Kennesaw State University,23452,28,538,0,10,576
+2011,140164,Kennesaw State University,24175,20,358,0,10,388
+2012,140164,Kennesaw State University,24604,21,291,0,10,322
+2013,140164,Kennesaw State University,24629,20,414,4,10,448
+2014,140164,Kennesaw State University,25714,24,378,2,10,414
+2001,140951,Savannah College of Art and Design,5338,6,163,0,1,170
+2002,140951,Savannah College of Art and Design,5792,3,132,0,1,136
+2003,140951,Savannah College of Art and Design,6200,6,139,0,1,146
+2004,140951,Savannah College of Art and Design,6776,3,205,0,1,209
+2005,140951,Savannah College of Art and Design,7356,28,186,0,1,215
+2006,140951,Savannah College of Art and Design,8236,22,220,0,1,243
+2007,140951,Savannah College of Art and Design,8966,20,150,0,1,171
+2008,140951,Savannah College of Art and Design,9120,3,222,0,1,226
+2009,140951,Savannah College of Art and Design,9906,5,316,0,1,322
+2010,140951,Savannah College of Art and Design,10320,5,363,0,1,369
+2011,140951,Savannah College of Art and Design,10826,6,266,0,1,273
+2012,140951,Savannah College of Art and Design,11064,9,174,0,1,184
+2013,140951,Savannah College of Art and Design,11093,3,190,0,1,194
+2014,140951,Savannah College of Art and Design,11347,5,202,0,1,208
+2001,141264,Valdosta State University,9230,16,0,0,4,20
+2002,141264,Valdosta State University,9900,19,0,0,4,23
+2003,141264,Valdosta State University,10547,7,0,0,4,11
+2004,141264,Valdosta State University,10400,15,0,0,4,19
+2005,141264,Valdosta State University,10503,6,0,0,4,10
+2006,141264,Valdosta State University,10888,18,0,0,4,22
+2007,141264,Valdosta State University,11280,6,0,0,4,10
+2008,141264,Valdosta State University,11490,13,0,0,4,17
+2009,141264,Valdosta State University,12391,23,1,0,4,28
+2010,141264,Valdosta State University,12898,58,69,0,4,131
+2011,141264,Valdosta State University,13089,72,116,0,4,192
+2012,141264,Valdosta State University,12515,36,38,0,4,78
+2013,141264,Valdosta State University,11885,27,30,0,4,61
+2014,141264,Valdosta State University,11563,33,0,0,4,37
+2001,141334,University of West Georgia,9026,28,139,0,20,187
+2002,141334,University of West Georgia,9673,31,178,0,20,229
+2003,141334,University of West Georgia,10251,38,140,0,20,198
+2004,141334,University of West Georgia,10215,41,191,0,20,252
+2005,141334,University of West Georgia,10153,48,0,0,20,68
+2006,141334,University of West Georgia,10160,91,0,0,20,111
+2007,141334,University of West Georgia,10677,44,9,0,20,73
+2008,141334,University of West Georgia,11252,38,6,0,20,64
+2009,141334,University of West Georgia,11500,32,5,0,20,57
+2010,141334,University of West Georgia,11283,23,14,0,20,57
+2011,141334,University of West Georgia,11646,47,14,0,20,81
+2012,141334,University of West Georgia,11769,23,21,0,20,64
+2013,141334,University of West Georgia,11929,29,43,0,20,92
+2014,141334,University of West Georgia,12206,25,156,0,20,201
+2014,163204,University of Maryland-University College,47906,0,0,0,0,0
+2014,169248,Central Michigan University,26879,0,0,0,0,0
+2002,177065,Columbia College,8958,0,0,0,0,0
+2003,177065,Columbia College,10146,0,0,0,0,0
+2004,177065,Columbia College,11017,0,0,0,0,0
+2005,177065,Columbia College,11792,0,0,0,0,0
+2006,177065,Columbia College,12280,0,0,0,0,0
+2007,177065,Columbia College,12954,0,0,0,0,0
+2008,177065,Columbia College,14081,0,0,0,0,0
+2009,177065,Columbia College,15556,0,0,0,0,0
+2010,177065,Columbia College,16962,0,0,0,0,0
+2011,177065,Columbia College,18091,0,0,0,0,0
+2012,177065,Columbia College,17830,0,0,0,0,0
+2013,177065,Columbia College,16946,0,0,0,0,0
+2014,177065,Columbia College,16567,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,1,0,0,0,1
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0
+2009,447689,Georgia Gwinnett College,2947,0,0,0,9,9
+2010,447689,Georgia Gwinnett College,5380,17,11,0,9,37
+2011,447689,Georgia Gwinnett College,7742,4,104,0,9,117
+2012,447689,Georgia Gwinnett College,9397,9,92,0,9,110
+2013,447689,Georgia Gwinnett College,9719,4,32,0,9,45
+2014,447689,Georgia Gwinnett College,10828,5,93,0,9,107
+2012,482680,University of North Georgia,,9,41,0,8,58
+2013,482680,University of North Georgia,15455,7,23,0,8,38
+2014,482680,University of North Georgia,16064,4,15,0,8,27

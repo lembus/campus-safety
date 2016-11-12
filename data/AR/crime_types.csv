@@ -1,0 +1,106 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,106245,University of Arkansas at Little Rock,11318,27,3,0,7,37
+2002,106245,University of Arkansas at Little Rock,11491,28,1,0,7,36
+2003,106245,University of Arkansas at Little Rock,11757,40,1,0,7,48
+2004,106245,University of Arkansas at Little Rock,11806,28,0,0,7,35
+2005,106245,University of Arkansas at Little Rock,11896,40,0,0,7,47
+2006,106245,University of Arkansas at Little Rock,11905,26,2,0,7,35
+2007,106245,University of Arkansas at Little Rock,12135,24,2,0,7,33
+2008,106245,University of Arkansas at Little Rock,11965,13,2,0,7,22
+2009,106245,University of Arkansas at Little Rock,13132,10,0,0,7,17
+2010,106245,University of Arkansas at Little Rock,13176,14,3,0,7,24
+2011,106245,University of Arkansas at Little Rock,13068,19,0,0,7,26
+2012,106245,University of Arkansas at Little Rock,12872,16,0,2,7,25
+2013,106245,University of Arkansas at Little Rock,12377,13,1,0,7,21
+2014,106245,University of Arkansas at Little Rock,11645,13,8,0,7,28
+2001,106397,University of Arkansas,15752,46,46,0,5,97
+2002,106397,University of Arkansas,15995,33,115,0,5,153
+2003,106397,University of Arkansas,16405,47,136,0,5,188
+2004,106397,University of Arkansas,17269,61,184,0,5,250
+2005,106397,University of Arkansas,17821,66,262,0,5,333
+2006,106397,University of Arkansas,17926,70,482,0,5,557
+2007,106397,University of Arkansas,18648,70,219,0,5,294
+2008,106397,University of Arkansas,19194,76,508,0,5,589
+2009,106397,University of Arkansas,19849,62,364,0,5,431
+2010,106397,University of Arkansas,21405,58,521,2,5,586
+2011,106397,University of Arkansas,23199,70,419,0,5,494
+2012,106397,University of Arkansas,24537,57,532,4,5,598
+2013,106397,University of Arkansas,25341,34,560,0,5,599
+2014,106397,University of Arkansas,26237,49,799,2,5,855
+2001,106458,Arkansas State University-Main Campus,10568,22,53,0,8,83
+2002,106458,Arkansas State University-Main Campus,10435,42,48,0,8,98
+2003,106458,Arkansas State University-Main Campus,10573,23,184,0,8,215
+2004,106458,Arkansas State University-Main Campus,10508,55,144,0,8,207
+2005,106458,Arkansas State University-Main Campus,10414,59,271,0,8,338
+2006,106458,Arkansas State University-Main Campus,10949,60,112,0,8,180
+2007,106458,Arkansas State University-Main Campus,11130,53,40,0,8,101
+2008,106458,Arkansas State University-Main Campus,11490,54,63,0,8,125
+2009,106458,Arkansas State University-Main Campus,12156,68,47,0,8,123
+2010,106458,Arkansas State University-Main Campus,13415,27,47,0,8,82
+2011,106458,Arkansas State University-Main Campus,13900,17,48,0,8,73
+2012,106458,Arkansas State University-Main Campus,13877,16,94,0,8,118
+2013,106458,Arkansas State University-Main Campus,13552,13,133,0,8,154
+2014,106458,Arkansas State University-Main Campus,13144,14,140,0,8,162
+2001,106467,Arkansas Tech University,5576,5,48,0,9,62
+2002,106467,Arkansas Tech University,5855,12,66,0,9,87
+2003,106467,Arkansas Tech University,6249,11,78,0,9,98
+2004,106467,Arkansas Tech University,6483,17,52,0,9,78
+2005,106467,Arkansas Tech University,6842,3,73,0,9,85
+2006,106467,Arkansas Tech University,7038,4,43,0,9,56
+2007,106467,Arkansas Tech University,7476,15,51,0,9,75
+2008,106467,Arkansas Tech University,7492,15,52,0,9,76
+2009,106467,Arkansas Tech University,8814,6,47,0,9,62
+2010,106467,Arkansas Tech University,9815,9,48,2,9,68
+2011,106467,Arkansas Tech University,10464,25,107,6,9,147
+2012,106467,Arkansas Tech University,10950,35,94,4,9,142
+2013,106467,Arkansas Tech University,11369,34,40,4,9,87
+2014,106467,Arkansas Tech University,12002,30,39,0,9,78
+2001,106704,University of Central Arkansas,8486,23,97,0,14,134
+2002,106704,University of Central Arkansas,8552,28,115,0,14,157
+2003,106704,University of Central Arkansas,9516,21,75,0,14,110
+2004,106704,University of Central Arkansas,10071,25,271,0,14,310
+2005,106704,University of Central Arkansas,11375,39,316,0,14,369
+2006,106704,University of Central Arkansas,12330,61,158,0,14,233
+2007,106704,University of Central Arkansas,12619,51,149,0,14,214
+2008,106704,University of Central Arkansas,12974,53,243,0,14,310
+2009,106704,University of Central Arkansas,11781,44,156,0,14,214
+2010,106704,University of Central Arkansas,11444,35,172,0,14,221
+2011,106704,University of Central Arkansas,11163,33,122,0,14,169
+2012,106704,University of Central Arkansas,11107,44,145,0,14,203
+2013,106704,University of Central Arkansas,11534,19,245,0,14,278
+2014,106704,University of Central Arkansas,11698,10,175,0,14,199
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2001,179894,Webster University,15402,0,0,0,0,0
+2002,179894,Webster University,17249,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,1,0,0,0,1
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

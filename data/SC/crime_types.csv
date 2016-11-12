@@ -1,0 +1,102 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2011,137032,Saint Leo University,15564,0,0,0,0,0
+2012,137032,Saint Leo University,15986,0,0,0,0,0
+2013,137032,Saint Leo University,16275,0,0,0,0,0
+2014,137032,Saint Leo University,16349,0,0,0,0,0
+2009,177065,Columbia College,15556,0,0,0,0,0
+2010,177065,Columbia College,16962,0,0,0,0,0
+2011,177065,Columbia College,18091,0,0,0,0,0
+2012,177065,Columbia College,17830,0,0,0,0,0
+2013,177065,Columbia College,16946,0,0,0,0,0
+2014,177065,Columbia College,16567,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2001,179894,Webster University,15402,0,0,0,0,0
+2002,179894,Webster University,17249,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,1,0,0,0,1
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2001,217819,College of Charleston,11617,41,150,0,6,197
+2002,217819,College of Charleston,11716,47,148,0,6,201
+2003,217819,College of Charleston,11536,36,181,0,6,223
+2004,217819,College of Charleston,11607,31,256,0,6,293
+2005,217819,College of Charleston,11332,44,178,0,6,228
+2006,217819,College of Charleston,11218,44,232,0,6,282
+2007,217819,College of Charleston,11316,32,266,0,6,304
+2008,217819,College of Charleston,11367,24,225,0,6,255
+2009,217819,College of Charleston,11772,17,260,0,6,283
+2010,217819,College of Charleston,11532,13,221,6,6,246
+2011,217819,College of Charleston,11649,14,489,14,6,523
+2012,217819,College of Charleston,11723,15,227,2,6,250
+2013,217819,College of Charleston,11619,10,259,0,6,275
+2014,217819,College of Charleston,11456,17,228,0,6,251
+2001,217882,Clemson University,17101,49,89,0,10,148
+2002,217882,Clemson University,16876,58,55,0,10,123
+2003,217882,Clemson University,17016,40,110,0,10,160
+2004,217882,Clemson University,17110,53,860,1,10,924
+2005,217882,Clemson University,17165,55,1244,0,10,1309
+2006,217882,Clemson University,17309,55,178,0,10,243
+2007,217882,Clemson University,17585,62,345,0,10,417
+2008,217882,Clemson University,18317,44,171,0,10,225
+2009,217882,Clemson University,19111,85,285,0,10,380
+2010,217882,Clemson University,19453,72,521,2,10,605
+2011,217882,Clemson University,19914,47,449,0,10,506
+2012,217882,Clemson University,20768,38,631,0,10,679
+2013,217882,Clemson University,21303,41,463,0,10,514
+2014,217882,Clemson University,21857,58,726,0,10,794
+2001,218663,University of South Carolina-Columbia,23000,78,467,0,9,554
+2002,218663,University of South Carolina-Columbia,25140,62,569,1,9,641
+2003,218663,University of South Carolina-Columbia,25288,70,289,1,9,369
+2004,218663,University of South Carolina-Columbia,25596,77,678,0,9,764
+2005,218663,University of South Carolina-Columbia,27065,77,275,0,9,361
+2006,218663,University of South Carolina-Columbia,27390,81,646,0,9,736
+2007,218663,University of South Carolina-Columbia,27272,109,775,0,9,893
+2008,218663,University of South Carolina-Columbia,27488,128,883,0,9,1020
+2009,218663,University of South Carolina-Columbia,28482,89,574,0,9,672
+2010,218663,University of South Carolina-Columbia,29599,124,1059,0,9,1192
+2011,218663,University of South Carolina-Columbia,30721,146,1471,0,9,1626
+2012,218663,University of South Carolina-Columbia,31288,75,714,0,9,798
+2013,218663,University of South Carolina-Columbia,31964,55,861,0,9,925
+2014,218663,University of South Carolina-Columbia,32971,82,930,0,9,1021
+2001,248934,ECPI University,3132,0,0,0,0,0
+2002,248934,ECPI University,3297,0,0,0,0,0
+2003,248934,ECPI University,3346,0,0,0,0,0
+2004,248934,ECPI University,4759,0,0,0,0,0
+2005,248934,ECPI University,5301,0,0,0,0,0
+2006,248934,ECPI University,7016,0,0,0,0,0
+2007,248934,ECPI University,8122,0,0,0,0,0
+2008,248934,ECPI University,8543,0,0,0,0,0
+2009,248934,ECPI University,12194,0,0,0,0,0
+2010,248934,ECPI University,12764,0,0,0,0,0
+2011,248934,ECPI University,10762,0,0,0,0,0
+2012,248934,ECPI University,9840,0,0,0,0,0
+2013,248934,ECPI University,10845,0,0,0,0,0
+2014,248934,ECPI University,10932,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,1,0,0,0,1
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0
