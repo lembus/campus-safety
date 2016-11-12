@@ -58,8 +58,8 @@
         });
 
 
-		var typeChart = new TypeChart();
-		typeChart.update('CA',2010)
+		//var typeChart = new TypeChart();
+		//typeChart.update('CA',2010)
     }
 
     /**
