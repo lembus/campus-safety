@@ -11,7 +11,7 @@ function MapChart() {
 //    self.lineChart = lineChart;
 //    self.rectChart = rectChart;
     self.init();
-};
+}
 
 /**
  * Initializes the svg elements required for this chart
@@ -24,7 +24,7 @@ MapChart.prototype.init = function(){
     var width = 0.50 * window.innerWidth;
     var height = 0.80 * window.innerHeight;
 
-    var divmapChart = d3.select("#map")
+    var divmapChart = d3.select("#map-div")
         .style('width', width + 'px')
         .style('height',height +'px');
 
@@ -38,64 +38,105 @@ MapChart.prototype.init = function(){
         .attr("width",self.svgWidth)
         .attr("height",self.svgHeight)
 
+    self.svg.append('g')
+        .attr("id",'map');
+
 };
 
 
 /**
+ * Renders the HTML content for tool tip
+ *
+ * @param state State abreviation to be populated in the tool tip
+ * @param totalSize Number of student in each state to be populated in the tool tip
+ * @param totalCrime Number of total crimes in each state to be populated in the tool tip
+ * @return text HTML content for toop tip
+ */
+MapChart.prototype.tooltip_render = function (state,totalSize,totalCrime) {
+    var self = this;
+    return "<h4>"+state+"</h4><table>"+
+        "<tr><td># of Students</td><td>"+totalSize+"</td></tr>"+
+        "<tr><td># of crimes</td><td>"+totalCrime+"</td></tr>"+
+        "</table>";
+};
+
+/**
  * Creates a map with color saturation representing the crime ratio in each state
  */
-var stateAbrev = 	["UT","CA"];
-var thisYearData = [];
-
-MapChart.prototype.update = function(year){
+MapChart.prototype.update = function(year) {
     var self = this;
 
-/*    var stateAbrev = 	["HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
-        "ME", "NH", "VT", "NY", "NJ", "PA", "DE", "MD", "WV", "KY", "OH",
-        "MI", "WY", "MT", "ID", "WA", "DC", "TX", "CA", "AZ", "NV", "UT",
-        "CO", "NM", "OR", "ND", "SD", "NE", "IA", "MS", "IN", "IL", "MN",
-        "WI", "MO", "AR", "OK", "KS", "LS", "VA"];
-*/
+    var stateAbrev = 	["HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
+     "ME", "NH", "VT", "NY", "NJ", "PA", "DE", "MD", "WV", "KY", "OH",
+     "MI", "WY", "MT", "ID", "WA", "DC", "TX", "CA", "AZ", "NV", "UT",
+     "CO", "NM", "OR", "ND", "SD", "NE", "IA", "MS", "IN", "IL", "MN",
+     "WI", "MO", "AR", "OK", "KS", "LS", "VA"];
 
-    for (a=0; a<stateAbrev.length ;a++) {
-        console.log('in for')
-        console.log(stateAbrev[a])
-        d3.csv("data/"+stateAbrev[a]+"/crime_types.csv", function (error, stateData) {
-            function filterByYear(obj) {
-                console.log('in csv function')
-                console.log(stateAbrev[a])
-                return (obj['Survey year'] == year );
-            }
-            var thisYearStateData=stateData.filter(filterByYear);
 
-            var totalCO = 0;
-            var totalDA = 0;
-            var totalHC = 0;
-            var totalVW = 0;
-            var totalSize = 0;
-            var totalAll = 0;
-            for ( var j = 0; j < thisYearStateData.length; j++ ) {
-                totalCO += +thisYearStateData[j].CO;
-                totalDA += +thisYearStateData[j].DA;
-                totalHC += +thisYearStateData[j].HC;
-                totalVW += +thisYearStateData[j].VW;
-                totalAll += +thisYearStateData[j].total;
-                totalSize += +thisYearStateData[j]['Institution Size'];
-            }
-            console.log('last')
-            console.log(stateAbrev[a])
-            thisYearData.push({'state': stateAbrev[a], 'size':totalSize, 'CO':totalCO, 'DA':totalDA, 'HC':totalHC, 'VW':totalVW, 'total':totalAll});
+    d3.csv("data/cumulativeData.csv", function (error, cumulativeData) {
+        var max = d3.max(cumulativeData, function (d) {
+            return d.totalRate
         });
-    }
-    console.log(thisYearData);
-    //Domain definition for global color scale
-    var domain = [-60,-50,-40,-30,-20,-10,0,10,20,30,40,50,60 ];
 
-    //Color range for global color scale
-    var range = ["#0066CC", "#0080FF", "#3399FF", "#66B2FF", "#99ccff", "#CCE5FF", "#ffcccc", "#ff9999", "#ff6666", "#ff3333", "#FF0000", "#CC0000"];
+        var colorScale = d3.scaleLinear()
+            .domain([0, max])
+            .range(["white", "darkred"]);
 
-    //Global colorScale to be used consistently by all the charts
-    self.colorScale = d3.scaleQuantile()
-        .domain(domain).range(range);
+        var projection = d3.geoAlbersUsa()
+            .translate([self.svgWidth / 2, self.svgHeight / 2])    // translate to center of screen
+            .scale([500]);          // scale things down so see entire US
+
+        //Use this tool tip element to handle any hover over the chart
+        tip = d3.tip().attr('class', 'd3-tip')
+            .direction('se')
+            .offset(function() {
+                return [0,0];
+            })
+            .html(function(d) {
+                function findState(yearData) {
+                    return yearData.state == d.id;
+                }
+                var state=thisYearData.find(findState);
+                var htmlContent = self.tooltip_render(d.id,state.size,state.total);
+                return htmlContent;
+            });
+
+        var path = d3.geoPath()
+            .projection(projection);
+
+        function filterByYear(obj) {
+            return (obj['year'] == year );
+        }
+
+        var thisYearData = cumulativeData.filter(filterByYear);
+
+        d3.json("data/us-states.json", function (error, usMap) {
+            if (error) throw error;
+            var map = d3.select("#map")
+                .selectAll("path")
+                .data(usMap.features)
+                .enter()
+                .append("path")
+                .attr("d", path)
+                .attr('fill', function (d) {
+                    function findState(yearData) {
+                        return yearData.state == d.id;
+                    }
+                    var state=thisYearData.find(findState);
+                    return (colorScale(state.totalRate));
+
+                })
+                .attr("id", function (d) {
+                    return d.id;
+                });
+
+            map.call(tip);
+            map.on("mouseover", tip.show)
+                .on("mouseout",tip.hide);
+
+        });
+
+    });
+    
 
 };
