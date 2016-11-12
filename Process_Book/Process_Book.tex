@@ -224,6 +224,8 @@ The most important part of the first view of this visualization is the map of Un
 
 For this part we used a topo-jason file to draw the US map which included state ID's. We parsed the state abbreviations to drawn states on the map to have access to them. With this we could attach a tool-tip to states that shows up when the mouse hovers on a state. A range input is implemented to handle the time slider below the map. This allows us to move to different years and access the related data. There is an onclick event for each state. The user can click a state to select it and see its corresponding data visualized on the following charts.
 
+By choosing a state in the map, the institutes in that state would be displayed in our rectangular ratio chart, each represented by a circle. In this chart, each corner represents one of the four types of crimes. And as a crime type has a larger role in the total number of crimes in an institute, the said institute would be placed closer to the corresponding corner. In this chart the size of each university is displayed via the size of its circle. Also, color saturation is used to display the ratio of number of crimes in each institute to its number of students.
+
 \section{Evaluation}
 
 
