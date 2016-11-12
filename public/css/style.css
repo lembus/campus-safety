@@ -23,8 +23,12 @@ h2{
     -webkit-margin-after:  5px;
 }
 
-#map path:hover{
+.highlighted{
     fill: yellow;
+}
+
+.selected {
+    fill: lightblue;
 }
 .d3-tip {
      position: absolute;
@@ -65,3 +69,12 @@ h2{
     text-align:left;
 }
 
+.timeline-wrapper {
+    font-size: 12px;
+    color: black;
+    padding: 0 15px;
+}
+
+#yearSlider {
+    padding: 0 8px;
+}

@@ -19,11 +19,45 @@
         var donutChart = new DonutChart(shiftChart);
 */
 
+        var years = [2001];
+        for (i=1;i<14;i++) {
+            years.push(2001+i);
+        }
+        var sliderAxis = d3.select('#slider').select('svg');
+        var maxTick = 98.2;
+        var sliderTicks = sliderAxis.selectAll('rect')
+            .data(years)
+            .enter().append('rect')
+            .attr('x',function(d,i) {
+                return maxTick*i/(years.length-1)+"%";
+            })
+            .attr('y',0)
+            .attr('width',1)
+            .attr('height',7);
+        var maxTick = 98.2;
+        var sliderTicks = sliderAxis.selectAll('text')
+            .data(years)
+            .enter().append('text')
+            .text(function (d) {
+                return d;
+            })
+            .attr('x',function(d,i) {
+                return maxTick*i/(years.length-1)+"%";
+            })
+            .attr('y',20)
+            .attr('text-anchor','middle');
+
         var year = 2001;
         //Creating the map
         //var mapChart = new MapChart(lineChart, rectChart);
         var mapChart = new MapChart();
         mapChart.update(year);
+
+        d3.select("#yearSlider").on("input", function() {
+            mapChart.update(+this.value);
+        });
+
+
     }
 
     /**
