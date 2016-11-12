@@ -8,6 +8,9 @@
     <!--<script src="https://d3js.org/d3.v4.min.js"></script>-->
     <script type="text/javascript" src="bower_components/d3/d3.js"></script>
     <script type="text/javascript" src="bower_components/d3-tip/index.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.9.0/d3-legend.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
@@ -17,7 +20,9 @@
 
 <h1>US Campuses Crime Records from 2001 to 2014</h1>
 <p class="info">Name: Amir Biglari; E-Mail: amir.biglari@utah.edu; UID: U0613845</p>
-<div id="map" class="view">
+<div id="map-div" class="view">
+    <div id="mapArea" class="view"></div>
+    <div id="slider" class=""view"></div>
 </div>
 
 
@@ -33,11 +38,13 @@
 <div id = "donut-chart" class = "view">
 </div>
 
+<<<<<<< HEAD
 
 <script type="application/javascript" src="public/js/typeRatio.js"></script>
+=======
+>>>>>>> origin/master
 <script type="application/javascript" src="public/js/map.js"></script>
 <script type="application/javascript" src="public/js/main.js"></script>
-
 <!--
 <script type="application/javascript" src="public/js/electoralVoteChart.js"></script>
 <script type="application/javascript" src="public/js/yearChart.js"></script>
