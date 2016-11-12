@@ -26,6 +26,25 @@ h2{
 #map path:hover{
     fill: yellow;
 }
+
+.uniCircle{
+    fill: #8B0000;
+}
+
+.uniCircle:hover{
+    fill: #8B0000;
+    stroke: #8B0000;
+    stroke-width:2;
+}
+
+.typetext{
+    text-anchor:middle;
+    font-size: 20px;
+    fill: #565656;
+    stroke-width: 0.1px;
+    /*stroke: #e5e5e5;*/
+}
+
 .d3-tip {
      position: absolute;
      text-align: left;
@@ -64,4 +83,6 @@ h2{
 .d3-tip tr td:nth-child(2){
     text-align:left;
 }
+
+
 
