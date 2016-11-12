@@ -22,7 +22,7 @@
 		
         //var year = 2001;
         //Creating the map
-        var mapChart = new MapChart(lineChart, rectChart);
+        //var mapChart = new MapChart(lineChart, rectChart);
         var mapChart = new MapChart();
         mapChart.update(year);
 		
