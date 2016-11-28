@@ -159,6 +159,7 @@ MapChart.prototype.update = function(year) {
 				typeChart.update(d.id)
 
                 var crimeChart = new CrimeChart();
+                crimeChart.update(d.id);
             }
         });
 
