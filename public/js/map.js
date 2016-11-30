@@ -244,6 +244,9 @@ MapChart.prototype.update = function(year) {
                 //rectChart(d.id);
 				var typeChart = new TypeChart();
 				typeChart.update(d.id)
+
+                var crimeChart = new CrimeChart();
+                crimeChart.update(d.id);
             }
         });
 
