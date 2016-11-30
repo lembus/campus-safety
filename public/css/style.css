@@ -97,3 +97,14 @@ h2{
 #yearSlider {
     padding: 0 8px;
 }
+
+.leftChart {
+    display: inline-block;
+    width: 50%;
+}
+
+.rightChart {
+    display: inline-block;
+    width: 50%;
+    float:right;
+}

@@ -21,23 +21,20 @@
 
 <h1>US Campuses Crime Records from 2001 to 2014</h1>
 <p class="info">Collaborators: Amir Biglari; E-Mail: amir.biglari@utah.edu; UID: U0613845. Mohsen Abbasi; E-Mail: m.abbasi@utah.edu; UID: U1011952</p>
-<div id="map-div" class="view">
-    <div id="mapArea" class="view">
-        <svg></svg>
-    </div>
-    <div id="slider" class="view">
-        <input type="range" min="2001" max="2014" value = '2001' style="width:100%" id="yearSlider">
-        <svg width="100%" height="20" class="timeline-wrapper">
-
-        </svg>
-    </div>
+<div id="mapArea" class="view">
+    <svg></svg>
 </div>
 
-
-
-<div id = "charts" class = "view">
-
+<div id = "lineCharts" class = "view">
+    <h3>Here goes the line charts: </h3>
 </div>
+
+<div id="slider" class="view">
+    <input type="range" min="2001" max="2014" value = '2001' style='width:100%' id="yearSlider">
+    <svg width="100%" height="40" class="timeline-wrapper">
+    </svg>
+</div>
+
 
 <div id = "rect-chart" class = "view">
 </div>
@@ -49,6 +46,7 @@
 <div id="tooltipdiv" style="position: fixed;display:none;"></div>
 
 <script type="application/javascript" src="public/js/typeRatio.js"></script>
+<script type="application/javascript" src="public/js/lineCharts.js"></script>
 <script type="application/javascript" src="public/js/map.js"></script>
 <script type="application/javascript" src="public/js/main.js"></script>
 <!--
