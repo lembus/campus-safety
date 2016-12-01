@@ -1,6 +1,7 @@
 
-function TypeChart() {
+function TypeChart(catSunburst) {
     var self = this;
+	self.catSunburst = catSunburst;
     self.init();
 };
 
@@ -13,11 +14,10 @@ TypeChart.prototype.init = function(){
     var ratioChart = d3.select("#rect-chart");
 	$("#uni-svg").remove();
 
-	var width = 0.50 * window.innerWidth;
-    var height = 0.50 * window.innerWidth;
+    var height = 0.50 * window.outerWidth;
 
     var ratioChart = d3.select("#rect-chart")
-        .style('width', width + 'px')
+        .classed("leftChart",true)
         .style('height',height +'px');
 		
     //Gets access to the div element created for this chart from HTML
@@ -144,7 +144,10 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			.attr('onmouseover',function(d){
 				return 'unitip(event,"' + d['Institution name'] + '")';
 			})
-			.attr('onmouseout','nunitip()');
+			.attr('onmouseout','nunitip()')
+			.on('click', function(d) {
+				self.catSunburst.update(state,year,d['Institution name'])
+			});
 	});
 
 };
