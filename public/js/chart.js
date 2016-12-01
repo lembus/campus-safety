@@ -8,12 +8,15 @@ function CrimeChart() {
 };
 
 CrimeChart.prototype.init = function(){
-
+    var self = this;
+    var height = 0.4 * window.outerHeight;
+    self.divCrimeChart = d3.select("#lineCharts").classed("rightChart", true)
+        .style('height',height +'px');
 }
 
 CrimeChart.prototype.update = function(state){
 
-    console.log(state);
+    //console.log(state);
 
     d3.csv("data/"+state+"/crime_types.csv", function (error, csv) {
 
@@ -191,7 +194,7 @@ function createLineChart(state) {
 
 function createBarChart() {
 
-    console.log(crime_cat[0]);
+    //console.log(crime_cat[0]);
 
     var catName = [];
     for (var key in crime_cat[0]) {
@@ -199,7 +202,7 @@ function createBarChart() {
             catName.push(key);
         }
     }
-    console.log(catName);
+    //console.log(catName);
 
     var nCat = new Array(catName.length);
 
@@ -213,7 +216,7 @@ function createBarChart() {
         }
     }
 
-    console.log(nCat);
+    //console.log(nCat);
 
     var max = 0;
     for (var i = 0; i < nCat.length; i++) {

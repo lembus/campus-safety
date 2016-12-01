@@ -11,8 +11,9 @@
     function init() {
         //Creating instances for each visualization
 
+        var typeChart = new TypeChart();
 
-        var lineCharts = new LineCharts();
+        var crimeChart = new CrimeChart();
 /*
         var rectChart = new RectChart();
 
@@ -22,10 +23,9 @@
 
         //Creating the map
         //var mapChart = new MapChart(lineChart, rectChart);
-        var mapChart = new MapChart();
+        var mapChart = new MapChart(typeChart);
 
 
-		//var typeChart = new TypeChart();
 		//typeChart.update('CA',2010)
     }
 

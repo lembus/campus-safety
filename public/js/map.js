@@ -5,11 +5,13 @@
  * @param rectChart instance of RectChart
  */
 //function YearChart(lineChart, rectChart) {
-function MapChart() {
+function MapChart(typeChart) {
     var self = this;
 
 //    self.lineChart = lineChart;
-//    self.rectChart = rectChart;
+    self.typeChart = typeChart;
+    self.year = 2001;
+    self.state = '';
     self.init();
 }
 
@@ -103,9 +105,12 @@ MapChart.prototype.init = function(){
 
     //Creating the map
     //var mapChart = new MapChart(lineChart, rectChart);
-    self.update(2001);
+    self.update(self.year);
     d3.select("#yearSlider").on("input", function() {
-        self.update(+this.value);
+        self.year = +this.value;
+        self.update(self.year);
+        new TypeChart();
+        self.typeChart.update(self.state,self.year,self.colorScale);
     });
 };
 
@@ -181,7 +186,7 @@ MapChart.prototype.update = function(year) {
             .style('stroke-width', '0.1px')
             .text("#Crimes/#Students");
 
-        var colorScale = d3.scaleLinear()
+        self.colorScale = d3.scaleLinear()
             .domain([0, max])
             .range(["white", "darkred"]);
 
@@ -213,7 +218,7 @@ MapChart.prototype.update = function(year) {
                     return yearData.state == d.id;
                 }
                 var state=thisYearData.find(findState);
-                return (colorScale(state.totalRate));
+                return (self.colorScale(state.totalRate));
 
             });
 
@@ -234,6 +239,10 @@ MapChart.prototype.update = function(year) {
             if (d3.select(this).classed("selected")) {
                 d3.select(this)
                     .classed("selected",false);
+                self.state = '';
+                new TypeChart();
+                self.typeChart.update(self.state,self.year,self.colorScale);
+
                 //updateCharts();
                 //clearRectChart();
             } else {
@@ -242,8 +251,9 @@ MapChart.prototype.update = function(year) {
                     .classed("selected",true);
                 //updateCharts(d.id);
                 //rectChart(d.id);
-				var typeChart = new TypeChart();
-				typeChart.update(d.id)
+                self.state = d.id;
+				new TypeChart();
+				self.typeChart.update(self.state,self.year,self.colorScale);
 
                 var crimeChart = new CrimeChart();
                 crimeChart.update(d.id);

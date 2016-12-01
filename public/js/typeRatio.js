@@ -34,7 +34,7 @@ TypeChart.prototype.init = function(){
 		.attr('id','uni-svg')
 };
 
-TypeChart.prototype.update = function(state){
+TypeChart.prototype.update = function(state,year,colorScale){
     var self = this;
 	var svg = d3.select("#rect-chart").select('svg');
 	
@@ -120,7 +120,7 @@ TypeChart.prototype.update = function(state){
 			
 		ratioChart.exit().remove();
 		
-		console.log(combinedYears)
+		//console.log(combinedYears)
 		
 		ratioChart.enter()
 			.append('circle')
