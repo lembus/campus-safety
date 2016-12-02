@@ -220,7 +220,8 @@ function unitip(e,name){
 	div.innerHTML = name;
     div.style.left = left;
     div.style.top = top;
-	div.style.color = "Green";
+	div.style.backgroundColor="#34282C" 
+	div.style.color = "white";
 	$("#tooltipdiv").toggle();
 }
 function nunitip(){

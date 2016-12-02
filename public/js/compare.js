@@ -35,6 +35,7 @@ CompareChart.prototype.init = function(){
 	var header = table.createTHead();
 	
 	header.setAttribute("class", "tableHeader");
+	header.style.backgroundColor="#34282C"
 	
     var row1 = header.insertRow(0);
     var row1col0 = row1.insertCell(0);
@@ -63,32 +64,34 @@ CompareChart.prototype.init = function(){
 
 
 CompareChart.prototype.update = function(tableElements){
-	var maxSize = d3.max(tableElements, function(d){return d["Institution Size"];})
+	var maxSize = d3.max(tableElements, function(d){return parseInt(d["Institution Size"]);})
 	var sizeScale = d3.scaleLinear()
 		.domain([0, maxSize])
-		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
-	var maxCO = d3.max(tableElements, function(d){return d.CO;});
+		.range([cellBuffer, 2.5*cellWidth - cellBuffer]);
+	var maxCO = d3.max(tableElements, function(d){return parseInt(d.CO);});
 	var coScale = d3.scaleLinear()
 		.domain([0, maxCO])
-		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
-	var maxDA = d3.max(tableElements, function(d){return d.DA;});
+		.range([cellBuffer, 2.5*cellWidth - cellBuffer]);
+	var maxDA = d3.max(tableElements, function(d){return parseInt(d.DA);});
 	var daScale = d3.scaleLinear()
 		.domain([0, maxDA])
-		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
-	var maxHC = d3.max(tableElements, function(d){return d.HC;});
+		.range([cellBuffer, 2.5*cellWidth - cellBuffer]);
+	var maxHC = d3.max(tableElements, function(d){return parseInt(d.HC);});
 	var hcScale = d3.scaleLinear()
 		.domain([0, maxHC])
-		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
-	var maxVW = d3.max(tableElements, function(d){return d.VW;});
+		.range([cellBuffer, 2.5*cellWidth - cellBuffer]);
+	var maxVW = d3.max(tableElements, function(d){return parseInt(d.VW);});
 	var vwScale = d3.scaleLinear()
 		.domain([0, maxVW])
-		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
+		.range([cellBuffer, 2.5*cellWidth - cellBuffer]);
 
     tr = d3.select("#uni-table").select("tbody").selectAll("tr")
 		.data(tableElements)  
         .enter()
         .append('tr')
+		
 
+	console.log(hcScale(0))
 
     var td = tr.selectAll("td")
         .data( function (d) {
@@ -153,7 +156,7 @@ CompareChart.prototype.update = function(tableElements){
             return d.vis == 'barsCO'
         })
         .append("svg")
-            .attr("width", 2 * cellWidth)
+            .attr("width", 3 * cellWidth)
             .attr("height", cellHeight)
             .append("g")
 			
@@ -186,7 +189,7 @@ CompareChart.prototype.update = function(tableElements){
             return d.vis == 'barsDA'
         })
         .append("svg")
-            .attr("width", 2 * cellWidth)
+            .attr("width", 3 * cellWidth)
             .attr("height", cellHeight)
             .append("g")
 			
@@ -220,7 +223,7 @@ CompareChart.prototype.update = function(tableElements){
             return d.vis == 'barsHC'
         })
         .append("svg")
-            .attr("width", 2 * cellWidth)
+            .attr("width", 3 * cellWidth)
             .attr("height", cellHeight)
             .append("g")
 			
@@ -253,7 +256,7 @@ CompareChart.prototype.update = function(tableElements){
             return d.vis == 'barsVW'
         })
         .append("svg")
-            .attr("width", 2 * cellWidth)
+            .attr("width", 3 * cellWidth)
             .attr("height", cellHeight)
             .append("g")
 			
