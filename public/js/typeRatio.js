@@ -42,6 +42,7 @@ TypeChart.prototype.init = function(){
 };
 
 TypeChart.prototype.update = function(state,year,colorScale){
+	$("#uni-table").remove();
     var self = this;
 	self.catSunburst.update(state,year,self.selectedUni)
 
@@ -87,14 +88,10 @@ TypeChart.prototype.update = function(state,year,colorScale){
 		var ratioChartScale = d3.scaleLinear()
 			.domain([0, 1])
 			.range([100,  self.svgWidth - 50]);
-		/*
-		crimes = crimes.filter(function(d) { 
-			return parseInt(d['Survey year']) == year
-		});
-		*/
+
 		crimes = crimes.sort(function (a,b) {return d3.ascending(a['Unitid'], b['Unitid'])})
 		
-		//total number of crimes
+		///////////////////////////////////combine years
 		combinedYears = []
 		aggVals = ['CO','DA','VW','HC','total']
 		var i = 0;
@@ -118,6 +115,12 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			return d['total'] > 0;
 		});
 		
+		/////////////////////////////////selected by year
+		combinedYears = crimes.filter(function(d) { 
+			return parseInt(d['Survey year']) == year
+		});
+
+		
 		var maxUniSize = d3.max(combinedYears,function(e){
 			return parseFloat(e['Institution Size']);
 		});
@@ -126,7 +129,14 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			return parseFloat(e['total']);
 		});
 		
-		maxRatio = maxCrime/maxUniSize;
+		
+		maxRatio = d3.max(combinedYears,function(d){
+			return d.total/d['Institution Size'];
+		})
+		
+		var colorScale = d3.scaleLinear()
+			.domain([0,maxCrime])
+			.range(["white", "darkred"]);
 		
 		//total crimes by year
 		/*
@@ -166,11 +176,11 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			.attr('id',function(d){
 				return d['Institution name'];
 			})
-			//.attr('fill','#de2d26');
-			.attr('class','uniCircle')
-			.style('opacity',function(d){
-				return (0.5 + parseFloat(d['total'])/parseFloat(d['Institution Size']))/maxRatio
+			.attr('fill',function(d){
+				return colorScale(d.total)
 			})
+			.attr('class','uniCircle')
+			.style('opacity',0.8)
 			.attr('onmouseover',function(d){
 				return 'unitip(event,"' + d['Institution name'] + '")';
 			})
@@ -179,8 +189,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 				self.selectedUni = d['Institution name'];
 				self.catSunburst.update(state,year,d['Institution name'])
 			});
-		
-		//brush is defined here
+
 		
 
 		
@@ -211,7 +220,8 @@ function unitip(e,name){
 	div.innerHTML = name;
     div.style.left = left;
     div.style.top = top;
-	div.style.color = "Green";
+	div.style.backgroundColor="#34282C" 
+	div.style.color = "white";
 	$("#tooltipdiv").toggle();
 }
 function nunitip(){

@@ -111,7 +111,8 @@ h2{
 
 .wholeChart {
     display: inline-block;
-    width: 90%;
+	padding-left: 3%;
+    width: 94%;
 }
 
 .brush {
@@ -132,12 +133,12 @@ thead, td {
     padding: 8px;
 }
 
+tbody tr:nth-child(even){background-color:  #d0d3d4}
+tbody tr:nth-child(odd){background-color:   #b3b6b7}
+ 
 thead {
     background-color: #3e2622;
     color: white;
 	font-weight: bold;
 }
-
-tr:nth-child(even){background-color: #c7c2c1}
-
 
