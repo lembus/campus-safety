@@ -66,28 +66,29 @@ CompareChart.prototype.update = function(tableElements){
 	var maxSize = d3.max(tableElements, function(d){return d["Institution Size"];})
 	var sizeScale = d3.scaleLinear()
 		.domain([0, maxSize])
-		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
 	var maxCO = d3.max(tableElements, function(d){return d.CO;});
 	var coScale = d3.scaleLinear()
 		.domain([0, maxCO])
-		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
 	var maxDA = d3.max(tableElements, function(d){return d.DA;});
 	var daScale = d3.scaleLinear()
 		.domain([0, maxDA])
-		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
 	var maxHC = d3.max(tableElements, function(d){return d.HC;});
 	var hcScale = d3.scaleLinear()
 		.domain([0, maxHC])
-		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
 	var maxVW = d3.max(tableElements, function(d){return d.VW;});
 	var vwScale = d3.scaleLinear()
 		.domain([0, maxVW])
-		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+		.range([cellBuffer, 1.7 * cellWidth - cellBuffer]);
 
     tr = d3.select("#uni-table").select("tbody").selectAll("tr")
 		.data(tableElements)  
         .enter()
         .append('tr')
+
 
     var td = tr.selectAll("td")
         .data( function (d) {
@@ -298,30 +299,35 @@ function sort() {
 			else 
 				tableElements = tableElements.sort(function (a,b) {return d3.ascending(a['Institution name'], b['Institution name'])})
 			break;
-
+		case 'Institution Size':
+			if (ascInd == true)   
+				gTableElements = gTableElements.sort(function (a,b) {return d3.descending(parseInt(a['Institution Size']), parseInt(b['Institution Size']))})
+			else 
+				gTableElements = gTableElements.sort(function (a,b) {return d3.ascending(parseInt(a['Institution Size']), parseInt(b['Institution Size']))})
+			break;
 		case 'Criminal Offenses':
 			if (ascInd == true)   
-				gTableElements = gTableElements.sort(function (a,b) {return d3.descending(a['CO'], b['CO'])})
+				gTableElements = gTableElements.sort(function (a,b) {return d3.descending(parseInt(a['CO']), parseInt(b['CO']))})
 			else 
-				gTableElements = gTableElements.sort(function (a,b) {return d3.ascending(a['CO'], b['CO'])})
+				gTableElements = gTableElements.sort(function (a,b) {return d3.ascending(parseInt(a['CO']), parseInt(b['CO']))})
 			break;
 		case 'Disciplinary Actions':
 			if (ascInd == true)
-				tableElements = tableElements.sort(function (a,b) {return d3.descending(a['DA'], b['DA'])})
+				tableElements = tableElements.sort(function (a,b) {return d3.descending(parseInt(a['DA']), parseInt(b['DA']))})
 			else 
-				tableElements = tableElements.sort(function (a,b) {return d3.ascending(a['DA'], b['DA'])})
+				tableElements = tableElements.sort(function (a,b) {return d3.ascending(parseInt(a['DA']), parseInt(b['DA']))})
 			break;
 		case 'Hate Crimes':
 			if (ascInd == true)
-				tableElements = tableElements.sort(function (a,b) {return d3.descending(a['HC'], b['HC'])})
+				tableElements = tableElements.sort(function (a,b) {return d3.descending(parseInt(a['HC']), parseInt(b['HC']))})
 			else
-				tableElements = tableElements.sort(function (a,b) {return d3.ascending(a['HC'], b['HC'])})
+				tableElements = tableElements.sort(function (a,b) {return d3.ascending(parseInt(a['HC']), parseInt(b['HC']))})
 			break;
 		case 'VAWA Offenses':
 			if (ascInd == true)
-				tableElements = tableElements.sort(function (a,b) {return d3.descending(a['VW'], b['VW'])})
+				tableElements = tableElements.sort(function (a,b) {return d3.descending(parseInt(a['VW']), parseInt(b['VW']))})
 			else
-				tableElements = tableElements.sort(function (a,b) {return d3.ascending(a['VW'], b['VW'])}) 
+				tableElements = tableElements.sort(function (a,b) {return d3.ascending(parseInt(a['VW']), parseInt(b['VW']))}) 
 			break;
 	}
     if(ascInd == true)

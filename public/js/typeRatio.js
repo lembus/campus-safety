@@ -177,8 +177,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 				return d['Institution name'];
 			})
 			.attr('fill',function(d){
-				console.log(colorScale(d.total))
-				colorScale(d.total)
+				return colorScale(d.total)
 			})
 			.attr('class','uniCircle')
 			.style('opacity',0.8)
