@@ -1,6 +1,7 @@
 
-function TypeChart() {
+function TypeChart(catSunburst) {
     var self = this;
+	self.catSunburst = catSunburst;
     self.init();
 };
 
@@ -13,11 +14,10 @@ TypeChart.prototype.init = function(){
     var ratioChart = d3.select("#rect-chart");
 	$("#uni-svg").remove();
 
-	var width = 0.50 * window.innerWidth;
-    var height = 0.50 * window.innerWidth;
+    var height = 0.50 * window.outerWidth;
 
     var ratioChart = d3.select("#rect-chart")
-        .style('width', width + 'px')
+        .classed("leftChart",true)
         .style('height',height +'px');
 		
     //Gets access to the div element created for this chart from HTML
@@ -32,10 +32,13 @@ TypeChart.prototype.init = function(){
         .attr("height",self.svgHeight)
 		.attr('style',"border: 3px solid black; display: block; margin: auto;")
 		.attr('id','uni-svg')
+	self.selectedUni = '';
 };
 
 TypeChart.prototype.update = function(state,year,colorScale){
     var self = this;
+	self.catSunburst.update(state,year,self.selectedUni)
+
 	var svg = d3.select("#rect-chart").select('svg');
 	
 	var ratioChartScale = d3.scaleLinear()
@@ -143,7 +146,11 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			.attr('onmouseover',function(d){
 				return 'unitip(event,"' + d['Institution name'] + '")';
 			})
-			.attr('onmouseout','nunitip()');
+			.attr('onmouseout','nunitip()')
+			.on('click', function(d) {
+				self.selectedUni = d['Institution name'];
+				self.catSunburst.update(state,year,d['Institution name'])
+			});
 		
 		//brush is defined here
 		var brush = d3.brush()

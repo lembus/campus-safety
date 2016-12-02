@@ -11,19 +11,15 @@
     function init() {
         //Creating instances for each visualization
 
-        var typeChart = new TypeChart();
+        var catSunburst = new CatSunburst();
+
+        var typeChart = new TypeChart(catSunburst);
 
         var crimeChart = new CrimeChart();
-/*
-        var rectChart = new RectChart();
-
-        var donutChart = new DonutChart(shiftChart);
-*/
-
 
         //Creating the map
         //var mapChart = new MapChart(lineChart, rectChart);
-        var mapChart = new MapChart(typeChart);
+        var mapChart = new MapChart(typeChart,catSunburst);
 
 
 		//typeChart.update('CA',2010)

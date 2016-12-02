@@ -5,11 +5,12 @@
  * @param rectChart instance of RectChart
  */
 //function YearChart(lineChart, rectChart) {
-function MapChart(typeChart) {
+function MapChart(typeChart,catSunburst) {
     var self = this;
 
 //    self.lineChart = lineChart;
     self.typeChart = typeChart;
+    self.catSunburst = catSunburst;
     self.year = 2001;
     self.state = '';
     self.init();
@@ -109,7 +110,7 @@ MapChart.prototype.init = function(){
     d3.select("#yearSlider").on("input", function() {
         self.year = +this.value;
         self.update(self.year);
-        new TypeChart();
+        new TypeChart(self.catSunburst);
         self.typeChart.update(self.state,self.year,self.colorScale);
     });
 };
@@ -241,6 +242,7 @@ MapChart.prototype.update = function(year) {
                     .classed("selected",false);
                 self.state = '';
                 var typeChart = new TypeChart();
+                var typeChart = new TypeChart(self.catSunburst);
                 typeChart.update(self.state,self.year,self.colorScale);
 
                 //updateCharts();
@@ -252,7 +254,9 @@ MapChart.prototype.update = function(year) {
                 //updateCharts(d.id);
                 //rectChart(d.id);
                 self.state = d.id;
+
 				var typeChart = new TypeChart();
+				var typeChart = new TypeChart(self.catSunburst);
 				typeChart.update(self.state,self.year,self.colorScale);
 
                 var crimeChart = new CrimeChart();
