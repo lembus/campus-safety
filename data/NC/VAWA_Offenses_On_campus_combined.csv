@@ -1,18 +1,239 @@
 Survey year,Unitid,Institution name,Institution Size,Domestic violence,Dating violence,Stalking
+2001,164988,Boston University,32112,0,0,0
+2002,164988,Boston University,32112,0,0,0
+2003,164988,Boston University,32112,0,0,0
+2004,164988,Boston University,32112,0,0,0
+2005,164988,Boston University,32112,0,0,0
+2006,164988,Boston University,32112,0,0,0
+2007,164988,Boston University,32112,0,0,0
+2008,164988,Boston University,32112,0,0,0
+2009,164988,Boston University,32112,0,0,0
+2010,164988,Boston University,32112,0,0,0
+2011,164988,Boston University,32112,0,0,0
+2012,164988,Boston University,32112,0,0,0
+2013,164988,Boston University,32112,0,0,0
 2014,164988,Boston University,32112,0,0,0
+2001,167358,Northeastern University,19798,0,0,0
+2002,167358,Northeastern University,19798,0,0,0
+2003,167358,Northeastern University,19798,0,0,0
+2004,167358,Northeastern University,19798,0,0,0
+2005,167358,Northeastern University,19798,0,0,0
+2006,167358,Northeastern University,19798,0,0,0
+2007,167358,Northeastern University,19798,0,0,0
+2008,167358,Northeastern University,19798,0,0,0
+2009,167358,Northeastern University,19798,0,0,0
+2010,167358,Northeastern University,19798,0,0,0
+2011,167358,Northeastern University,19798,0,0,0
+2012,167358,Northeastern University,19798,0,0,0
+2013,167358,Northeastern University,19798,0,0,0
 2014,167358,Northeastern University,19798,0,0,0
+2001,169248,Central Michigan University,26879,0,0,0
+2002,169248,Central Michigan University,26879,0,0,0
+2003,169248,Central Michigan University,26879,0,0,0
+2004,169248,Central Michigan University,26879,0,0,0
+2005,169248,Central Michigan University,26879,0,0,0
+2006,169248,Central Michigan University,26879,0,0,0
+2007,169248,Central Michigan University,26879,0,0,0
+2008,169248,Central Michigan University,26879,0,0,0
+2009,169248,Central Michigan University,26879,0,0,0
+2010,169248,Central Michigan University,26879,0,0,0
+2011,169248,Central Michigan University,26879,0,0,0
+2012,169248,Central Michigan University,26879,0,0,0
+2013,169248,Central Michigan University,26879,0,0,0
 2014,169248,Central Michigan University,26879,0,0,0
+2001,178721,Park University,10792,0,0,0
+2002,178721,Park University,10792,0,0,0
+2003,178721,Park University,10792,0,0,0
+2004,178721,Park University,10792,0,0,0
+2005,178721,Park University,10792,0,0,0
+2006,178721,Park University,10792,0,0,0
+2007,178721,Park University,10792,0,0,0
+2008,178721,Park University,10792,0,0,0
+2009,178721,Park University,10792,0,0,0
+2010,178721,Park University,10792,0,0,0
+2011,178721,Park University,10792,0,0,0
+2012,178721,Park University,10792,0,0,0
+2013,178721,Park University,10792,0,0,0
 2014,178721,Park University,10792,0,0,0
+2001,179894,Webster University,16769,0,0,0
+2002,179894,Webster University,16769,0,0,0
+2003,179894,Webster University,16769,0,0,0
+2004,179894,Webster University,16769,0,0,0
+2005,179894,Webster University,16769,0,0,0
+2006,179894,Webster University,16769,0,0,0
+2007,179894,Webster University,16769,0,0,0
+2008,179894,Webster University,16769,0,0,0
+2009,179894,Webster University,16769,0,0,0
+2010,179894,Webster University,16769,0,0,0
+2011,179894,Webster University,16769,0,0,0
+2012,179894,Webster University,16769,0,0,0
+2013,179894,Webster University,16769,0,0,0
 2014,179894,Webster University,16769,0,0,0
+2001,197869,Appalachian State University,18026,0,7,5
+2002,197869,Appalachian State University,18026,0,7,5
+2003,197869,Appalachian State University,18026,0,7,5
+2004,197869,Appalachian State University,18026,0,7,5
+2005,197869,Appalachian State University,18026,0,7,5
+2006,197869,Appalachian State University,18026,0,7,5
+2007,197869,Appalachian State University,18026,0,7,5
+2008,197869,Appalachian State University,18026,0,7,5
+2009,197869,Appalachian State University,18026,0,7,5
+2010,197869,Appalachian State University,18026,0,7,5
+2011,197869,Appalachian State University,18026,0,7,5
+2012,197869,Appalachian State University,18026,0,7,5
+2013,197869,Appalachian State University,18026,0,7,5
 2014,197869,Appalachian State University,18026,0,7,5
+2001,198419,Duke University,15856,3,6,3
+2002,198419,Duke University,15856,3,6,3
+2003,198419,Duke University,15856,3,6,3
+2004,198419,Duke University,15856,3,6,3
+2005,198419,Duke University,15856,3,6,3
+2006,198419,Duke University,15856,3,6,3
+2007,198419,Duke University,15856,3,6,3
+2008,198419,Duke University,15856,3,6,3
+2009,198419,Duke University,15856,3,6,3
+2010,198419,Duke University,15856,3,6,3
+2011,198419,Duke University,15856,3,6,3
+2012,198419,Duke University,15856,3,6,3
+2013,198419,Duke University,15856,3,6,3
 2014,198419,Duke University,15856,3,6,3
+2001,198464,East Carolina University,27511,2,3,8
+2002,198464,East Carolina University,27511,2,3,8
+2003,198464,East Carolina University,27511,2,3,8
+2004,198464,East Carolina University,27511,2,3,8
+2005,198464,East Carolina University,27511,2,3,8
+2006,198464,East Carolina University,27511,2,3,8
+2007,198464,East Carolina University,27511,2,3,8
+2008,198464,East Carolina University,27511,2,3,8
+2009,198464,East Carolina University,27511,2,3,8
+2010,198464,East Carolina University,27511,2,3,8
+2011,198464,East Carolina University,27511,2,3,8
+2012,198464,East Carolina University,27511,2,3,8
+2013,198464,East Carolina University,27511,2,3,8
 2014,198464,East Carolina University,27511,2,3,8
+2001,199102,North Carolina A & T State University,10725,0,9,0
+2002,199102,North Carolina A & T State University,10725,0,9,0
+2003,199102,North Carolina A & T State University,10725,0,9,0
+2004,199102,North Carolina A & T State University,10725,0,9,0
+2005,199102,North Carolina A & T State University,10725,0,9,0
+2006,199102,North Carolina A & T State University,10725,0,9,0
+2007,199102,North Carolina A & T State University,10725,0,9,0
+2008,199102,North Carolina A & T State University,10725,0,9,0
+2009,199102,North Carolina A & T State University,10725,0,9,0
+2010,199102,North Carolina A & T State University,10725,0,9,0
+2011,199102,North Carolina A & T State University,10725,0,9,0
+2012,199102,North Carolina A & T State University,10725,0,9,0
+2013,199102,North Carolina A & T State University,10725,0,9,0
 2014,199102,North Carolina A & T State University,10725,0,9,0
+2001,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2002,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2003,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2004,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2005,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2006,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2007,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2008,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2009,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2010,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2011,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2012,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2013,199120,University of North Carolina at Chapel Hill,29135,7,10,9
 2014,199120,University of North Carolina at Chapel Hill,29135,7,10,9
+2001,199139,University of North Carolina at Charlotte,27238,1,6,20
+2002,199139,University of North Carolina at Charlotte,27238,1,6,20
+2003,199139,University of North Carolina at Charlotte,27238,1,6,20
+2004,199139,University of North Carolina at Charlotte,27238,1,6,20
+2005,199139,University of North Carolina at Charlotte,27238,1,6,20
+2006,199139,University of North Carolina at Charlotte,27238,1,6,20
+2007,199139,University of North Carolina at Charlotte,27238,1,6,20
+2008,199139,University of North Carolina at Charlotte,27238,1,6,20
+2009,199139,University of North Carolina at Charlotte,27238,1,6,20
+2010,199139,University of North Carolina at Charlotte,27238,1,6,20
+2011,199139,University of North Carolina at Charlotte,27238,1,6,20
+2012,199139,University of North Carolina at Charlotte,27238,1,6,20
+2013,199139,University of North Carolina at Charlotte,27238,1,6,20
 2014,199139,University of North Carolina at Charlotte,27238,1,6,20
+2001,199148,University of North Carolina at Greensboro,18647,0,14,5
+2002,199148,University of North Carolina at Greensboro,18647,0,14,5
+2003,199148,University of North Carolina at Greensboro,18647,0,14,5
+2004,199148,University of North Carolina at Greensboro,18647,0,14,5
+2005,199148,University of North Carolina at Greensboro,18647,0,14,5
+2006,199148,University of North Carolina at Greensboro,18647,0,14,5
+2007,199148,University of North Carolina at Greensboro,18647,0,14,5
+2008,199148,University of North Carolina at Greensboro,18647,0,14,5
+2009,199148,University of North Carolina at Greensboro,18647,0,14,5
+2010,199148,University of North Carolina at Greensboro,18647,0,14,5
+2011,199148,University of North Carolina at Greensboro,18647,0,14,5
+2012,199148,University of North Carolina at Greensboro,18647,0,14,5
+2013,199148,University of North Carolina at Greensboro,18647,0,14,5
 2014,199148,University of North Carolina at Greensboro,18647,0,14,5
+2001,199193,North Carolina State University at Raleigh,33989,3,11,17
+2002,199193,North Carolina State University at Raleigh,33989,3,11,17
+2003,199193,North Carolina State University at Raleigh,33989,3,11,17
+2004,199193,North Carolina State University at Raleigh,33989,3,11,17
+2005,199193,North Carolina State University at Raleigh,33989,3,11,17
+2006,199193,North Carolina State University at Raleigh,33989,3,11,17
+2007,199193,North Carolina State University at Raleigh,33989,3,11,17
+2008,199193,North Carolina State University at Raleigh,33989,3,11,17
+2009,199193,North Carolina State University at Raleigh,33989,3,11,17
+2010,199193,North Carolina State University at Raleigh,33989,3,11,17
+2011,199193,North Carolina State University at Raleigh,33989,3,11,17
+2012,199193,North Carolina State University at Raleigh,33989,3,11,17
+2013,199193,North Carolina State University at Raleigh,33989,3,11,17
 2014,199193,North Carolina State University at Raleigh,33989,3,11,17
+2001,199218,University of North Carolina Wilmington,14570,2,4,6
+2002,199218,University of North Carolina Wilmington,14570,2,4,6
+2003,199218,University of North Carolina Wilmington,14570,2,4,6
+2004,199218,University of North Carolina Wilmington,14570,2,4,6
+2005,199218,University of North Carolina Wilmington,14570,2,4,6
+2006,199218,University of North Carolina Wilmington,14570,2,4,6
+2007,199218,University of North Carolina Wilmington,14570,2,4,6
+2008,199218,University of North Carolina Wilmington,14570,2,4,6
+2009,199218,University of North Carolina Wilmington,14570,2,4,6
+2010,199218,University of North Carolina Wilmington,14570,2,4,6
+2011,199218,University of North Carolina Wilmington,14570,2,4,6
+2012,199218,University of North Carolina Wilmington,14570,2,4,6
+2013,199218,University of North Carolina Wilmington,14570,2,4,6
 2014,199218,University of North Carolina Wilmington,14570,2,4,6
+2001,200004,Western Carolina University,10382,0,4,5
+2002,200004,Western Carolina University,10382,0,4,5
+2003,200004,Western Carolina University,10382,0,4,5
+2004,200004,Western Carolina University,10382,0,4,5
+2005,200004,Western Carolina University,10382,0,4,5
+2006,200004,Western Carolina University,10382,0,4,5
+2007,200004,Western Carolina University,10382,0,4,5
+2008,200004,Western Carolina University,10382,0,4,5
+2009,200004,Western Carolina University,10382,0,4,5
+2010,200004,Western Carolina University,10382,0,4,5
+2011,200004,Western Carolina University,10382,0,4,5
+2012,200004,Western Carolina University,10382,0,4,5
+2013,200004,Western Carolina University,10382,0,4,5
 2014,200004,Western Carolina University,10382,0,4,5
+2001,248934,ECPI University,10932,0,0,0
+2002,248934,ECPI University,10932,0,0,0
+2003,248934,ECPI University,10932,0,0,0
+2004,248934,ECPI University,10932,0,0,0
+2005,248934,ECPI University,10932,0,0,0
+2006,248934,ECPI University,10932,0,0,0
+2007,248934,ECPI University,10932,0,0,0
+2008,248934,ECPI University,10932,0,0,0
+2009,248934,ECPI University,10932,0,0,0
+2010,248934,ECPI University,10932,0,0,0
+2011,248934,ECPI University,10932,0,0,0
+2012,248934,ECPI University,10932,0,0,0
+2013,248934,ECPI University,10932,0,0,0
 2014,248934,ECPI University,10932,0,0,0
+2001,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2002,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2003,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2004,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2005,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2006,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2007,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
 2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0

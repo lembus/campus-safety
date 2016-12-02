@@ -1,35 +1,477 @@
 Survey year,Unitid,Institution name,Institution Size,Domestic violence,Dating violence,Stalking
+2001,163204,University of Maryland-University College,47906,0,0,0
+2002,163204,University of Maryland-University College,47906,0,0,0
+2003,163204,University of Maryland-University College,47906,0,0,0
+2004,163204,University of Maryland-University College,47906,0,0,0
+2005,163204,University of Maryland-University College,47906,0,0,0
+2006,163204,University of Maryland-University College,47906,0,0,0
+2007,163204,University of Maryland-University College,47906,0,0,0
+2008,163204,University of Maryland-University College,47906,0,0,0
+2009,163204,University of Maryland-University College,47906,0,0,0
+2010,163204,University of Maryland-University College,47906,0,0,0
+2011,163204,University of Maryland-University College,47906,0,0,0
+2012,163204,University of Maryland-University College,47906,0,0,0
+2013,163204,University of Maryland-University College,47906,0,0,0
 2014,163204,University of Maryland-University College,47906,0,0,0
+2001,169248,Central Michigan University,26879,0,0,0
+2002,169248,Central Michigan University,26879,0,0,0
+2003,169248,Central Michigan University,26879,0,0,0
+2004,169248,Central Michigan University,26879,0,0,0
+2005,169248,Central Michigan University,26879,0,0,0
+2006,169248,Central Michigan University,26879,0,0,0
+2007,169248,Central Michigan University,26879,0,0,0
+2008,169248,Central Michigan University,26879,0,0,0
+2009,169248,Central Michigan University,26879,0,0,0
+2010,169248,Central Michigan University,26879,0,0,0
+2011,169248,Central Michigan University,26879,0,0,0
+2012,169248,Central Michigan University,26879,0,0,0
+2013,169248,Central Michigan University,26879,0,0,0
 2014,169248,Central Michigan University,26879,0,0,0
+2001,177065,Columbia College,16567,0,0,0
+2002,177065,Columbia College,16567,0,0,0
+2003,177065,Columbia College,16567,0,0,0
+2004,177065,Columbia College,16567,0,0,0
+2005,177065,Columbia College,16567,0,0,0
+2006,177065,Columbia College,16567,0,0,0
+2007,177065,Columbia College,16567,0,0,0
+2008,177065,Columbia College,16567,0,0,0
+2009,177065,Columbia College,16567,0,0,0
+2010,177065,Columbia College,16567,0,0,0
+2011,177065,Columbia College,16567,0,0,0
+2012,177065,Columbia College,16567,0,0,0
+2013,177065,Columbia College,16567,0,0,0
 2014,177065,Columbia College,16567,0,0,0
+2001,190150,Columbia University in the City of New York,27589,8,14,26
+2002,190150,Columbia University in the City of New York,27589,8,14,26
+2003,190150,Columbia University in the City of New York,27589,8,14,26
+2004,190150,Columbia University in the City of New York,27589,8,14,26
+2005,190150,Columbia University in the City of New York,27589,8,14,26
+2006,190150,Columbia University in the City of New York,27589,8,14,26
+2007,190150,Columbia University in the City of New York,27589,8,14,26
+2008,190150,Columbia University in the City of New York,27589,8,14,26
+2009,190150,Columbia University in the City of New York,27589,8,14,26
+2010,190150,Columbia University in the City of New York,27589,8,14,26
+2011,190150,Columbia University in the City of New York,27589,8,14,26
+2012,190150,Columbia University in the City of New York,27589,8,14,26
+2013,190150,Columbia University in the City of New York,27589,8,14,26
 2014,190150,Columbia University in the City of New York,27589,8,14,26
+2001,190415,Cornell University,21679,8,8,6
+2002,190415,Cornell University,21679,8,8,6
+2003,190415,Cornell University,21679,8,8,6
+2004,190415,Cornell University,21679,8,8,6
+2005,190415,Cornell University,21679,8,8,6
+2006,190415,Cornell University,21679,8,8,6
+2007,190415,Cornell University,21679,8,8,6
+2008,190415,Cornell University,21679,8,8,6
+2009,190415,Cornell University,21679,8,8,6
+2010,190415,Cornell University,21679,8,8,6
+2011,190415,Cornell University,21679,8,8,6
+2012,190415,Cornell University,21679,8,8,6
+2013,190415,Cornell University,21679,8,8,6
 2014,190415,Cornell University,21679,8,8,6
+2001,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2002,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2003,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2004,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2005,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2006,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2007,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2008,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2009,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2010,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2011,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2012,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2013,190512,CUNY Bernard M Baruch College,18090,0,0,0
 2014,190512,CUNY Bernard M Baruch College,18090,0,0,0
+2001,190549,CUNY Brooklyn College,17390,0,0,1
+2002,190549,CUNY Brooklyn College,17390,0,0,1
+2003,190549,CUNY Brooklyn College,17390,0,0,1
+2004,190549,CUNY Brooklyn College,17390,0,0,1
+2005,190549,CUNY Brooklyn College,17390,0,0,1
+2006,190549,CUNY Brooklyn College,17390,0,0,1
+2007,190549,CUNY Brooklyn College,17390,0,0,1
+2008,190549,CUNY Brooklyn College,17390,0,0,1
+2009,190549,CUNY Brooklyn College,17390,0,0,1
+2010,190549,CUNY Brooklyn College,17390,0,0,1
+2011,190549,CUNY Brooklyn College,17390,0,0,1
+2012,190549,CUNY Brooklyn College,17390,0,0,1
+2013,190549,CUNY Brooklyn College,17390,0,0,1
 2014,190549,CUNY Brooklyn College,17390,0,0,1
+2001,190558,College of Staten Island CUNY,14346,0,5,5
+2002,190558,College of Staten Island CUNY,14346,0,5,5
+2003,190558,College of Staten Island CUNY,14346,0,5,5
+2004,190558,College of Staten Island CUNY,14346,0,5,5
+2005,190558,College of Staten Island CUNY,14346,0,5,5
+2006,190558,College of Staten Island CUNY,14346,0,5,5
+2007,190558,College of Staten Island CUNY,14346,0,5,5
+2008,190558,College of Staten Island CUNY,14346,0,5,5
+2009,190558,College of Staten Island CUNY,14346,0,5,5
+2010,190558,College of Staten Island CUNY,14346,0,5,5
+2011,190558,College of Staten Island CUNY,14346,0,5,5
+2012,190558,College of Staten Island CUNY,14346,0,5,5
+2013,190558,College of Staten Island CUNY,14346,0,5,5
 2014,190558,College of Staten Island CUNY,14346,0,5,5
+2001,190567,CUNY City College,15579,2,12,2
+2002,190567,CUNY City College,15579,2,12,2
+2003,190567,CUNY City College,15579,2,12,2
+2004,190567,CUNY City College,15579,2,12,2
+2005,190567,CUNY City College,15579,2,12,2
+2006,190567,CUNY City College,15579,2,12,2
+2007,190567,CUNY City College,15579,2,12,2
+2008,190567,CUNY City College,15579,2,12,2
+2009,190567,CUNY City College,15579,2,12,2
+2010,190567,CUNY City College,15579,2,12,2
+2011,190567,CUNY City College,15579,2,12,2
+2012,190567,CUNY City College,15579,2,12,2
+2013,190567,CUNY City College,15579,2,12,2
 2014,190567,CUNY City College,15579,2,12,2
+2001,190594,CUNY Hunter College,23112,0,0,1
+2002,190594,CUNY Hunter College,23112,0,0,1
+2003,190594,CUNY Hunter College,23112,0,0,1
+2004,190594,CUNY Hunter College,23112,0,0,1
+2005,190594,CUNY Hunter College,23112,0,0,1
+2006,190594,CUNY Hunter College,23112,0,0,1
+2007,190594,CUNY Hunter College,23112,0,0,1
+2008,190594,CUNY Hunter College,23112,0,0,1
+2009,190594,CUNY Hunter College,23112,0,0,1
+2010,190594,CUNY Hunter College,23112,0,0,1
+2011,190594,CUNY Hunter College,23112,0,0,1
+2012,190594,CUNY Hunter College,23112,0,0,1
+2013,190594,CUNY Hunter College,23112,0,0,1
 2014,190594,CUNY Hunter College,23112,0,0,1
+2001,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2002,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2003,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2004,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2005,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2006,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2007,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2008,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2009,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2010,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2011,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2012,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2013,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
 2014,190600,CUNY John Jay College of Criminal Justice,15045,0,1,5
+2001,190637,CUNY Lehman College,12398,0,0,0
+2002,190637,CUNY Lehman College,12398,0,0,0
+2003,190637,CUNY Lehman College,12398,0,0,0
+2004,190637,CUNY Lehman College,12398,0,0,0
+2005,190637,CUNY Lehman College,12398,0,0,0
+2006,190637,CUNY Lehman College,12398,0,0,0
+2007,190637,CUNY Lehman College,12398,0,0,0
+2008,190637,CUNY Lehman College,12398,0,0,0
+2009,190637,CUNY Lehman College,12398,0,0,0
+2010,190637,CUNY Lehman College,12398,0,0,0
+2011,190637,CUNY Lehman College,12398,0,0,0
+2012,190637,CUNY Lehman College,12398,0,0,0
+2013,190637,CUNY Lehman College,12398,0,0,0
 2014,190637,CUNY Lehman College,12398,0,0,0
+2001,190655,CUNY New York City College of Technology,17374,0,1,1
+2002,190655,CUNY New York City College of Technology,17374,0,1,1
+2003,190655,CUNY New York City College of Technology,17374,0,1,1
+2004,190655,CUNY New York City College of Technology,17374,0,1,1
+2005,190655,CUNY New York City College of Technology,17374,0,1,1
+2006,190655,CUNY New York City College of Technology,17374,0,1,1
+2007,190655,CUNY New York City College of Technology,17374,0,1,1
+2008,190655,CUNY New York City College of Technology,17374,0,1,1
+2009,190655,CUNY New York City College of Technology,17374,0,1,1
+2010,190655,CUNY New York City College of Technology,17374,0,1,1
+2011,190655,CUNY New York City College of Technology,17374,0,1,1
+2012,190655,CUNY New York City College of Technology,17374,0,1,1
+2013,190655,CUNY New York City College of Technology,17374,0,1,1
 2014,190655,CUNY New York City College of Technology,17374,0,1,1
+2001,190664,CUNY Queens College,19310,0,2,2
+2002,190664,CUNY Queens College,19310,0,2,2
+2003,190664,CUNY Queens College,19310,0,2,2
+2004,190664,CUNY Queens College,19310,0,2,2
+2005,190664,CUNY Queens College,19310,0,2,2
+2006,190664,CUNY Queens College,19310,0,2,2
+2007,190664,CUNY Queens College,19310,0,2,2
+2008,190664,CUNY Queens College,19310,0,2,2
+2009,190664,CUNY Queens College,19310,0,2,2
+2010,190664,CUNY Queens College,19310,0,2,2
+2011,190664,CUNY Queens College,19310,0,2,2
+2012,190664,CUNY Queens College,19310,0,2,2
+2013,190664,CUNY Queens College,19310,0,2,2
 2014,190664,CUNY Queens College,19310,0,2,2
+2001,191241,Fordham University,15231,0,2,1
+2002,191241,Fordham University,15231,0,2,1
+2003,191241,Fordham University,15231,0,2,1
+2004,191241,Fordham University,15231,0,2,1
+2005,191241,Fordham University,15231,0,2,1
+2006,191241,Fordham University,15231,0,2,1
+2007,191241,Fordham University,15231,0,2,1
+2008,191241,Fordham University,15231,0,2,1
+2009,191241,Fordham University,15231,0,2,1
+2010,191241,Fordham University,15231,0,2,1
+2011,191241,Fordham University,15231,0,2,1
+2012,191241,Fordham University,15231,0,2,1
+2013,191241,Fordham University,15231,0,2,1
 2014,191241,Fordham University,15231,0,2,1
+2001,191649,Hofstra University,10953,0,5,4
+2002,191649,Hofstra University,10953,0,5,4
+2003,191649,Hofstra University,10953,0,5,4
+2004,191649,Hofstra University,10953,0,5,4
+2005,191649,Hofstra University,10953,0,5,4
+2006,191649,Hofstra University,10953,0,5,4
+2007,191649,Hofstra University,10953,0,5,4
+2008,191649,Hofstra University,10953,0,5,4
+2009,191649,Hofstra University,10953,0,5,4
+2010,191649,Hofstra University,10953,0,5,4
+2011,191649,Hofstra University,10953,0,5,4
+2012,191649,Hofstra University,10953,0,5,4
+2013,191649,Hofstra University,10953,0,5,4
 2014,191649,Hofstra University,10953,0,5,4
+2001,193016,Mercy College,11272,0,0,0
+2002,193016,Mercy College,11272,0,0,0
+2003,193016,Mercy College,11272,0,0,0
+2004,193016,Mercy College,11272,0,0,0
+2005,193016,Mercy College,11272,0,0,0
+2006,193016,Mercy College,11272,0,0,0
+2007,193016,Mercy College,11272,0,0,0
+2008,193016,Mercy College,11272,0,0,0
+2009,193016,Mercy College,11272,0,0,0
+2010,193016,Mercy College,11272,0,0,0
+2011,193016,Mercy College,11272,0,0,0
+2012,193016,Mercy College,11272,0,0,0
+2013,193016,Mercy College,11272,0,0,0
 2014,193016,Mercy College,11272,0,0,0
+2001,193654,The New School,10477,0,1,0
+2002,193654,The New School,10477,0,1,0
+2003,193654,The New School,10477,0,1,0
+2004,193654,The New School,10477,0,1,0
+2005,193654,The New School,10477,0,1,0
+2006,193654,The New School,10477,0,1,0
+2007,193654,The New School,10477,0,1,0
+2008,193654,The New School,10477,0,1,0
+2009,193654,The New School,10477,0,1,0
+2010,193654,The New School,10477,0,1,0
+2011,193654,The New School,10477,0,1,0
+2012,193654,The New School,10477,0,1,0
+2013,193654,The New School,10477,0,1,0
 2014,193654,The New School,10477,0,1,0
+2001,193900,New York University,49274,0,1,1
+2002,193900,New York University,49274,0,1,1
+2003,193900,New York University,49274,0,1,1
+2004,193900,New York University,49274,0,1,1
+2005,193900,New York University,49274,0,1,1
+2006,193900,New York University,49274,0,1,1
+2007,193900,New York University,49274,0,1,1
+2008,193900,New York University,49274,0,1,1
+2009,193900,New York University,49274,0,1,1
+2010,193900,New York University,49274,0,1,1
+2011,193900,New York University,49274,0,1,1
+2012,193900,New York University,49274,0,1,1
+2013,193900,New York University,49274,0,1,1
 2014,193900,New York University,49274,0,1,1
+2001,194310,Pace University-New York,12857,0,1,0
+2002,194310,Pace University-New York,12857,0,1,0
+2003,194310,Pace University-New York,12857,0,1,0
+2004,194310,Pace University-New York,12857,0,1,0
+2005,194310,Pace University-New York,12857,0,1,0
+2006,194310,Pace University-New York,12857,0,1,0
+2007,194310,Pace University-New York,12857,0,1,0
+2008,194310,Pace University-New York,12857,0,1,0
+2009,194310,Pace University-New York,12857,0,1,0
+2010,194310,Pace University-New York,12857,0,1,0
+2011,194310,Pace University-New York,12857,0,1,0
+2012,194310,Pace University-New York,12857,0,1,0
+2013,194310,Pace University-New York,12857,0,1,0
 2014,194310,Pace University-New York,12857,0,1,0
+2001,195003,Rochester Institute of Technology,16310,1,4,14
+2002,195003,Rochester Institute of Technology,16310,1,4,14
+2003,195003,Rochester Institute of Technology,16310,1,4,14
+2004,195003,Rochester Institute of Technology,16310,1,4,14
+2005,195003,Rochester Institute of Technology,16310,1,4,14
+2006,195003,Rochester Institute of Technology,16310,1,4,14
+2007,195003,Rochester Institute of Technology,16310,1,4,14
+2008,195003,Rochester Institute of Technology,16310,1,4,14
+2009,195003,Rochester Institute of Technology,16310,1,4,14
+2010,195003,Rochester Institute of Technology,16310,1,4,14
+2011,195003,Rochester Institute of Technology,16310,1,4,14
+2012,195003,Rochester Institute of Technology,16310,1,4,14
+2013,195003,Rochester Institute of Technology,16310,1,4,14
 2014,195003,Rochester Institute of Technology,16310,1,4,14
+2001,195030,University of Rochester,11060,0,6,9
+2002,195030,University of Rochester,11060,0,6,9
+2003,195030,University of Rochester,11060,0,6,9
+2004,195030,University of Rochester,11060,0,6,9
+2005,195030,University of Rochester,11060,0,6,9
+2006,195030,University of Rochester,11060,0,6,9
+2007,195030,University of Rochester,11060,0,6,9
+2008,195030,University of Rochester,11060,0,6,9
+2009,195030,University of Rochester,11060,0,6,9
+2010,195030,University of Rochester,11060,0,6,9
+2011,195030,University of Rochester,11060,0,6,9
+2012,195030,University of Rochester,11060,0,6,9
+2013,195030,University of Rochester,11060,0,6,9
 2014,195030,University of Rochester,11060,0,6,9
+2001,195809,St John's University-New York,20445,7,0,3
+2002,195809,St John's University-New York,20445,7,0,3
+2003,195809,St John's University-New York,20445,7,0,3
+2004,195809,St John's University-New York,20445,7,0,3
+2005,195809,St John's University-New York,20445,7,0,3
+2006,195809,St John's University-New York,20445,7,0,3
+2007,195809,St John's University-New York,20445,7,0,3
+2008,195809,St John's University-New York,20445,7,0,3
+2009,195809,St John's University-New York,20445,7,0,3
+2010,195809,St John's University-New York,20445,7,0,3
+2011,195809,St John's University-New York,20445,7,0,3
+2012,195809,St John's University-New York,20445,7,0,3
+2013,195809,St John's University-New York,20445,7,0,3
 2014,195809,St John's University-New York,20445,7,0,3
+2001,196060,SUNY at Albany,17273,1,16,4
+2002,196060,SUNY at Albany,17273,1,16,4
+2003,196060,SUNY at Albany,17273,1,16,4
+2004,196060,SUNY at Albany,17273,1,16,4
+2005,196060,SUNY at Albany,17273,1,16,4
+2006,196060,SUNY at Albany,17273,1,16,4
+2007,196060,SUNY at Albany,17273,1,16,4
+2008,196060,SUNY at Albany,17273,1,16,4
+2009,196060,SUNY at Albany,17273,1,16,4
+2010,196060,SUNY at Albany,17273,1,16,4
+2011,196060,SUNY at Albany,17273,1,16,4
+2012,196060,SUNY at Albany,17273,1,16,4
+2013,196060,SUNY at Albany,17273,1,16,4
 2014,196060,SUNY at Albany,17273,1,16,4
+2001,196079,SUNY at Binghamton,16695,7,5,9
+2002,196079,SUNY at Binghamton,16695,7,5,9
+2003,196079,SUNY at Binghamton,16695,7,5,9
+2004,196079,SUNY at Binghamton,16695,7,5,9
+2005,196079,SUNY at Binghamton,16695,7,5,9
+2006,196079,SUNY at Binghamton,16695,7,5,9
+2007,196079,SUNY at Binghamton,16695,7,5,9
+2008,196079,SUNY at Binghamton,16695,7,5,9
+2009,196079,SUNY at Binghamton,16695,7,5,9
+2010,196079,SUNY at Binghamton,16695,7,5,9
+2011,196079,SUNY at Binghamton,16695,7,5,9
+2012,196079,SUNY at Binghamton,16695,7,5,9
+2013,196079,SUNY at Binghamton,16695,7,5,9
 2014,196079,SUNY at Binghamton,16695,7,5,9
+2001,196088,University at Buffalo,29995,18,0,7
+2002,196088,University at Buffalo,29995,18,0,7
+2003,196088,University at Buffalo,29995,18,0,7
+2004,196088,University at Buffalo,29995,18,0,7
+2005,196088,University at Buffalo,29995,18,0,7
+2006,196088,University at Buffalo,29995,18,0,7
+2007,196088,University at Buffalo,29995,18,0,7
+2008,196088,University at Buffalo,29995,18,0,7
+2009,196088,University at Buffalo,29995,18,0,7
+2010,196088,University at Buffalo,29995,18,0,7
+2011,196088,University at Buffalo,29995,18,0,7
+2012,196088,University at Buffalo,29995,18,0,7
+2013,196088,University at Buffalo,29995,18,0,7
 2014,196088,University at Buffalo,29995,18,0,7
+2001,196097,Stony Brook University,24607,5,9,20
+2002,196097,Stony Brook University,24607,5,9,20
+2003,196097,Stony Brook University,24607,5,9,20
+2004,196097,Stony Brook University,24607,5,9,20
+2005,196097,Stony Brook University,24607,5,9,20
+2006,196097,Stony Brook University,24607,5,9,20
+2007,196097,Stony Brook University,24607,5,9,20
+2008,196097,Stony Brook University,24607,5,9,20
+2009,196097,Stony Brook University,24607,5,9,20
+2010,196097,Stony Brook University,24607,5,9,20
+2011,196097,Stony Brook University,24607,5,9,20
+2012,196097,Stony Brook University,24607,5,9,20
+2013,196097,Stony Brook University,24607,5,9,20
 2014,196097,Stony Brook University,24607,5,9,20
+2001,196130,SUNY Buffalo State,11083,1,12,7
+2002,196130,SUNY Buffalo State,11083,1,12,7
+2003,196130,SUNY Buffalo State,11083,1,12,7
+2004,196130,SUNY Buffalo State,11083,1,12,7
+2005,196130,SUNY Buffalo State,11083,1,12,7
+2006,196130,SUNY Buffalo State,11083,1,12,7
+2007,196130,SUNY Buffalo State,11083,1,12,7
+2008,196130,SUNY Buffalo State,11083,1,12,7
+2009,196130,SUNY Buffalo State,11083,1,12,7
+2010,196130,SUNY Buffalo State,11083,1,12,7
+2011,196130,SUNY Buffalo State,11083,1,12,7
+2012,196130,SUNY Buffalo State,11083,1,12,7
+2013,196130,SUNY Buffalo State,11083,1,12,7
 2014,196130,SUNY Buffalo State,11083,1,12,7
+2001,196264,SUNY Empire State College,11952,1,0,0
+2002,196264,SUNY Empire State College,11952,1,0,0
+2003,196264,SUNY Empire State College,11952,1,0,0
+2004,196264,SUNY Empire State College,11952,1,0,0
+2005,196264,SUNY Empire State College,11952,1,0,0
+2006,196264,SUNY Empire State College,11952,1,0,0
+2007,196264,SUNY Empire State College,11952,1,0,0
+2008,196264,SUNY Empire State College,11952,1,0,0
+2009,196264,SUNY Empire State College,11952,1,0,0
+2010,196264,SUNY Empire State College,11952,1,0,0
+2011,196264,SUNY Empire State College,11952,1,0,0
+2012,196264,SUNY Empire State College,11952,1,0,0
+2013,196264,SUNY Empire State College,11952,1,0,0
 2014,196264,SUNY Empire State College,11952,1,0,0
+2001,196413,Syracuse University,21492,0,3,1
+2002,196413,Syracuse University,21492,0,3,1
+2003,196413,Syracuse University,21492,0,3,1
+2004,196413,Syracuse University,21492,0,3,1
+2005,196413,Syracuse University,21492,0,3,1
+2006,196413,Syracuse University,21492,0,3,1
+2007,196413,Syracuse University,21492,0,3,1
+2008,196413,Syracuse University,21492,0,3,1
+2009,196413,Syracuse University,21492,0,3,1
+2010,196413,Syracuse University,21492,0,3,1
+2011,196413,Syracuse University,21492,0,3,1
+2012,196413,Syracuse University,21492,0,3,1
+2013,196413,Syracuse University,21492,0,3,1
 2014,196413,Syracuse University,21492,0,3,1
+2001,196592,Touro College,12381,0,0,1
+2002,196592,Touro College,12381,0,0,1
+2003,196592,Touro College,12381,0,0,1
+2004,196592,Touro College,12381,0,0,1
+2005,196592,Touro College,12381,0,0,1
+2006,196592,Touro College,12381,0,0,1
+2007,196592,Touro College,12381,0,0,1
+2008,196592,Touro College,12381,0,0,1
+2009,196592,Touro College,12381,0,0,1
+2010,196592,Touro College,12381,0,0,1
+2011,196592,Touro College,12381,0,0,1
+2012,196592,Touro College,12381,0,0,1
+2013,196592,Touro College,12381,0,0,1
 2014,196592,Touro College,12381,0,0,1
+2001,196680,Excelsior College,41527,0,0,0
+2002,196680,Excelsior College,41527,0,0,0
+2003,196680,Excelsior College,41527,0,0,0
+2004,196680,Excelsior College,41527,0,0,0
+2005,196680,Excelsior College,41527,0,0,0
+2006,196680,Excelsior College,41527,0,0,0
+2007,196680,Excelsior College,41527,0,0,0
+2008,196680,Excelsior College,41527,0,0,0
+2009,196680,Excelsior College,41527,0,0,0
+2010,196680,Excelsior College,41527,0,0,0
+2011,196680,Excelsior College,41527,0,0,0
+2012,196680,Excelsior College,41527,0,0,0
+2013,196680,Excelsior College,41527,0,0,0
 2014,196680,Excelsior College,41527,0,0,0
+2001,211440,Carnegie Mellon University,12587,0,0,0
+2002,211440,Carnegie Mellon University,12587,0,0,0
+2003,211440,Carnegie Mellon University,12587,0,0,0
+2004,211440,Carnegie Mellon University,12587,0,0,0
+2005,211440,Carnegie Mellon University,12587,0,0,0
+2006,211440,Carnegie Mellon University,12587,0,0,0
+2007,211440,Carnegie Mellon University,12587,0,0,0
+2008,211440,Carnegie Mellon University,12587,0,0,0
+2009,211440,Carnegie Mellon University,12587,0,0,0
+2010,211440,Carnegie Mellon University,12587,0,0,0
+2011,211440,Carnegie Mellon University,12587,0,0,0
+2012,211440,Carnegie Mellon University,12587,0,0,0
+2013,211440,Carnegie Mellon University,12587,0,0,0
 2014,211440,Carnegie Mellon University,12587,0,0,0
+2001,223232,Baylor University,16263,0,0,0
+2002,223232,Baylor University,16263,0,0,0
+2003,223232,Baylor University,16263,0,0,0
+2004,223232,Baylor University,16263,0,0,0
+2005,223232,Baylor University,16263,0,0,0
+2006,223232,Baylor University,16263,0,0,0
+2007,223232,Baylor University,16263,0,0,0
+2008,223232,Baylor University,16263,0,0,0
+2009,223232,Baylor University,16263,0,0,0
+2010,223232,Baylor University,16263,0,0,0
+2011,223232,Baylor University,16263,0,0,0
+2012,223232,Baylor University,16263,0,0,0
+2013,223232,Baylor University,16263,0,0,0
 2014,223232,Baylor University,16263,0,0,0

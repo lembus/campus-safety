@@ -145,7 +145,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 		svg.append("g")
 			.attr("class", "brush")
 			.call(brush);
-		
+
 		var ratioChart = svg.selectAll('circle')
 			.data(combinedYears)
 			

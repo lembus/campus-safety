@@ -1,20 +1,267 @@
 Survey year,Unitid,Institution name,Institution Size,Domestic violence,Dating violence,Stalking
+2001,144050,University of Chicago,15097,15,2,7
+2002,144050,University of Chicago,15097,15,2,7
+2003,144050,University of Chicago,15097,15,2,7
+2004,144050,University of Chicago,15097,15,2,7
+2005,144050,University of Chicago,15097,15,2,7
+2006,144050,University of Chicago,15097,15,2,7
+2007,144050,University of Chicago,15097,15,2,7
+2008,144050,University of Chicago,15097,15,2,7
+2009,144050,University of Chicago,15097,15,2,7
+2010,144050,University of Chicago,15097,15,2,7
+2011,144050,University of Chicago,15097,15,2,7
+2012,144050,University of Chicago,15097,15,2,7
+2013,144050,University of Chicago,15097,15,2,7
 2014,144050,University of Chicago,15097,15,2,7
+2001,144740,DePaul University,23799,8,6,4
+2002,144740,DePaul University,23799,8,6,4
+2003,144740,DePaul University,23799,8,6,4
+2004,144740,DePaul University,23799,8,6,4
+2005,144740,DePaul University,23799,8,6,4
+2006,144740,DePaul University,23799,8,6,4
+2007,144740,DePaul University,23799,8,6,4
+2008,144740,DePaul University,23799,8,6,4
+2009,144740,DePaul University,23799,8,6,4
+2010,144740,DePaul University,23799,8,6,4
+2011,144740,DePaul University,23799,8,6,4
+2012,144740,DePaul University,23799,8,6,4
+2013,144740,DePaul University,23799,8,6,4
 2014,144740,DePaul University,23799,8,6,4
+2001,145600,University of Illinois at Chicago,27969,17,2,9
+2002,145600,University of Illinois at Chicago,27969,17,2,9
+2003,145600,University of Illinois at Chicago,27969,17,2,9
+2004,145600,University of Illinois at Chicago,27969,17,2,9
+2005,145600,University of Illinois at Chicago,27969,17,2,9
+2006,145600,University of Illinois at Chicago,27969,17,2,9
+2007,145600,University of Illinois at Chicago,27969,17,2,9
+2008,145600,University of Illinois at Chicago,27969,17,2,9
+2009,145600,University of Illinois at Chicago,27969,17,2,9
+2010,145600,University of Illinois at Chicago,27969,17,2,9
+2011,145600,University of Illinois at Chicago,27969,17,2,9
+2012,145600,University of Illinois at Chicago,27969,17,2,9
+2013,145600,University of Illinois at Chicago,27969,17,2,9
 2014,145600,University of Illinois at Chicago,27969,17,2,9
+2001,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2002,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2003,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2004,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2005,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2006,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2007,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2008,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2009,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2010,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2011,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2012,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2013,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
 2014,145637,University of Illinois at Urbana-Champaign,45140,14,0,3
+2001,145813,Illinois State University,20615,2,15,2
+2002,145813,Illinois State University,20615,2,15,2
+2003,145813,Illinois State University,20615,2,15,2
+2004,145813,Illinois State University,20615,2,15,2
+2005,145813,Illinois State University,20615,2,15,2
+2006,145813,Illinois State University,20615,2,15,2
+2007,145813,Illinois State University,20615,2,15,2
+2008,145813,Illinois State University,20615,2,15,2
+2009,145813,Illinois State University,20615,2,15,2
+2010,145813,Illinois State University,20615,2,15,2
+2011,145813,Illinois State University,20615,2,15,2
+2012,145813,Illinois State University,20615,2,15,2
+2013,145813,Illinois State University,20615,2,15,2
 2014,145813,Illinois State University,20615,2,15,2
+2001,146719,Loyola University Chicago,15902,0,1,9
+2002,146719,Loyola University Chicago,15902,0,1,9
+2003,146719,Loyola University Chicago,15902,0,1,9
+2004,146719,Loyola University Chicago,15902,0,1,9
+2005,146719,Loyola University Chicago,15902,0,1,9
+2006,146719,Loyola University Chicago,15902,0,1,9
+2007,146719,Loyola University Chicago,15902,0,1,9
+2008,146719,Loyola University Chicago,15902,0,1,9
+2009,146719,Loyola University Chicago,15902,0,1,9
+2010,146719,Loyola University Chicago,15902,0,1,9
+2011,146719,Loyola University Chicago,15902,0,1,9
+2012,146719,Loyola University Chicago,15902,0,1,9
+2013,146719,Loyola University Chicago,15902,0,1,9
 2014,146719,Loyola University Chicago,15902,0,1,9
+2001,147703,Northern Illinois University,20611,13,4,5
+2002,147703,Northern Illinois University,20611,13,4,5
+2003,147703,Northern Illinois University,20611,13,4,5
+2004,147703,Northern Illinois University,20611,13,4,5
+2005,147703,Northern Illinois University,20611,13,4,5
+2006,147703,Northern Illinois University,20611,13,4,5
+2007,147703,Northern Illinois University,20611,13,4,5
+2008,147703,Northern Illinois University,20611,13,4,5
+2009,147703,Northern Illinois University,20611,13,4,5
+2010,147703,Northern Illinois University,20611,13,4,5
+2011,147703,Northern Illinois University,20611,13,4,5
+2012,147703,Northern Illinois University,20611,13,4,5
+2013,147703,Northern Illinois University,20611,13,4,5
 2014,147703,Northern Illinois University,20611,13,4,5
+2001,147767,Northwestern University,21554,2,6,20
+2002,147767,Northwestern University,21554,2,6,20
+2003,147767,Northwestern University,21554,2,6,20
+2004,147767,Northwestern University,21554,2,6,20
+2005,147767,Northwestern University,21554,2,6,20
+2006,147767,Northwestern University,21554,2,6,20
+2007,147767,Northwestern University,21554,2,6,20
+2008,147767,Northwestern University,21554,2,6,20
+2009,147767,Northwestern University,21554,2,6,20
+2010,147767,Northwestern University,21554,2,6,20
+2011,147767,Northwestern University,21554,2,6,20
+2012,147767,Northwestern University,21554,2,6,20
+2013,147767,Northwestern University,21554,2,6,20
 2014,147767,Northwestern University,21554,2,6,20
+2001,147776,Northeastern Illinois University,10275,0,8,0
+2002,147776,Northeastern Illinois University,10275,0,8,0
+2003,147776,Northeastern Illinois University,10275,0,8,0
+2004,147776,Northeastern Illinois University,10275,0,8,0
+2005,147776,Northeastern Illinois University,10275,0,8,0
+2006,147776,Northeastern Illinois University,10275,0,8,0
+2007,147776,Northeastern Illinois University,10275,0,8,0
+2008,147776,Northeastern Illinois University,10275,0,8,0
+2009,147776,Northeastern Illinois University,10275,0,8,0
+2010,147776,Northeastern Illinois University,10275,0,8,0
+2011,147776,Northeastern Illinois University,10275,0,8,0
+2012,147776,Northeastern Illinois University,10275,0,8,0
+2013,147776,Northeastern Illinois University,10275,0,8,0
 2014,147776,Northeastern Illinois University,10275,0,8,0
+2001,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2002,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2003,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2004,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2005,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2006,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2007,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2008,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2009,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2010,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2011,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2012,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2013,149222,Southern Illinois University-Carbondale,17989,7,15,33
 2014,149222,Southern Illinois University-Carbondale,17989,7,15,33
+2001,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2002,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2003,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2004,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2005,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2006,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2007,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2008,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2009,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2010,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2011,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2012,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2013,149231,Southern Illinois University-Edwardsville,13972,4,12,5
 2014,149231,Southern Illinois University-Edwardsville,13972,4,12,5
+2001,149772,Western Illinois University,11458,11,21,4
+2002,149772,Western Illinois University,11458,11,21,4
+2003,149772,Western Illinois University,11458,11,21,4
+2004,149772,Western Illinois University,11458,11,21,4
+2005,149772,Western Illinois University,11458,11,21,4
+2006,149772,Western Illinois University,11458,11,21,4
+2007,149772,Western Illinois University,11458,11,21,4
+2008,149772,Western Illinois University,11458,11,21,4
+2009,149772,Western Illinois University,11458,11,21,4
+2010,149772,Western Illinois University,11458,11,21,4
+2011,149772,Western Illinois University,11458,11,21,4
+2012,149772,Western Illinois University,11458,11,21,4
+2013,149772,Western Illinois University,11458,11,21,4
 2014,149772,Western Illinois University,11458,11,21,4
+2001,177065,Columbia College,16567,0,0,0
+2002,177065,Columbia College,16567,0,0,0
+2003,177065,Columbia College,16567,0,0,0
+2004,177065,Columbia College,16567,0,0,0
+2005,177065,Columbia College,16567,0,0,0
+2006,177065,Columbia College,16567,0,0,0
+2007,177065,Columbia College,16567,0,0,0
+2008,177065,Columbia College,16567,0,0,0
+2009,177065,Columbia College,16567,0,0,0
+2010,177065,Columbia College,16567,0,0,0
+2011,177065,Columbia College,16567,0,0,0
+2012,177065,Columbia College,16567,0,0,0
+2013,177065,Columbia College,16567,0,0,0
 2014,177065,Columbia College,16567,0,0,0
+2001,177968,Lindenwood University,12151,0,0,0
+2002,177968,Lindenwood University,12151,0,0,0
+2003,177968,Lindenwood University,12151,0,0,0
+2004,177968,Lindenwood University,12151,0,0,0
+2005,177968,Lindenwood University,12151,0,0,0
+2006,177968,Lindenwood University,12151,0,0,0
+2007,177968,Lindenwood University,12151,0,0,0
+2008,177968,Lindenwood University,12151,0,0,0
+2009,177968,Lindenwood University,12151,0,0,0
+2010,177968,Lindenwood University,12151,0,0,0
+2011,177968,Lindenwood University,12151,0,0,0
+2012,177968,Lindenwood University,12151,0,0,0
+2013,177968,Lindenwood University,12151,0,0,0
 2014,177968,Lindenwood University,12151,0,0,0
+2001,178721,Park University,10792,0,0,0
+2002,178721,Park University,10792,0,0,0
+2003,178721,Park University,10792,0,0,0
+2004,178721,Park University,10792,0,0,0
+2005,178721,Park University,10792,0,0,0
+2006,178721,Park University,10792,0,0,0
+2007,178721,Park University,10792,0,0,0
+2008,178721,Park University,10792,0,0,0
+2009,178721,Park University,10792,0,0,0
+2010,178721,Park University,10792,0,0,0
+2011,178721,Park University,10792,0,0,0
+2012,178721,Park University,10792,0,0,0
+2013,178721,Park University,10792,0,0,0
 2014,178721,Park University,10792,0,0,0
+2001,179894,Webster University,16769,0,0,0
+2002,179894,Webster University,16769,0,0,0
+2003,179894,Webster University,16769,0,0,0
+2004,179894,Webster University,16769,0,0,0
+2005,179894,Webster University,16769,0,0,0
+2006,179894,Webster University,16769,0,0,0
+2007,179894,Webster University,16769,0,0,0
+2008,179894,Webster University,16769,0,0,0
+2009,179894,Webster University,16769,0,0,0
+2010,179894,Webster University,16769,0,0,0
+2011,179894,Webster University,16769,0,0,0
+2012,179894,Webster University,16769,0,0,0
+2013,179894,Webster University,16769,0,0,0
 2014,179894,Webster University,16769,0,0,0
+2001,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2002,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2003,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2004,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2005,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2006,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2007,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
 2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0
+2001,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2002,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2003,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2004,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2005,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2006,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2007,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2008,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2009,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2010,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2011,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2012,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2013,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
 2014,454227,Chamberlain College of Nursing-Illinois,18665,0,0,0
+2001,482477,DeVry University-Illinois,24220,0,0,0
+2002,482477,DeVry University-Illinois,24220,0,0,0
+2003,482477,DeVry University-Illinois,24220,0,0,0
+2004,482477,DeVry University-Illinois,24220,0,0,0
+2005,482477,DeVry University-Illinois,24220,0,0,0
+2006,482477,DeVry University-Illinois,24220,0,0,0
+2007,482477,DeVry University-Illinois,24220,0,0,0
+2008,482477,DeVry University-Illinois,24220,0,0,0
+2009,482477,DeVry University-Illinois,24220,0,0,0
+2010,482477,DeVry University-Illinois,24220,0,0,0
+2011,482477,DeVry University-Illinois,24220,0,0,0
+2012,482477,DeVry University-Illinois,24220,0,0,0
+2013,482477,DeVry University-Illinois,24220,0,0,0
 2014,482477,DeVry University-Illinois,24220,0,0,0
