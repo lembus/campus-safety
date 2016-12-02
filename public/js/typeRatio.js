@@ -138,6 +138,13 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			return parseFloat(e['Institution Size']);
 		});
 		*/
+		var brush = d3.brush()
+			.extent([[self.margin.left,self.margin.top],[self.svgWidth, self.svgHeight]])
+			.on("end", brushed);
+
+		svg.append("g")
+			.attr("class", "brush")
+			.call(brush);
 		
 		var ratioChart = svg.selectAll('circle')
 			.data(combinedYears)
@@ -175,13 +182,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 		
 		//brush is defined here
 		
-		var brush = d3.brush()
-					.extent([[self.margin.left,self.margin.top],[self.svgWidth, self.svgHeight]])
-					.on("end", brushed);
-		
-		svg.append("g")
-				.attr("class", "brush")
-				.call(brush);
+
 		
 		function brushed(){
 			var interval = d3.event.selection;
