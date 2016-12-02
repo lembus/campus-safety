@@ -32,10 +32,15 @@ TypeChart.prototype.init = function(){
         .attr("height",self.svgHeight)
 		.attr('style',"border: 3px solid black; display: block; margin: auto;")
 		.attr('id','uni-svg')
+	self.selectedUni = '';
 };
 
 TypeChart.prototype.update = function(state,year,colorScale){
     var self = this;
+
+	console.log(self.selectedUni);
+	self.catSunburst.update(state,year,self.selectedUni)
+
 	var svg = d3.select("#rect-chart").select('svg');
 	
 	var ratioChartScale = d3.scaleLinear()
@@ -146,6 +151,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			})
 			.attr('onmouseout','nunitip()')
 			.on('click', function(d) {
+				self.selectedUni = d['Institution name'];
 				self.catSunburst.update(state,year,d['Institution name'])
 			});
 	});
