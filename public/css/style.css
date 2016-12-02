@@ -133,8 +133,8 @@ thead, td {
     padding: 8px;
 }
 
-tbody tr:nth-child(even){background-color:  #d0d3d4}
-tbody tr:nth-child(odd){background-color:   #b3b6b7}
+#compare-chart tbody tr:nth-child(even){background-color:  #d0d3d4}
+#compare-chart tbody tr:nth-child(odd){background-color:   #b3b6b7}
  
 thead {
     background-color: #3e2622;
