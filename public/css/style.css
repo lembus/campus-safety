@@ -108,3 +108,7 @@ h2{
     width: 50%;
     float:right;
 }
+
+.brush {
+    fill-opacity: .5;
+}

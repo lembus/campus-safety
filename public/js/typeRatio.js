@@ -9,7 +9,7 @@ function TypeChart() {
  */
 TypeChart.prototype.init = function(){
     var self = this;
-    self.margin = {top: 200, right: 20, bottom: 20, left: 200};
+    self.margin = {top: 20, right: 20, bottom: 20, left: 20};
     var ratioChart = d3.select("#rect-chart");
 	$("#uni-svg").remove();
 
@@ -56,8 +56,8 @@ TypeChart.prototype.update = function(state,year,colorScale){
         .attr('x', function (d) {return ratioChartScale(d.x)})
         .attr('y', function (d) {return ratioChartScale(d.y)})
         .attr('class', 'typetext');
-		
-		
+	
+	
 	d3.csv("data/" + state + "/crime_types.csv", function (error, crimes) {
 		
 		var ratioChartScale = d3.scaleLinear()
@@ -120,7 +120,6 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			
 		ratioChart.exit().remove();
 		
-		//console.log(combinedYears)
 		
 		ratioChart.enter()
 			.append('circle')
@@ -145,7 +144,31 @@ TypeChart.prototype.update = function(state,year,colorScale){
 				return 'unitip(event,"' + d['Institution name'] + '")';
 			})
 			.attr('onmouseout','nunitip()');
+		
+		//brush is defined here
+		var brush = d3.brush()
+					.extent([[self.margin.left,self.margin.top],[self.svgWidth, self.svgHeight]])
+					.on("end", brushed);
+		
+		svg.append("g")
+				.attr("class", "brush")
+				.call(brush);
+		
+		function brushed(){
+			var interval = d3.event.selection;
+			var x1 = interval[0]
+			var x2 = interval[1]
+			
+			selected = combinedYears.filter(function(d){
+				dx = ratioChartScale((parseFloat(d['DA']) + parseFloat(d['HC']))/(parseFloat(d['CO'])+parseFloat(d['VW'])+parseFloat(d['HC'])+parseFloat(d['DA'])))
+				dy = ratioChartScale((parseFloat(d['DA']) + parseFloat(d['VW']))/(parseFloat(d['CO'])+parseFloat(d['VW'])+parseFloat(d['HC'])+parseFloat(d['DA'])))
+				return ((x1[0] <= dx && dx <= x2[0])&&(x1[1] <= dy && dy <= x2[1]))
+			});
+			var compareChart = new CompareChart();
+            compareChart.update(selected);
+		}
 	});
+	
 
 };
 

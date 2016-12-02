@@ -240,8 +240,8 @@ MapChart.prototype.update = function(year) {
                 d3.select(this)
                     .classed("selected",false);
                 self.state = '';
-                new TypeChart();
-                self.typeChart.update(self.state,self.year,self.colorScale);
+                var typeChart = new TypeChart();
+                typeChart.update(self.state,self.year,self.colorScale);
 
                 //updateCharts();
                 //clearRectChart();
@@ -252,8 +252,8 @@ MapChart.prototype.update = function(year) {
                 //updateCharts(d.id);
                 //rectChart(d.id);
                 self.state = d.id;
-				new TypeChart();
-				self.typeChart.update(self.state,self.year,self.colorScale);
+				var typeChart = new TypeChart();
+				typeChart.update(self.state,self.year,self.colorScale);
 
                 var crimeChart = new CrimeChart();
                 crimeChart.update(d.id);
