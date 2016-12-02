@@ -1,10 +1,12 @@
 var cellWidth = 80,
     cellHeight = 20,
     cellBuffer = 15,
-    barHeight = 18;
+    barHeight = 20;
 
-var aggregateColorScale = d3.scaleLinear()
+var sizeColorScale = d3.scaleLinear()
     .range(['#ece2f0', '#016450']);
+var crimeColorScale = d3.scaleLinear()
+    .range(['#ece2f0', '#8B0000']);
 
 var gTableElements;
 function CompareChart() {
@@ -22,16 +24,18 @@ CompareChart.prototype.init = function(){
     self.margin = {top: 20, right: 20, bottom: 20, left: 20};
 	$("#uni-table").remove();
 
-	var width = 0.70 * window.innerWidth;
-    var height = 0.70 * window.innerWidth;
+	var width = 0.80 * window.innerWidth;
+    var height = 0.80 * window.innerWidth;
 
     var compareChart = d3.select("#compare-chart")
-        .style('width', width + 'px')
-        .style('height',height +'px');
+        .classed("wholeChart",true);
 
 	
 	var table = document.createElement('table');
 	var header = table.createTHead();
+	
+	header.setAttribute("class", "tableHeader");
+	
     var row1 = header.insertRow(0);
     var row1col0 = row1.insertCell(0);
     row1col0.innerHTML = 'Institution Name';
@@ -59,20 +63,25 @@ CompareChart.prototype.init = function(){
 
 
 CompareChart.prototype.update = function(tableElements){
+	var maxSize = d3.max(tableElements, function(d){return d["Institution Size"];})
 	var sizeScale = d3.scaleLinear()
-		.domain([0, d3.max(tableElements, function(d){return d["Institution Size"];})])
+		.domain([0, maxSize])
 		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+	var maxCO = d3.max(tableElements, function(d){return d.CO;});
 	var coScale = d3.scaleLinear()
-		.domain([0, d3.max(tableElements, function(d){return d.CO;})])
+		.domain([0, maxCO])
 		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+	var maxDA = d3.max(tableElements, function(d){return d.DA;});
 	var daScale = d3.scaleLinear()
-		.domain([0, d3.max(tableElements, function(d){return d.DA;})])
+		.domain([0, maxDA])
 		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+	var maxHC = d3.max(tableElements, function(d){return d.HC;});
 	var hcScale = d3.scaleLinear()
-		.domain([0, d3.max(tableElements, function(d){return d.HC;})])
+		.domain([0, maxHC])
 		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
+	var maxVW = d3.max(tableElements, function(d){return d.VW;});
 	var vwScale = d3.scaleLinear()
-		.domain([0, d3.max(tableElements, function(d){return d.VW;})])
+		.domain([0, maxVW])
 		.range([cellBuffer, 2 * cellWidth - cellBuffer]);
 
     tr = d3.select("#uni-table").select("tbody").selectAll("tr")
@@ -96,11 +105,12 @@ CompareChart.prototype.update = function(tableElements){
 	td.filter(function (d) {
 		return d.vis == 'names'
 	})
-	.attr("width", 4 * cellWidth)
+	.attr("width", 5 * cellWidth)
 	.attr("class", function (d) {"UniName"})
 	.text(function (d) {
 		return d.value;
-	});
+	})
+	.classed('uniName', true)
 		
 	
 	
@@ -108,7 +118,7 @@ CompareChart.prototype.update = function(tableElements){
             return d.vis == 'barsIS'
         })
         .append("svg")
-            .attr("width", 2 * cellWidth)
+            .attr("width", 3 * cellWidth)
             .attr("height", cellHeight)
             .append("g")
 			
@@ -117,6 +127,12 @@ CompareChart.prototype.update = function(tableElements){
             return sizeScale(d.value)
         })
         .attr("height", barHeight)
+		.attr('fill', function (d) {
+            return 'green';
+        })
+		.style('opacity',function(d){
+			return d.value/maxSize;
+		})
 		
 	bars.append("text")
         .attr("width", function (d) {
@@ -145,6 +161,12 @@ CompareChart.prototype.update = function(tableElements){
             return coScale(d.value)
         })
         .attr("height", barHeight)
+		.attr('fill', function (d) {
+            return 'darkred';
+        })
+		.style('opacity',function(d){
+			return 2 * d.value/maxCO;
+		})
 		
 	bars.append("text")
         .attr("width", function (d) {
@@ -172,6 +194,12 @@ CompareChart.prototype.update = function(tableElements){
             return daScale(d.value)
         })
         .attr("height", barHeight)
+		.attr('fill', function (d) {
+            return 'darkred';
+        })
+		.style('opacity',function(d){
+			return 2 * d.value/maxDA;
+		})
 		
 	bars.append("text")
         .attr("width", function (d) {
@@ -199,6 +227,13 @@ CompareChart.prototype.update = function(tableElements){
         .attr("width", function (d) {
             return hcScale(d.value)
         })
+		.attr('fill', function (d) {
+            return 'darkred';
+        })
+		.style('opacity',function(d){
+			return 2 * d.value/maxHC;
+		})
+		
         .attr("height", barHeight)
 	bars.append("text")
         .attr("width", function (d) {
@@ -226,6 +261,13 @@ CompareChart.prototype.update = function(tableElements){
             return vwScale(d.value)
         })
         .attr("height", barHeight)
+		.attr('fill', function (d) {
+            return 'darkred';
+        })
+		.style('opacity',function(d){
+			return 2 * d.value/maxVW;
+		})
+		
 	bars.append("text")
         .attr("width", function (d) {
             return vwScale(d.value)/2
@@ -256,14 +298,7 @@ function sort() {
 			else 
 				tableElements = tableElements.sort(function (a,b) {return d3.ascending(a['Institution name'], b['Institution name'])})
 			break;
-		case 'Institution Size':
-			if (ascInd == true){
-				tableElements = tableElements.sort(function (a,b) {return d3.descending(a['Institution Size'], b['Institution Size'])})
-				}
-			else{
-				tableElements = tableElements.sort(function (a,b) {return d3.ascending(a['Institution Size'], b['Institution Size'])})
-				}
-			break;
+
 		case 'Criminal Offenses':
 			if (ascInd == true)   
 				gTableElements = gTableElements.sort(function (a,b) {return d3.descending(a['CO'], b['CO'])})

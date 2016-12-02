@@ -14,7 +14,7 @@ TypeChart.prototype.init = function(){
     var ratioChart = d3.select("#rect-chart");
 	$("#uni-svg").remove();
 
-    var height = 0.50 * window.outerWidth;
+    var height = 0.55 * window.outerWidth;
 
     var ratioChart = d3.select("#rect-chart")
         .classed("leftChart",true)
@@ -153,6 +153,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			});
 		
 		//brush is defined here
+		
 		var brush = d3.brush()
 					.extent([[self.margin.left,self.margin.top],[self.svgWidth, self.svgHeight]])
 					.on("end", brushed);
@@ -174,6 +175,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			var compareChart = new CompareChart();
             compareChart.update(selected);
 		}
+		
 	});
 	
 
