@@ -22,9 +22,9 @@ function MapChart(typeChart,catSunburst) {
 MapChart.prototype.init = function(){
 
     var self = this;
-    self.margin = {top: 0, right: 0, bottom: 0, left: 0};
+    self.margin = {top: 10, right: 0, bottom: 10, left: 0};
 
-    var height = 0.4 * window.outerHeight;
+    var height = 0.45 * window.outerHeight;
 
     var divmapChart = d3.select("#mapArea").classed("leftChart",true)
         .style('height',height +'px');
@@ -39,8 +39,17 @@ MapChart.prototype.init = function(){
         .attr("width",self.svgWidth*0.79)
         .attr("height",self.svgHeight);
 
+    self.svg.append("text")
+        .attr("x", (self.svgWidth / 2))
+        .attr("y", 2*self.margin.top)
+        .attr("text-anchor", "middle")
+        .style("font-size", "16px")
+        .attr("font-weight",'bold')
+        .text("Crime/Students Ratio in US States Over 2001-2014");
+
     self.svg.append('g')
-        .attr("id",'map');
+        .attr("id",'map')
+        .attr("transform", "translate(0,"+ 2*self.margin.top + ")");
 
     divmapChart.append('svg')
         .attr('id','colormap')

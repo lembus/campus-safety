@@ -9,7 +9,7 @@ function CrimeChart() {
 
 CrimeChart.prototype.init = function(){
     var self = this;
-    var height = 0.4 * window.outerHeight;
+    var height = 0.45 * window.outerHeight;
     self.divCrimeChart = d3.select("#lineCharts").classed("rightChart", true)
         .style('height',height +'px');
 }

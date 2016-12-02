@@ -17,7 +17,7 @@ function CatSunburst() {
  */
 CatSunburst.prototype.init = function(){
     var self = this;
-    self.margin = {top: 10, right: 10, bottom: 10, left: 10};
+    self.margin = {top: 150, right: 10, bottom: 20, left: 10};
 
     var height = 0.5 * window.outerWidth;
 
@@ -44,9 +44,21 @@ CatSunburst.prototype.update = function(state,year,university) {
     var self = this;
 
     if (state=='' || university=='') {
-        var chartGroup = self.svg.select("g").remove();
+        self.svg.select("g").remove();
+        self.svg.select('text').remove();
         return;
     }
+    if (self.svg.select('text').empty()) {
+        self.svg.append('text')
+    }
+    self.svg.select("text")
+        .attr("x", (self.svgWidth / 2))
+        .attr("y", self.margin.bottom)
+        .attr("text-anchor", "middle")
+        .style("font-size", "16px")
+        .attr("font-weight",'bold')
+        .text(university+" Crime Records");
+
     d3.csv("data/" + state + "/Criminal_Offenses_On_campus_combined.csv", function (error, CO) {
         d3.csv("data/" + state + "/Disciplinary_Actions_On_campus_combined.csv", function (error, DA) {
             d3.csv("data/" + state + "/Hate_Crimes_On_campus_combined.csv", function (error, HC) {
@@ -146,7 +158,7 @@ CatSunburst.prototype.update = function(state,year,university) {
                         }
                         uniCrimeData.children = uniChildren;
 
-                        var radius = (Math.min(self.svgWidth, self.svgHeight) / 2) - 10;
+                        var radius = (Math.min(self.svgWidth, self.svgHeight) / 2) - self.margin.bottom;
                         var formatNumber = d3.format(",d");
 
                         var x = d3.scaleLinear()
@@ -181,7 +193,7 @@ CatSunburst.prototype.update = function(state,year,university) {
 
                         var chartGroup = self.svg.select("g").remove();
                             chartGroup = self.svg.append("g")
-                                .attr("transform", "translate(" + self.svgWidth / 2 + "," + (self.svgHeight / 2) + ")");
+                                .attr("transform", "translate(" + self.svgWidth / 2 + "," + ((self.svgHeight / 2)+self.margin.bottom) + ")");
 
                         var node = root;
                         chartGroup.selectAll("path")

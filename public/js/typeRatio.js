@@ -26,12 +26,18 @@ TypeChart.prototype.init = function(){
     self.svgHeight = self.svgBounds.height - self.margin.top - self.margin.bottom;
 
 
+	if (ratioChart.select('#title').empty()) {
+		ratioChart.append('svg')
+			.attr('width', self.svgBounds.width)
+			.attr('height', 30)
+			.attr('id', 'title');
+	}
     //creates svg element within the div
     self.svg = ratioChart.append("svg")
         .attr("width",self.svgWidth)
         .attr("height",self.svgHeight)
 		.attr('style',"border: 3px solid black; display: block; margin: auto;")
-		.attr('id','uni-svg')
+		.attr('id','uni-svg');
 	self.selectedUni = '';
 };
 
@@ -41,7 +47,22 @@ TypeChart.prototype.update = function(state,year,colorScale){
 	console.log(self.selectedUni);
 	self.catSunburst.update(state,year,self.selectedUni)
 
-	var svg = d3.select("#rect-chart").select('svg');
+	if(state=='') {
+		d3.select("#title").select('text').remove();
+		return;
+	}
+	if (d3.select('#title').select('text').empty()) {
+		d3.select('#title').append('text')
+	}
+	d3.select("#title").select('text')
+		.attr("x", (self.svgBounds.width / 2))
+		.attr("y", self.margin.bottom)
+		.attr("text-anchor", "middle")
+		.style("font-size", "16px")
+		.attr("font-weight",'bold')
+		.text(state + " Universities Crime Records");
+
+	var svg = d3.select("#rect-chart").select('#uni-svg');
 	
 	var ratioChartScale = d3.scaleLinear()
 		.domain([0, 1])
