@@ -1,10 +1,9 @@
 /**
  * Constructor for the Year Chart
  *
- * @param lineChart instance of LineChart
- * @param rectChart instance of RectChart
+ * @param typeChart instance of TypeChart
+ * @param catSunburst instance of CatSunburst
  */
-//function YearChart(lineChart, rectChart) {
 function MapChart(typeChart,catSunburst) {
     var self = this;
 

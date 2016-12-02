@@ -12,7 +12,7 @@ var gTableElements;
 function CompareChart() {
     var self = this;
     self.init();
-};
+}
 
 var doSort = false;
 
