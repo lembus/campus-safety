@@ -108,3 +108,36 @@ h2{
     width: 50%;
     float:right;
 }
+
+.wholeChart {
+    display: inline-block;
+    width: 90%;
+}
+
+.brush {
+    fill-opacity: .5;
+}
+
+.uniName {
+    text-align: left;
+    border-left: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead, td {
+    text-align: left;
+    padding: 8px;
+}
+
+thead {
+    background-color: #3e2622;
+    color: white;
+	font-weight: bold;
+}
+
+tr:nth-child(even){background-color: #c7c2c1}
+
+

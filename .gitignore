@@ -21,3 +21,5 @@ Tex/proposal.blg
 Tex/proposal.log
 Tex/proposal.synctex.gz
 .gitignore
+public/js/compare.js.bak
+

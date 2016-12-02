@@ -250,6 +250,7 @@ MapChart.prototype.update = function(year) {
                 d3.select(this)
                     .classed("selected",false);
                 self.state = '';
+                var typeChart = new TypeChart();
                 var typeChart = new TypeChart(self.catSunburst);
                 typeChart.update(self.state,self.year,self.colorScale);
 
@@ -262,6 +263,8 @@ MapChart.prototype.update = function(year) {
                 //updateCharts(d.id);
                 //rectChart(d.id);
                 self.state = d.id;
+
+				var typeChart = new TypeChart();
 				var typeChart = new TypeChart(self.catSunburst);
 				typeChart.update(self.state,self.year,self.colorScale);
 
