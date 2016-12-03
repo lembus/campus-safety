@@ -24,11 +24,14 @@ CompareChart.prototype.init = function(){
     self.margin = {top: 20, right: 20, bottom: 20, left: 20};
 	$("#uni-table").remove();
 
-	var width = 0.80 * window.innerWidth;
+	var width = 0.90 * window.outerWidth;
     var height = 0.80 * window.innerWidth;
 
     var compareChart = d3.select("#compare-chart")
-        .classed("wholeChart",true);
+		.attr('width',width)
+		.style('padding-left',0.05 * window.outerWidth)
+		.style('padding-left',20)
+        //.classed("wholeChart",true);
 
 	
 	var table = document.createElement('table');
