@@ -5,7 +5,7 @@ var height;
 var width;
 var svgh;
 var svgw;
-var margint = 20, marginb = 150, marginl = 60, marginr = 20;
+var margint = 100, marginb = 50, marginl = 60, marginr = 20;
 var datah;
 var dataw;
 
@@ -104,8 +104,20 @@ function createLineChart(state) {
 
     d3.select("#lineChart").select("#line").selectAll("*").remove();
 
-    var legend = d3.select("#legend")
-        .append();
+
+    d3.select("#lineChart").select("#linecharttitle").remove();
+
+    d3.select("#lineChart").append("svg")
+        .attr('width', svgw)
+        .attr('height', margint)
+        .attr('id', 'linecharttitle')
+        .append('text')
+        .attr("x", (svgw / 2))
+        .attr("y", margint/2)
+        .attr("text-anchor", "middle")
+        .style("font-size", "16px")
+        .attr("font-weight",'bold')
+        .text(state + " Universities Number of Crime over 2001-2014");
 
 
     var xScale = d3.scaleLinear()
@@ -327,6 +339,23 @@ function createBarChart() {
 
 
     d3.select("#barChart").select("#bar").selectAll("*").remove();
+
+
+    d3.select("#barChart").select("#barcharttitle").remove();
+
+    d3.select("#barChart").append("svg")
+        .attr('width', svgw)
+        .attr('height', margint)
+        .attr('id', 'barcharttitle')
+        .append('text')
+        .attr("x", (svgw / 2))
+        .attr("y", margint/2)
+        .attr("text-anchor", "middle")
+        .style("font-size", "16px")
+        .attr("font-weight",'bold')
+        .text("Type of Crime in Total");
+
+
     var xScale = d3.scaleOrdinal();
     /*
     if (catName.length < 50) {
@@ -373,7 +402,7 @@ function createBarChart() {
             .offset(function() {
                 return [0,0];
             })
-            .html(catName[i]);
+            .html("Type of crime: "+catName[i]+"<br>"+"Number: "+nCat[i]);
         tiparray.push(tipt);
     }
 
