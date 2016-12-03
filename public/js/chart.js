@@ -1,6 +1,16 @@
 var crime_type;
 var crime_cat;
 
+var height = 800;
+var width = 400;
+var svgh = height/2;
+var svgw = width;
+var axismargin = 50;
+var datah = svgh-2*axismargin;
+var dataw = svgw-2*axismargin;
+
+var curstate = "none";
+
 
 function CrimeChart() {
     var self = this;
@@ -9,9 +19,16 @@ function CrimeChart() {
 
 CrimeChart.prototype.init = function(){
     var self = this;
-    var height = 0.45 * window.outerHeight;
     self.divCrimeChart = d3.select("#lineCharts").classed("rightChart", true)
-        .style('height',height +'px');
+        .style('height',height +'px')
+        .style('width', width+'px');
+    d3.select("#lineChart")
+        .attr("width", svgw)
+        .attr("height", svgh);
+    d3.select("#barChart")
+        .attr("width", svgw)
+        .attr("height", svgh);
+
 }
 
 CrimeChart.prototype.update = function(state){
@@ -22,7 +39,21 @@ CrimeChart.prototype.update = function(state){
 
         crime_type = csv;
 
-        createLineChart(state);
+        d3.select("#barChart").select("#xAxis1").selectAll("*").remove();
+        d3.select("#barChart").select("#yAxis1").selectAll("*").remove();
+        d3.select("#barChart").select("#bar").selectAll("*").remove();
+
+        if (curstate == state) {
+            curstate = "none";
+            d3.select("#lineChart").select("#xAxis").selectAll("*").remove();
+            d3.select("#lineChart").select("#yAxis").selectAll("*").remove();
+            d3.select("#lineChart").select("#line").selectAll("*").remove();
+
+        } else {
+            curstate = state;
+            createLineChart(state);
+        }
+
 
     });
 
@@ -61,133 +92,96 @@ function createLineChart(state) {
     }
 
 
+    d3.select("#lineChart").select("#line").selectAll("*").remove();
+
     var xScale = d3.scaleLinear()
         .domain([2001, 2014])
-        .range([0,500]);
+        .range([0,dataw]);
     var xAxis = d3.axisBottom().scale(xScale);
     var yScale = d3.scaleLinear()
         .domain([max, 0])
-        .range([0,500]);
+        .range([0,datah]);
     var yAxis = d3.axisLeft().scale(yScale);
 
 
     d3.selectAll("#yAxis").call(yAxis)
-        .attr("transform", "translate(60,50)");
+        .attr("transform", "translate("+axismargin+","+axismargin+")");
 
     d3.selectAll("#xAxis").call(xAxis)
-        .attr("transform", "translate(60,550)");
+        .attr("transform", "translate("+axismargin+","+(svgh-axismargin)+")")
+        .selectAll("text")
+        .attr("dx", "-2em")
+        .attr("dy", "-.5em")
+        .attr("transform", "rotate(270)");
 
 
 
 
     var svg = d3.select("#line")
         .append("svg")
-        .attr("x", 60)
-        .attr("y", 0)
-        .attr("width", 900)
-        .attr("height", 900);
+        .attr("x", axismargin)
+        .attr("y", axismargin)
+        .attr("width", dataw)
+        .attr("height", datah);
 
-    svg.append("path")
-        .attr("fill", "none")
-        .attr("stroke", "black")
-        .attr("stroke-width", 3)
-        .attr("d", function() {
-            var str = "M ";
-            for (var i = 0; i < 14; i++) {
-                str += 500*i/13;
-                str += " ";
-                str += (550-total[i]*500/max);
-                str += " ";
-                if (i != 13) str += "L ";
-            }
-            return str;
-        });
-    svg.append("path")
-        .attr("fill", "none")
-        .attr("stroke", "orange")
-        .attr("stroke-width", 3)
-        .attr("d", function() {
-            var str = "M ";
-            for (var i = 0; i < 14; i++) {
-                str += 500*i/13;
-                str += " ";
-                str += (550-co[i]*500/max);
-                str += " ";
-                if (i != 13) str += "L ";
-            }
-            return str;
-        })
-        .on("click", function() {
-            d3.csv("data/"+state+"/Criminal_Offenses_On_campus_combined.csv", function(error, csv) {
-                crime_cat = csv;
-                createBarChart();
-            })
-        });
-    svg.append("path")
-        .attr("fill", "none")
-        .attr("stroke", "green")
-        .attr("stroke-width", 3)
-        .attr("d", function() {
-            var str = "M ";
-            for (var i = 0; i < 14; i++) {
-                str += 500*i/13;
-                str += " ";
-                str += (550-da[i]*500/max);
-                str += " ";
-                if (i != 13) str += "L ";
-            }
-            return str;
-        })
-        .on("click", function() {
-            d3.csv("data/"+state+"/Disciplinary_Actions_On_campus_combined.csv", function(error, csv) {
-                crime_cat = csv;
-                createBarChart();
-            })
-        });
-    svg.append("path")
-        .attr("fill", "none")
-        .attr("stroke", "blue")
-        .attr("stroke-width", 3)
-        .attr("d", function() {
-            var str = "M ";
-            for (var i = 0; i < 14; i++) {
-                str += 500*i/13;
-                str += " ";
-                str += (550-hc[i]*500/max);
-                str += " ";
-                if (i != 13) str += "L ";
-            }
-            return str;
-        })
-        .on("click", function() {
-            d3.csv("data/"+state+"/Hate_Crimes_On_campus_combined.csv", function(error, csv) {
-                crime_cat = csv;
-                createBarChart();
-            })
-        });
-    svg.append("path")
-        .attr("fill", "none")
-        .attr("stroke", "red")
-        .attr("stroke-width", 3)
-        .attr("d", function() {
-            var str = "M ";
-            for (var i = 0; i < 14; i++) {
-                str += 500*i/13;
-                str += " ";
-                str += (550-vw[i]*500/max);
-                str += " ";
-                if (i != 13) str += "L ";
-            }
-            return str;
-        })
-        .on("click", function() {
-            d3.csv("data/"+state+"/VAWA_Offenses_On_campus_combined.csv", function(error, csv) {
-                crime_cat = csv;
-                createBarChart();
-            })
-        });
+    for (var j = 0; j < 5; j++) {
 
+        svg.append("path")
+            .attr("fill", "none")
+            .attr("stroke", function () {
+                if (j == 0) return "black";
+                else if (j == 1) return "orange";
+                else if (j == 2) return "green";
+                else if (j == 3) return "blue";
+                else return "red";
+            })
+            .attr("stroke-width", 3)
+            .attr("d", function () {
+                var str = "M ";
+                for (var i = 0; i < 14; i++) {
+                    str += dataw * i / 13;
+                    str += " ";
+                    if (j == 0) str += (datah - total[i] * datah / max);
+                    else if (j == 1) str += (datah - co[i] * datah / max);
+                    else if (j == 2) str += (datah - da[i] * datah / max);
+                    else if (j == 3) str += (datah - hc[i] * datah / max);
+                    else return str += (datah - vw[i] * datah / max);
+                    str += " ";
+                    if (i != 13) str += "L ";
+                }
+                return str;
+            })
+            .attr("id", "line" + j);
+    }
 
+    d3.select("#line1")
+        .on("click", function () {
+            d3.csv("data/" + state + "/Criminal_Offenses_On_campus_combined.csv", function (error, csv) {
+                crime_cat = csv;
+                createBarChart();
+            })
+        });
+    d3.select("#line2")
+        .on("click", function () {
+            d3.csv("data/" + state + "/Disciplinary_Actions_On_campus_combined.csv", function (error, csv) {
+                crime_cat = csv;
+                createBarChart();
+            })
+        });
+    d3.select("#line3")
+        .on("click", function () {
+            d3.csv("data/" + state + "/Hate_Crimes_On_campus_combined.csv", function (error, csv) {
+                crime_cat = csv;
+                createBarChart();
+            })
+        });
+    d3.select("#line4")
+        .on("click", function () {
+            d3.csv("data/" + state + "/VAWA_Offenses_On_campus_combined.csv", function (error, csv) {
+                crime_cat = csv;
+                createBarChart();
+            })
+        });
 
 }
 
@@ -223,38 +217,48 @@ function createBarChart() {
         if (max < nCat[i]) max = nCat[i];
     }
 
+    var spacing = [0];
+
+    for (var i = 0; i < catName.length; i++) {
+        spacing.push(dataw*(i+1)/catName.length);
+    }
+
 
     d3.select("#barChart").select("#bar").selectAll("*").remove();
-    var xScale = d3.scaleLinear()
-        .domain([0, catName.length])
-        .range([0,500]);
+    var xScale = d3.scaleOrdinal()
+        .domain(catName)
+        .range(spacing);
     var xAxis = d3.axisBottom().scale(xScale);
     var yScale = d3.scaleLinear()
         .domain([max, 0])
-        .range([0,500]);
+        .range([0,datah]);
     var yAxis = d3.axisLeft().scale(yScale);
 
 
     d3.selectAll("#yAxis1").call(yAxis)
-        .attr("transform", "translate(60,50)");
+        .attr("transform", "translate("+axismargin+","+axismargin+")");
 
     d3.selectAll("#xAxis1").call(xAxis)
-        .attr("transform", "translate(60,550)");
+        .attr("transform", "translate("+axismargin+","+(svgw-axismargin)+")")
+        .selectAll("text")
+        .attr("dx", "-2em")
+        .attr("dy", "0.5em")
+        .attr("transform", "rotate(270)");
 
     var svg = d3.select("#bar")
         .append("svg")
-        .attr("x", 60)
-        .attr("y", 0)
-        .attr("width", 900)
-        .attr("height", 900);
+        .attr("x", axismargin)
+        .attr("y", axismargin)
+        .attr("width", dataw)
+        .attr("height", datah);
 
     for (var i = 0; i < nCat.length; i++) {
         svg.append("rect")
             .attr("fill", "blue")
-            .attr("x", 500*i/nCat.length)
-            .attr("y", 550-500*nCat[i]/max)
-            .attr("width", 500/nCat.length)
-            .attr("height", 500*nCat[i]/max);
+            .attr("x", dataw*i/nCat.length)
+            .attr("y", datah-datah*nCat[i]/max)
+            .attr("width", dataw/nCat.length)
+            .attr("height", datah*nCat[i]/max);
     }
 
 

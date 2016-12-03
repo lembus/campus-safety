@@ -266,9 +266,11 @@ MapChart.prototype.update = function(year) {
                 //var typeChart = new TypeChart(self.catSunburst);
                 self.typeChart.update(self.state,self.year,self.colorScale);
 
-                var crimeChart = new CrimeChart();
-                crimeChart.update(d.id);
+
             }
+            var crimeChart = new CrimeChart();
+            crimeChart.update(d.id);
+
         });
 
 
