@@ -185,7 +185,8 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			.attr('onmouseover',function(d){
 				return 'unitip(event,"' + d['Institution name'] + '")';
 			})
-			.attr('onmouseout','nunitip()');
+			.attr('onmouseout','nunitip()')
+			.style('cursor','pointer');
 
 		circles = newCircles.merge(circles);
 		circles.transition()
