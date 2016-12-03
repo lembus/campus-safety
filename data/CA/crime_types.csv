@@ -1,0 +1,500 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,108232,Academy of Art University,6282,32,64,1,11,108
+2002,108232,Academy of Art University,6650,9,46,0,11,66
+2003,108232,Academy of Art University,6761,23,103,0,11,137
+2004,108232,Academy of Art University,7453,16,32,0,11,59
+2005,108232,Academy of Art University,8522,28,55,0,11,94
+2006,108232,Academy of Art University,9483,15,88,0,11,114
+2007,108232,Academy of Art University,11334,31,79,0,11,121
+2008,108232,Academy of Art University,13181,27,92,0,11,130
+2009,108232,Academy of Art University,15413,9,168,0,11,188
+2010,108232,Academy of Art University,17697,21,123,0,11,155
+2011,108232,Academy of Art University,18093,11,75,0,11,97
+2012,108232,Academy of Art University,17871,23,68,2,11,104
+2013,108232,Academy of Art University,16001,15,59,0,11,85
+2014,108232,Academy of Art University,15212,18,63,2,11,94
+2001,110422,California Polytechnic State University-San Luis Obispo,18079,28,13,0,1,42
+2002,110422,California Polytechnic State University-San Luis Obispo,18453,27,11,0,1,39
+2003,110422,California Polytechnic State University-San Luis Obispo,18303,38,15,0,1,54
+2004,110422,California Polytechnic State University-San Luis Obispo,17582,13,5,0,1,19
+2005,110422,California Polytechnic State University-San Luis Obispo,18475,23,2,0,1,26
+2006,110422,California Polytechnic State University-San Luis Obispo,18722,27,2,0,1,30
+2007,110422,California Polytechnic State University-San Luis Obispo,19777,24,0,0,1,25
+2008,110422,California Polytechnic State University-San Luis Obispo,19471,33,1,0,1,35
+2009,110422,California Polytechnic State University-San Luis Obispo,19325,12,3,0,1,16
+2010,110422,California Polytechnic State University-San Luis Obispo,18360,36,0,0,1,37
+2011,110422,California Polytechnic State University-San Luis Obispo,18762,18,8,0,1,27
+2012,110422,California Polytechnic State University-San Luis Obispo,18679,11,34,0,1,46
+2013,110422,California Polytechnic State University-San Luis Obispo,19703,25,12,2,1,40
+2014,110422,California Polytechnic State University-San Luis Obispo,20186,36,172,2,1,211
+2001,110510,California State University-San Bernardino,15985,40,30,0,10,80
+2002,110510,California State University-San Bernardino,16341,24,107,0,10,141
+2003,110510,California State University-San Bernardino,16927,68,66,0,10,144
+2004,110510,California State University-San Bernardino,16194,76,173,0,10,259
+2005,110510,California State University-San Bernardino,16431,65,105,0,10,180
+2006,110510,California State University-San Bernardino,16479,51,61,0,10,122
+2007,110510,California State University-San Bernardino,17066,50,11,0,10,71
+2008,110510,California State University-San Bernardino,17646,41,0,0,10,51
+2009,110510,California State University-San Bernardino,17852,49,27,0,10,86
+2010,110510,California State University-San Bernardino,16400,21,52,0,10,83
+2011,110510,California State University-San Bernardino,17250,23,17,2,10,52
+2012,110510,California State University-San Bernardino,18234,39,19,0,10,68
+2013,110510,California State University-San Bernardino,18398,32,161,4,10,207
+2014,110510,California State University-San Bernardino,18952,25,231,0,10,266
+2001,110529,California State Polytechnic University-Pomona,19041,136,124,0,3,263
+2002,110529,California State Polytechnic University-Pomona,19821,104,86,0,3,193
+2003,110529,California State Polytechnic University-Pomona,19804,80,158,0,3,241
+2004,110529,California State Polytechnic University-Pomona,19003,69,153,0,3,225
+2005,110529,California State Polytechnic University-Pomona,19885,93,298,0,3,394
+2006,110529,California State Polytechnic University-Pomona,20510,85,383,0,3,471
+2007,110529,California State Polytechnic University-Pomona,21477,57,455,0,3,515
+2008,110529,California State Polytechnic University-Pomona,21190,32,362,0,3,397
+2009,110529,California State Polytechnic University-Pomona,22273,40,462,0,3,505
+2010,110529,California State Polytechnic University-Pomona,20747,41,392,6,3,442
+2011,110529,California State Polytechnic University-Pomona,21107,47,329,0,3,379
+2012,110529,California State Polytechnic University-Pomona,22156,46,244,0,3,293
+2013,110529,California State Polytechnic University-Pomona,22501,35,382,2,3,422
+2014,110529,California State Polytechnic University-Pomona,23966,32,272,0,3,307
+2001,110538,California State University-Chico,16704,50,1005,0,2,1057
+2002,110538,California State University-Chico,16246,24,864,0,2,890
+2003,110538,California State University-Chico,15516,37,1405,0,2,1444
+2004,110538,California State University-Chico,15734,41,848,0,2,891
+2005,110538,California State University-Chico,15919,65,126,0,2,193
+2006,110538,California State University-Chico,16250,29,438,0,2,469
+2007,110538,California State University-Chico,17034,27,172,0,2,201
+2008,110538,California State University-Chico,17132,32,139,0,2,173
+2009,110538,California State University-Chico,16934,19,159,0,2,180
+2010,110538,California State University-Chico,15989,21,111,0,2,134
+2011,110538,California State University-Chico,15920,10,126,0,2,138
+2012,110538,California State University-Chico,16470,16,89,0,2,107
+2013,110538,California State University-Chico,16356,16,76,0,2,94
+2014,110538,California State University-Chico,17287,12,40,0,2,54
+2001,110547,California State University-Dominguez Hills,12871,38,2,0,0,40
+2002,110547,California State University-Dominguez Hills,13504,38,3,0,0,41
+2003,110547,California State University-Dominguez Hills,13248,34,3,0,0,37
+2004,110547,California State University-Dominguez Hills,12613,38,5,0,0,43
+2005,110547,California State University-Dominguez Hills,12357,45,0,0,0,45
+2006,110547,California State University-Dominguez Hills,12068,59,0,0,0,59
+2007,110547,California State University-Dominguez Hills,12082,50,0,0,0,50
+2008,110547,California State University-Dominguez Hills,12851,62,0,0,0,62
+2009,110547,California State University-Dominguez Hills,14477,79,3,2,0,84
+2010,110547,California State University-Dominguez Hills,13854,50,2,2,0,54
+2011,110547,California State University-Dominguez Hills,14364,97,5,0,0,102
+2012,110547,California State University-Dominguez Hills,13933,32,0,2,0,34
+2013,110547,California State University-Dominguez Hills,14670,16,6,4,0,26
+2014,110547,California State University-Dominguez Hills,14687,23,4,0,0,27
+2001,110556,California State University-Fresno,20007,134,52,0,5,191
+2002,110556,California State University-Fresno,21272,143,16,0,5,164
+2003,110556,California State University-Fresno,22342,78,49,0,5,132
+2004,110556,California State University-Fresno,19781,90,150,0,5,245
+2005,110556,California State University-Fresno,20371,79,120,0,5,204
+2006,110556,California State University-Fresno,22098,138,215,0,5,358
+2007,110556,California State University-Fresno,22383,87,214,0,5,306
+2008,110556,California State University-Fresno,22613,97,106,0,5,208
+2009,110556,California State University-Fresno,21500,72,196,2,5,275
+2010,110556,California State University-Fresno,20932,25,201,2,5,233
+2011,110556,California State University-Fresno,21981,52,199,0,5,256
+2012,110556,California State University-Fresno,22565,32,106,0,5,143
+2013,110556,California State University-Fresno,23060,28,133,2,5,168
+2014,110556,California State University-Fresno,23179,23,153,0,5,181
+2001,110565,California State University-Fullerton,30357,62,5,0,5,72
+2002,110565,California State University-Fullerton,32143,63,35,0,5,103
+2003,110565,California State University-Fullerton,32592,35,68,0,5,108
+2004,110565,California State University-Fullerton,32744,67,63,0,5,135
+2005,110565,California State University-Fullerton,35040,67,59,0,5,131
+2006,110565,California State University-Fullerton,35921,76,61,0,5,142
+2007,110565,California State University-Fullerton,37130,70,0,0,5,75
+2008,110565,California State University-Fullerton,36996,55,65,0,5,125
+2009,110565,California State University-Fullerton,36262,37,84,2,5,128
+2010,110565,California State University-Fullerton,35590,34,141,2,5,182
+2011,110565,California State University-Fullerton,36156,28,378,2,5,413
+2012,110565,California State University-Fullerton,37677,30,328,6,5,369
+2013,110565,California State University-Fullerton,38325,16,107,0,5,128
+2014,110565,California State University-Fullerton,38128,26,242,0,5,273
+2001,110574,California State University-East Bay,13240,30,0,0,4,34
+2002,110574,California State University-East Bay,13876,28,0,0,4,32
+2003,110574,California State University-East Bay,13455,45,3,0,4,52
+2004,110574,California State University-East Bay,13061,25,0,0,4,29
+2005,110574,California State University-East Bay,12535,23,0,0,4,27
+2006,110574,California State University-East Bay,12706,16,3,0,4,23
+2007,110574,California State University-East Bay,13124,18,0,0,4,22
+2008,110574,California State University-East Bay,14167,27,8,0,4,39
+2009,110574,California State University-East Bay,14749,33,6,0,4,43
+2010,110574,California State University-East Bay,12889,31,42,0,4,77
+2011,110574,California State University-East Bay,13160,25,30,0,4,59
+2012,110574,California State University-East Bay,13851,21,13,0,4,38
+2013,110574,California State University-East Bay,14526,19,200,0,4,223
+2014,110574,California State University-East Bay,14823,10,167,4,4,185
+2001,110583,California State University-Long Beach,33259,135,82,0,4,221
+2002,110583,California State University-Long Beach,34566,97,173,0,4,274
+2003,110583,California State University-Long Beach,34715,85,266,0,4,355
+2004,110583,California State University-Long Beach,33479,66,278,0,4,348
+2005,110583,California State University-Long Beach,34547,117,104,0,4,225
+2006,110583,California State University-Long Beach,35574,81,16,0,4,101
+2007,110583,California State University-Long Beach,36868,51,255,0,4,310
+2008,110583,California State University-Long Beach,37891,57,414,0,4,475
+2009,110583,California State University-Long Beach,35557,46,274,0,4,324
+2010,110583,California State University-Long Beach,33416,30,260,2,4,296
+2011,110583,California State University-Long Beach,34870,36,325,2,4,367
+2012,110583,California State University-Long Beach,36279,35,171,2,4,212
+2013,110583,California State University-Long Beach,35586,56,222,2,4,284
+2014,110583,California State University-Long Beach,36809,14,227,0,4,245
+2001,110592,California State University-Los Angeles,20675,81,0,0,5,86
+2002,110592,California State University-Los Angeles,21099,101,3,0,5,109
+2003,110592,California State University-Los Angeles,20637,62,4,0,5,71
+2004,110592,California State University-Los Angeles,20307,80,0,0,5,85
+2005,110592,California State University-Los Angeles,20034,66,1,0,5,72
+2006,110592,California State University-Los Angeles,20565,53,19,0,5,77
+2007,110592,California State University-Los Angeles,21051,63,29,0,5,97
+2008,110592,California State University-Los Angeles,20743,47,130,1,5,183
+2009,110592,California State University-Los Angeles,20619,56,271,0,5,332
+2010,110592,California State University-Los Angeles,20142,19,46,0,5,70
+2011,110592,California State University-Los Angeles,21284,35,212,2,5,254
+2012,110592,California State University-Los Angeles,21755,23,565,0,5,593
+2013,110592,California State University-Los Angeles,23258,25,598,0,5,628
+2014,110592,California State University-Los Angeles,24488,31,402,0,5,438
+2001,110608,California State University-Northridge,31448,67,11,0,21,99
+2002,110608,California State University-Northridge,33579,72,59,0,21,152
+2003,110608,California State University-Northridge,33426,168,58,0,21,247
+2004,110608,California State University-Northridge,31341,87,123,0,21,231
+2005,110608,California State University-Northridge,33243,111,90,0,21,222
+2006,110608,California State University-Northridge,34560,107,148,0,21,276
+2007,110608,California State University-Northridge,35446,67,55,0,21,143
+2008,110608,California State University-Northridge,36208,77,249,0,21,347
+2009,110608,California State University-Northridge,35198,30,330,2,21,383
+2010,110608,California State University-Northridge,35272,73,206,4,21,304
+2011,110608,California State University-Northridge,36911,59,407,10,21,497
+2012,110608,California State University-Northridge,36164,52,326,6,21,405
+2013,110608,California State University-Northridge,38310,52,417,0,21,490
+2014,110608,California State University-Northridge,40131,32,442,0,21,495
+2001,110617,California State University-Sacramento,26923,83,206,0,7,296
+2002,110617,California State University-Sacramento,28558,64,250,0,7,321
+2003,110617,California State University-Sacramento,28375,95,332,0,7,434
+2004,110617,California State University-Sacramento,27972,77,408,0,7,492
+2005,110617,California State University-Sacramento,27932,53,188,0,7,248
+2006,110617,California State University-Sacramento,28529,53,366,0,7,426
+2007,110617,California State University-Sacramento,28829,67,281,0,7,355
+2008,110617,California State University-Sacramento,29011,31,226,0,7,264
+2009,110617,California State University-Sacramento,29241,49,252,0,7,308
+2010,110617,California State University-Sacramento,27033,31,174,2,7,214
+2011,110617,California State University-Sacramento,28016,26,231,0,7,264
+2012,110617,California State University-Sacramento,28539,43,166,0,7,216
+2013,110617,California State University-Sacramento,28811,15,238,0,7,260
+2014,110617,California State University-Sacramento,29349,16,336,0,7,359
+2001,110635,University of California-Berkeley,32128,102,281,0,29,412
+2002,110635,University of California-Berkeley,33145,132,393,0,29,554
+2003,110635,University of California-Berkeley,33065,152,410,0,29,591
+2004,110635,University of California-Berkeley,32803,141,579,0,29,749
+2005,110635,University of California-Berkeley,33547,118,805,0,29,952
+2006,110635,University of California-Berkeley,33920,127,1155,0,29,1311
+2007,110635,University of California-Berkeley,34940,136,924,0,29,1089
+2008,110635,University of California-Berkeley,35396,118,723,1,29,871
+2009,110635,University of California-Berkeley,35830,106,652,10,29,797
+2010,110635,University of California-Berkeley,35833,113,736,38,29,916
+2011,110635,University of California-Berkeley,36137,107,396,10,29,542
+2012,110635,University of California-Berkeley,35893,117,433,16,29,595
+2013,110635,University of California-Berkeley,36198,114,70,12,29,225
+2014,110635,University of California-Berkeley,37565,140,79,24,29,272
+2001,110644,University of California-Davis,27292,188,220,0,28,436
+2002,110644,University of California-Davis,29087,193,149,0,28,370
+2003,110644,University of California-Davis,29402,188,268,0,28,484
+2004,110644,University of California-Davis,29210,178,302,0,28,508
+2005,110644,University of California-Davis,28815,139,207,0,28,374
+2006,110644,University of California-Davis,29628,172,358,0,28,558
+2007,110644,University of California-Davis,29796,194,301,1,28,524
+2008,110644,University of California-Davis,30568,170,255,0,28,453
+2009,110644,University of California-Davis,31247,109,260,4,28,401
+2010,110644,University of California-Davis,31392,115,289,16,28,448
+2011,110644,University of California-Davis,31732,133,324,2,28,487
+2012,110644,University of California-Davis,32354,97,36,0,28,161
+2013,110644,University of California-Davis,33307,77,22,6,28,133
+2014,110644,University of California-Davis,34508,93,35,8,28,164
+2001,110653,University of California-Irvine,21885,164,194,0,33,391
+2002,110653,University of California-Irvine,23779,170,196,0,33,399
+2003,110653,University of California-Irvine,24273,139,205,0,33,377
+2004,110653,University of California-Irvine,24344,113,198,0,33,344
+2005,110653,University of California-Irvine,24400,115,281,0,33,429
+2006,110653,University of California-Irvine,25230,88,479,0,33,600
+2007,110653,University of California-Irvine,26483,65,669,0,33,767
+2008,110653,University of California-Irvine,26984,97,566,0,33,696
+2009,110653,University of California-Irvine,27142,40,468,0,33,541
+2010,110653,University of California-Irvine,26994,47,430,8,33,518
+2011,110653,University of California-Irvine,27189,68,783,0,33,884
+2012,110653,University of California-Irvine,27479,84,637,2,33,756
+2013,110653,University of California-Irvine,28895,71,495,0,33,599
+2014,110653,University of California-Irvine,30051,75,588,0,33,696
+2001,110662,University of California-Los Angeles,37494,193,293,0,3,489
+2002,110662,University of California-Los Angeles,37599,259,487,1,3,750
+2003,110662,University of California-Los Angeles,37055,242,515,1,3,761
+2004,110662,University of California-Los Angeles,35966,253,668,0,3,924
+2005,110662,University of California-Los Angeles,35625,255,856,0,3,1114
+2006,110662,University of California-Los Angeles,36611,176,1135,0,3,1314
+2007,110662,University of California-Los Angeles,37476,210,1102,0,3,1315
+2008,110662,University of California-Los Angeles,38220,183,484,0,3,670
+2009,110662,University of California-Los Angeles,38550,150,729,0,3,882
+2010,110662,University of California-Los Angeles,38157,167,807,2,3,979
+2011,110662,University of California-Los Angeles,39271,139,840,0,3,982
+2012,110662,University of California-Los Angeles,39945,104,679,6,3,792
+2013,110662,University of California-Los Angeles,40795,130,494,0,3,627
+2014,110662,University of California-Los Angeles,41845,123,474,6,3,606
+2001,110671,University of California-Riverside,14429,68,39,0,27,134
+2002,110671,University of California-Riverside,15934,86,129,0,27,242
+2003,110671,University of California-Riverside,17296,140,231,0,27,398
+2004,110671,University of California-Riverside,17104,72,338,0,27,437
+2005,110671,University of California-Riverside,16622,71,161,0,27,259
+2006,110671,University of California-Riverside,16875,75,124,0,27,226
+2007,110671,University of California-Riverside,17187,90,51,0,27,168
+2008,110671,University of California-Riverside,18079,81,72,1,27,181
+2009,110671,University of California-Riverside,19384,48,153,8,27,236
+2010,110671,University of California-Riverside,20692,51,166,6,27,250
+2011,110671,University of California-Riverside,20900,66,189,2,27,284
+2012,110671,University of California-Riverside,20947,76,254,4,27,361
+2013,110671,University of California-Riverside,21207,38,13,4,27,82
+2014,110671,University of California-Riverside,21498,43,20,0,27,90
+2001,110680,University of California-San Diego,21558,66,1062,0,12,1140
+2002,110680,University of California-San Diego,23528,106,1208,0,12,1326
+2003,110680,University of California-San Diego,24105,130,1185,1,12,1328
+2004,110680,University of California-San Diego,24663,114,1353,0,12,1479
+2005,110680,University of California-San Diego,25320,131,1375,0,12,1518
+2006,110680,University of California-San Diego,26247,161,1516,0,12,1689
+2007,110680,University of California-San Diego,27020,101,1737,0,12,1850
+2008,110680,University of California-San Diego,27520,88,3,0,12,103
+2009,110680,University of California-San Diego,28418,96,22,8,12,138
+2010,110680,University of California-San Diego,29176,74,1144,10,12,1240
+2011,110680,University of California-San Diego,28593,63,1600,0,12,1675
+2012,110680,University of California-San Diego,28294,62,2378,2,12,2454
+2013,110680,University of California-San Diego,29517,97,2113,0,12,2222
+2014,110680,University of California-San Diego,30709,56,2382,0,12,2450
+2001,110705,University of California-Santa Barbara,20373,35,1562,0,13,1610
+2002,110705,University of California-Santa Barbara,20559,38,956,0,13,1007
+2003,110705,University of California-Santa Barbara,20847,80,726,0,13,819
+2004,110705,University of California-Santa Barbara,21026,75,1183,0,13,1271
+2005,110705,University of California-Santa Barbara,21016,70,1429,0,13,1512
+2006,110705,University of California-Santa Barbara,21082,63,1664,0,13,1740
+2007,110705,University of California-Santa Barbara,21410,57,1355,0,13,1425
+2008,110705,University of California-Santa Barbara,21868,43,1631,0,13,1687
+2009,110705,University of California-Santa Barbara,22850,57,1361,0,13,1431
+2010,110705,University of California-Santa Barbara,22218,61,1044,0,13,1118
+2011,110705,University of California-Santa Barbara,21685,59,1448,0,13,1520
+2012,110705,University of California-Santa Barbara,21927,57,1102,0,13,1172
+2013,110705,University of California-Santa Barbara,22225,61,934,2,13,1010
+2014,110705,University of California-Santa Barbara,23051,38,661,0,13,712
+2001,110714,University of California-Santa Cruz,13170,33,1424,0,17,1474
+2002,110714,University of California-Santa Cruz,14139,72,1863,0,17,1952
+2003,110714,University of California-Santa Cruz,14997,61,2063,0,17,2141
+2004,110714,University of California-Santa Cruz,15036,38,2081,0,17,2136
+2005,110714,University of California-Santa Cruz,15012,46,1866,0,17,1929
+2006,110714,University of California-Santa Cruz,15364,66,2320,0,17,2403
+2007,110714,University of California-Santa Cruz,15825,55,2805,0,17,2877
+2008,110714,University of California-Santa Cruz,16615,76,3265,0,17,3358
+2009,110714,University of California-Santa Cruz,16775,54,2761,8,17,2840
+2010,110714,University of California-Santa Cruz,17187,49,4464,4,17,4534
+2011,110714,University of California-Santa Cruz,17454,38,2694,18,17,2767
+2012,110714,University of California-Santa Cruz,17404,43,2561,0,17,2621
+2013,110714,University of California-Santa Cruz,17203,54,2211,2,17,2284
+2014,110714,University of California-Santa Cruz,17866,55,632,0,17,704
+2001,119605,National University,18267,9,1,0,0,10
+2002,119605,National University,17865,2,0,0,0,2
+2003,119605,National University,17064,0,0,0,0,0
+2004,119605,National University,25684,0,0,0,0,0
+2005,119605,National University,26035,0,0,0,0,0
+2006,119605,National University,25844,0,0,0,0,0
+2007,119605,National University,26363,8,0,0,0,8
+2008,119605,National University,15521,3,0,0,0,3
+2009,119605,National University,15553,0,0,0,0,0
+2010,119605,National University,16249,0,0,0,0,0
+2011,119605,National University,16671,1,0,0,0,1
+2012,119605,National University,17898,0,0,0,0,0
+2013,119605,National University,18207,0,0,0,0,0
+2014,119605,National University,17608,0,0,0,0,0
+2001,122409,San Diego State University,34171,126,591,0,9,726
+2002,122409,San Diego State University,34304,125,522,0,9,656
+2003,122409,San Diego State University,32803,206,541,0,9,756
+2004,122409,San Diego State University,32043,149,596,0,9,754
+2005,122409,San Diego State University,31802,116,445,0,9,570
+2006,122409,San Diego State University,33441,152,635,0,9,796
+2007,122409,San Diego State University,35695,201,769,0,9,979
+2008,122409,San Diego State University,34889,170,452,0,9,631
+2009,122409,San Diego State University,32817,133,313,0,9,455
+2010,122409,San Diego State University,29187,124,245,2,9,380
+2011,122409,San Diego State University,30541,93,354,0,9,456
+2012,122409,San Diego State University,30843,82,277,2,9,370
+2013,122409,San Diego State University,31899,80,452,0,9,541
+2014,122409,San Diego State University,33483,104,285,0,9,398
+2001,122597,San Francisco State University,26866,42,380,0,7,429
+2002,122597,San Francisco State University,28378,62,251,0,7,320
+2003,122597,San Francisco State University,29686,58,281,0,7,346
+2004,122597,San Francisco State University,28804,73,266,0,7,346
+2005,122597,San Francisco State University,28950,64,41,0,7,112
+2006,122597,San Francisco State University,29628,117,0,0,7,124
+2007,122597,San Francisco State University,30125,70,0,0,7,77
+2008,122597,San Francisco State University,30014,72,1185,0,7,1264
+2009,122597,San Francisco State University,30469,37,109,0,7,153
+2010,122597,San Francisco State University,29718,59,446,0,7,512
+2011,122597,San Francisco State University,29541,56,235,0,7,298
+2012,122597,San Francisco State University,30500,53,200,0,7,260
+2013,122597,San Francisco State University,29905,28,179,0,7,214
+2014,122597,San Francisco State University,29465,26,234,0,7,267
+2001,122612,University of San Francisco,8063,31,222,3,1,257
+2002,122612,University of San Francisco,8194,79,283,0,1,363
+2003,122612,University of San Francisco,8159,55,390,0,1,446
+2004,122612,University of San Francisco,8271,38,347,0,1,386
+2005,122612,University of San Francisco,8457,66,464,0,1,531
+2006,122612,University of San Francisco,8549,76,541,0,1,618
+2007,122612,University of San Francisco,8714,74,584,0,1,659
+2008,122612,University of San Francisco,8750,33,328,0,1,362
+2009,122612,University of San Francisco,9008,11,581,0,1,593
+2010,122612,University of San Francisco,9557,20,333,0,1,354
+2011,122612,University of San Francisco,9799,8,496,0,1,505
+2012,122612,University of San Francisco,10040,5,360,0,1,366
+2013,122612,University of San Francisco,10112,14,387,0,1,402
+2014,122612,University of San Francisco,10689,14,202,0,1,217
+2001,122755,San Jose State University,28007,47,45,0,17,109
+2002,122755,San Jose State University,30350,42,35,0,17,94
+2003,122755,San Jose State University,28932,42,68,1,17,128
+2004,122755,San Jose State University,29044,37,47,0,17,101
+2005,122755,San Jose State University,29975,43,89,0,17,149
+2006,122755,San Jose State University,29604,47,88,0,17,152
+2007,122755,San Jose State University,31906,50,145,0,17,212
+2008,122755,San Jose State University,32746,68,44,0,17,129
+2009,122755,San Jose State University,31280,67,22,0,17,106
+2010,122755,San Jose State University,29076,65,6,0,17,88
+2011,122755,San Jose State University,30236,61,193,0,17,271
+2012,122755,San Jose State University,30448,57,257,6,17,337
+2013,122755,San Jose State University,31278,30,440,14,17,501
+2014,122755,San Jose State University,32713,71,380,0,17,468
+2001,123961,University of Southern California,29813,127,80,0,9,216
+2002,123961,University of Southern California,30682,165,214,0,9,388
+2003,123961,University of Southern California,31606,143,200,0,9,352
+2004,123961,University of Southern California,32160,105,28,0,9,142
+2005,123961,University of Southern California,32836,138,42,0,9,189
+2006,123961,University of Southern California,33389,153,87,0,9,249
+2007,123961,University of Southern California,33408,95,93,0,9,197
+2008,123961,University of Southern California,33747,101,76,0,9,186
+2009,123961,University of Southern California,34824,44,205,0,9,258
+2010,123961,University of Southern California,36896,49,354,0,9,412
+2011,123961,University of Southern California,38010,77,193,0,9,279
+2012,123961,University of Southern California,39958,69,231,0,9,309
+2013,123961,University of Southern California,41368,43,394,2,9,448
+2014,123961,University of Southern California,42453,47,524,0,9,580
+2001,154022,Ashford University,479,11,8,0,0,19
+2002,154022,Ashford University,492,5,26,0,0,31
+2003,154022,Ashford University,518,3,2,0,0,5
+2004,154022,Ashford University,459,6,4,0,0,10
+2005,154022,Ashford University,814,6,6,0,0,12
+2006,154022,Ashford University,3836,5,13,0,0,18
+2007,154022,Ashford University,10568,3,9,0,0,12
+2008,154022,Ashford University,25605,16,49,0,0,65
+2009,154022,Ashford University,46835,2,24,0,0,26
+2010,154022,Ashford University,63096,4,18,0,0,22
+2011,154022,Ashford University,74596,3,24,2,0,29
+2012,154022,Ashford University,77734,3,9,2,0,14
+2013,154022,Ashford University,58104,4,3,6,0,13
+2014,154022,Ashford University,51237,2,0,2,0,4
+2014,163204,University of Maryland-University College,47906,0,0,0,0,0
+2012,164988,Boston University,32603,0,0,0,0,0
+2013,164988,Boston University,32411,0,0,0,0,0
+2014,164988,Boston University,32112,0,0,0,0,0
+2014,169248,Central Michigan University,26879,0,0,0,0,0
+2001,177065,Columbia College,8564,0,0,0,0,0
+2002,177065,Columbia College,8958,0,0,0,0,0
+2003,177065,Columbia College,10146,0,0,0,0,0
+2004,177065,Columbia College,11017,0,0,0,0,0
+2005,177065,Columbia College,11792,0,0,0,0,0
+2006,177065,Columbia College,12280,0,0,0,0,0
+2007,177065,Columbia College,12954,0,0,0,0,0
+2008,177065,Columbia College,14081,0,0,0,0,0
+2009,177065,Columbia College,15556,1,0,0,0,1
+2010,177065,Columbia College,16962,0,0,0,0,0
+2011,177065,Columbia College,18091,0,0,0,0,0
+2012,177065,Columbia College,17830,0,0,0,0,0
+2013,177065,Columbia College,16946,0,0,0,0,0
+2014,177065,Columbia College,16567,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2001,179894,Webster University,15402,0,0,0,0,0
+2002,179894,Webster University,17249,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2012,196413,Syracuse University,21029,0,0,0,0,0
+2013,196413,Syracuse University,21267,0,0,0,0,0
+2014,196413,Syracuse University,21492,0,0,0,0,0
+2007,211440,Carnegie Mellon University,10326,0,0,0,0,0
+2008,211440,Carnegie Mellon University,10875,0,0,0,0,0
+2009,211440,Carnegie Mellon University,11197,0,0,0,0,0
+2010,211440,Carnegie Mellon University,11340,0,0,0,0,0
+2011,211440,Carnegie Mellon University,11531,0,0,0,0,0
+2012,211440,Carnegie Mellon University,11978,0,0,0,0,0
+2013,211440,Carnegie Mellon University,12367,0,0,0,0,0
+2014,211440,Carnegie Mellon University,12587,0,0,0,0,0
+2009,212054,Drexel University,22493,0,0,0,0,0
+2010,212054,Drexel University,23637,0,0,0,0,0
+2011,212054,Drexel University,24860,0,0,0,0,0
+2012,212054,Drexel University,25500,0,0,0,0,0
+2013,212054,Drexel University,26132,0,0,0,0,0
+2014,212054,Drexel University,26359,0,0,0,0,0
+2011,215062,University of Pennsylvania,24832,0,0,0,1,1
+2012,215062,University of Pennsylvania,24725,0,0,0,1,1
+2013,215062,University of Pennsylvania,24630,0,0,0,1,1
+2014,215062,University of Pennsylvania,24806,0,0,0,1,1
+2001,243744,Stanford University,18591,254,0,0,23,277
+2002,243744,Stanford University,18297,222,0,0,23,245
+2003,243744,Stanford University,17824,219,0,0,23,242
+2004,243744,Stanford University,18836,159,0,0,23,182
+2005,243744,Stanford University,19042,170,40,0,23,233
+2006,243744,Stanford University,17747,182,52,1,23,258
+2007,243744,Stanford University,19782,205,65,1,23,294
+2008,243744,Stanford University,17833,234,25,0,23,282
+2009,243744,Stanford University,18498,179,65,4,23,271
+2010,243744,Stanford University,19535,222,3,4,23,252
+2011,243744,Stanford University,19945,142,4,2,23,171
+2012,243744,Stanford University,18519,157,0,0,23,180
+2013,243744,Stanford University,18346,142,7,0,23,172
+2014,243744,Stanford University,16963,108,0,6,23,137
+2001,366711,California State University-San Marcos,6496,0,0,0,10,10
+2002,366711,California State University-San Marcos,7678,5,0,0,10,15
+2003,366711,California State University-San Marcos,7777,2,17,0,10,29
+2004,366711,California State University-San Marcos,7365,11,65,0,10,86
+2005,366711,California State University-San Marcos,7502,7,43,0,10,60
+2006,366711,California State University-San Marcos,8734,4,5,0,10,19
+2007,366711,California State University-San Marcos,9159,11,0,0,10,21
+2008,366711,California State University-San Marcos,9148,8,0,0,10,18
+2009,366711,California State University-San Marcos,9767,4,0,0,10,14
+2010,366711,California State University-San Marcos,9722,3,30,20,10,63
+2011,366711,California State University-San Marcos,10276,1,84,4,10,99
+2012,366711,California State University-San Marcos,10610,5,14,2,10,31
+2013,366711,California State University-San Marcos,11300,29,102,2,10,143
+2014,366711,California State University-San Marcos,12154,19,98,0,10,127
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,1,0,0,0,1
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,1,0,0,0,1
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,1,0,0,0,1
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,1,0,0,0,1
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0
+2013,433387,Western Governors University,46733,0,0,0,0,0
+2014,433387,Western Governors University,57821,0,0,0,0,0
+2013,484631,University of Phoenix-California,40539,3,0,6,2,11
+2014,484631,University of Phoenix-California,23257,4,0,4,2,10

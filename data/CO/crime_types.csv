@@ -1,0 +1,145 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2004,102368,Troy University,20855,0,0,0,0,0
+2005,102368,Troy University,26880,0,0,0,0,0
+2006,102368,Troy University,27938,0,0,0,0,0
+2007,102368,Troy University,28955,0,0,0,0,0
+2008,102368,Troy University,28303,0,0,0,0,0
+2009,102368,Troy University,29328,0,0,0,0,0
+2010,102368,Troy University,28322,0,0,0,0,0
+2011,102368,Troy University,26172,0,0,0,0,0
+2012,102368,Troy University,22554,0,0,0,0,0
+2013,102368,Troy University,20573,0,0,0,0,0
+2014,102368,Troy University,19041,0,0,0,0,0
+2001,126562,University of Colorado Denver,15004,18,0,0,20,38
+2002,126562,University of Colorado Denver,15596,22,0,0,20,42
+2003,126562,University of Colorado Denver,15746,23,0,0,20,43
+2004,126562,University of Colorado Denver,16610,67,0,0,20,87
+2005,126562,University of Colorado Denver,19766,65,0,0,20,85
+2006,126562,University of Colorado Denver,20162,72,92,0,20,184
+2007,126562,University of Colorado Denver,21658,84,144,0,20,248
+2008,126562,University of Colorado Denver,21903,44,159,0,20,223
+2009,126562,University of Colorado Denver,23715,43,141,4,20,208
+2010,126562,University of Colorado Denver,24108,41,184,0,20,245
+2011,126562,University of Colorado Denver,22495,89,315,2,20,426
+2012,126562,University of Colorado Denver,22396,57,324,2,20,403
+2013,126562,University of Colorado Denver,22206,45,162,0,20,227
+2014,126562,University of Colorado Denver,22791,42,368,0,20,430
+2001,126580,University of Colorado Colorado Springs,7980,21,1,0,1,23
+2002,126580,University of Colorado Colorado Springs,8340,20,1,0,1,22
+2003,126580,University of Colorado Colorado Springs,8712,5,1,0,1,7
+2004,126580,University of Colorado Colorado Springs,9039,11,15,0,1,27
+2005,126580,University of Colorado Colorado Springs,9333,6,0,0,1,7
+2006,126580,University of Colorado Colorado Springs,8647,21,25,0,1,47
+2007,126580,University of Colorado Colorado Springs,8660,19,0,0,1,20
+2008,126580,University of Colorado Colorado Springs,9373,6,28,0,1,35
+2009,126580,University of Colorado Colorado Springs,9733,13,72,0,1,86
+2010,126580,University of Colorado Colorado Springs,9745,3,70,8,1,82
+2011,126580,University of Colorado Colorado Springs,10183,4,82,0,1,87
+2012,126580,University of Colorado Colorado Springs,10612,6,63,0,1,70
+2013,126580,University of Colorado Colorado Springs,11321,12,65,0,1,78
+2014,126580,University of Colorado Colorado Springs,11761,9,68,0,1,78
+2001,126614,University of Colorado Boulder,30063,201,1060,0,12,1273
+2002,126614,University of Colorado Boulder,31415,184,1656,0,12,1852
+2003,126614,University of Colorado Boulder,32423,172,2874,2,12,3060
+2004,126614,University of Colorado Boulder,32362,181,1521,0,12,1714
+2005,126614,University of Colorado Boulder,31589,171,1042,0,12,1225
+2006,126614,University of Colorado Boulder,31665,166,1048,0,12,1226
+2007,126614,University of Colorado Boulder,31796,83,2873,0,12,2968
+2008,126614,University of Colorado Boulder,32469,87,2941,0,12,3040
+2009,126614,University of Colorado Boulder,33010,79,3349,0,12,3440
+2010,126614,University of Colorado Boulder,32697,44,3293,0,12,3349
+2011,126614,University of Colorado Boulder,32558,73,3076,4,12,3165
+2012,126614,University of Colorado Boulder,31945,58,2566,0,12,2636
+2013,126614,University of Colorado Boulder,32017,42,1484,2,12,1540
+2014,126614,University of Colorado Boulder,32432,43,1796,0,12,1851
+2001,126818,Colorado State University-Fort Collins,28103,56,459,0,28,543
+2002,126818,Colorado State University-Fort Collins,29255,70,366,0,28,464
+2003,126818,Colorado State University-Fort Collins,28186,74,94,0,28,196
+2004,126818,Colorado State University-Fort Collins,27973,52,61,0,28,141
+2005,126818,Colorado State University-Fort Collins,27780,35,1,0,28,64
+2006,126818,Colorado State University-Fort Collins,27636,30,0,0,28,58
+2007,126818,Colorado State University-Fort Collins,27569,31,134,1,28,194
+2008,126818,Colorado State University-Fort Collins,28882,25,248,0,28,301
+2009,126818,Colorado State University-Fort Collins,28902,43,282,4,28,357
+2010,126818,Colorado State University-Fort Collins,30155,72,333,4,28,437
+2011,126818,Colorado State University-Fort Collins,30467,25,1243,4,28,1300
+2012,126818,Colorado State University-Fort Collins,30659,47,1829,6,28,1910
+2013,126818,Colorado State University-Fort Collins,31186,50,1136,8,28,1222
+2014,126818,Colorado State University-Fort Collins,31354,56,1318,2,28,1404
+2001,127060,University of Denver,9385,73,87,0,14,174
+2002,127060,University of Denver,9229,92,370,0,14,476
+2003,127060,University of Denver,9521,84,397,0,14,495
+2004,127060,University of Denver,9808,101,359,0,14,474
+2005,127060,University of Denver,10374,148,360,0,14,522
+2006,127060,University of Denver,10791,99,360,0,14,473
+2007,127060,University of Denver,11053,86,493,0,14,593
+2008,127060,University of Denver,11328,53,546,0,14,613
+2009,127060,University of Denver,11644,29,718,0,14,761
+2010,127060,University of Denver,11842,33,548,0,14,595
+2011,127060,University of Denver,11797,28,579,0,14,621
+2012,127060,University of Denver,11656,20,410,0,14,444
+2013,127060,University of Denver,11778,26,703,2,14,745
+2014,127060,University of Denver,11809,27,698,4,14,743
+2001,127565,Metropolitan State University of Denver,18445,18,1,0,12,31
+2002,127565,Metropolitan State University of Denver,19413,22,1,0,12,35
+2003,127565,Metropolitan State University of Denver,20261,23,0,0,12,35
+2004,127565,Metropolitan State University of Denver,20761,60,0,0,12,72
+2005,127565,Metropolitan State University of Denver,21010,57,0,0,12,69
+2006,127565,Metropolitan State University of Denver,21154,61,0,0,12,73
+2007,127565,Metropolitan State University of Denver,21425,58,0,0,12,70
+2008,127565,Metropolitan State University of Denver,21729,31,0,0,12,43
+2009,127565,Metropolitan State University of Denver,22837,33,0,4,12,49
+2010,127565,Metropolitan State University of Denver,23948,31,0,0,12,43
+2011,127565,Metropolitan State University of Denver,23789,76,0,2,12,90
+2012,127565,Metropolitan State University of Denver,23381,45,3,2,12,62
+2013,127565,Metropolitan State University of Denver,22752,33,2,0,12,47
+2014,127565,Metropolitan State University of Denver,21674,27,2,0,12,41
+2001,127741,University of Northern Colorado,12301,43,375,0,3,421
+2002,127741,University of Northern Colorado,12434,21,180,0,3,204
+2003,127741,University of Northern Colorado,13204,28,317,0,3,348
+2004,127741,University of Northern Colorado,13156,50,978,0,3,1031
+2005,127741,University of Northern Colorado,13622,34,664,0,3,701
+2006,127741,University of Northern Colorado,13363,66,959,0,3,1028
+2007,127741,University of Northern Colorado,12702,32,768,0,3,803
+2008,127741,University of Northern Colorado,12498,79,743,0,3,825
+2009,127741,University of Northern Colorado,12711,12,621,0,3,636
+2010,127741,University of Northern Colorado,13030,15,726,2,3,746
+2011,127741,University of Northern Colorado,13038,13,740,0,3,756
+2012,127741,University of Northern Colorado,13070,21,271,0,3,295
+2013,127741,University of Northern Colorado,12710,14,378,0,3,395
+2014,127741,University of Northern Colorado,12050,15,201,0,3,219
+2001,177065,Columbia College,8564,0,0,0,0,0
+2002,177065,Columbia College,8958,0,0,0,0,0
+2003,177065,Columbia College,10146,0,0,0,0,0
+2004,177065,Columbia College,11017,1,0,0,0,1
+2005,177065,Columbia College,11792,0,0,0,0,0
+2006,177065,Columbia College,12280,0,0,0,0,0
+2007,177065,Columbia College,12954,1,0,0,0,1
+2008,177065,Columbia College,14081,0,0,0,0,0
+2009,177065,Columbia College,15556,0,0,0,0,0
+2010,177065,Columbia College,16962,1,0,0,0,1
+2011,177065,Columbia College,18091,0,0,0,0,0
+2012,177065,Columbia College,17830,0,0,0,0,0
+2013,177065,Columbia College,16946,0,0,0,0,0
+2014,177065,Columbia College,16567,0,0,0,0,0
+2001,179894,Webster University,15402,0,0,0,0,0
+2002,179894,Webster University,17249,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,1,0,0,0,1
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0
