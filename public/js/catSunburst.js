@@ -57,7 +57,7 @@ CatSunburst.prototype.update = function(state,year,university) {
         .attr("text-anchor", "middle")
         .style("font-size", "16px")
         .attr("font-weight",'bold')
-        .text(university+" Crime Records");
+        .text(university+" Crime Records in " + year);
 
     d3.csv("data/" + state + "/Criminal_Offenses_On_campus_combined.csv", function (error, CO) {
         d3.csv("data/" + state + "/Disciplinary_Actions_On_campus_combined.csv", function (error, DA) {

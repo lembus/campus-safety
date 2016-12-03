@@ -158,7 +158,8 @@ MapChart.prototype.drawMap = function() {
             .attr("d", path)
             .attr("id", function (d) {
                 return d.id;
-            });
+            })
+            .style('cursor','pointer');
     });
 
 };

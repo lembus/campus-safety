@@ -66,7 +66,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 		.attr("text-anchor", "middle")
 		.style("font-size", "16px")
 		.attr("font-weight",'bold')
-		.text(state + " Universities Crime Records");
+		.text(state + " Universities Crime Records in " + year);
 
 	var svg = d3.select("#rect-chart").select('#uni-svg');
 
