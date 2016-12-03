@@ -52,12 +52,14 @@ CrimeChart.prototype.update = function(state){
         d3.select("#barChart").select("#xAxis1").selectAll("*").remove();
         d3.select("#barChart").select("#yAxis1").selectAll("*").remove();
         d3.select("#barChart").select("#bar").selectAll("*").remove();
+        d3.select("#barChart").select("#barcharttitle").remove();
 
         if (curstate == state) {
             curstate = "none";
             d3.select("#lineChart").select("#xAxis").selectAll("*").remove();
             d3.select("#lineChart").select("#yAxis").selectAll("*").remove();
             d3.select("#lineChart").select("#line").selectAll("*").remove();
+            d3.select("#lineChart").select("#linecharttitle").remove();
 
         } else {
             curstate = state;
