@@ -1,0 +1,178 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2004,102368,Troy University,20855,0,0,0,0,0
+2005,102368,Troy University,26880,0,0,0,0,0
+2006,102368,Troy University,27938,0,0,0,0,0
+2007,102368,Troy University,28955,1,0,0,0,1
+2008,102368,Troy University,28303,0,0,0,0,0
+2009,102368,Troy University,29328,0,0,0,0,0
+2010,102368,Troy University,28322,0,0,0,0,0
+2011,102368,Troy University,26172,0,0,0,0,0
+2012,102368,Troy University,22554,0,0,0,0,0
+2013,102368,Troy University,20573,0,0,0,0,0
+2014,102368,Troy University,19041,0,0,0,0,0
+2001,131469,George Washington University,22184,0,0,0,0,0
+2002,131469,George Washington University,23019,0,0,0,0,0
+2003,131469,George Washington University,23417,1,0,0,0,1
+2004,131469,George Washington University,24092,1,0,0,0,1
+2005,131469,George Washington University,24099,5,0,0,0,5
+2006,131469,George Washington University,24531,2,0,0,0,2
+2007,131469,George Washington University,25078,2,0,0,0,2
+2008,131469,George Washington University,25116,2,0,0,0,2
+2009,131469,George Washington University,25061,1,0,0,0,1
+2010,131469,George Washington University,25135,2,0,0,0,2
+2011,131469,George Washington University,25260,1,0,0,0,1
+2012,131469,George Washington University,25653,0,0,0,0,0
+2013,131469,George Washington University,25264,1,0,0,0,1
+2014,131469,George Washington University,25613,1,0,2,0,3
+2011,137032,Saint Leo University,15564,0,0,0,1,1
+2012,137032,Saint Leo University,15986,0,0,0,1,1
+2013,137032,Saint Leo University,16275,0,0,0,1,1
+2014,137032,Saint Leo University,16349,0,0,0,1,1
+2013,163204,University of Maryland-University College,39557,0,0,0,0,0
+2014,163204,University of Maryland-University College,47906,0,0,0,0,0
+2014,169248,Central Michigan University,26879,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2001,232186,George Mason University,24897,29,422,0,49,500
+2002,232186,George Mason University,26796,38,474,0,49,561
+2003,232186,George Mason University,28246,64,800,1,49,914
+2004,232186,George Mason University,28874,44,559,0,49,652
+2005,232186,George Mason University,29728,30,611,0,49,690
+2006,232186,George Mason University,29889,29,176,0,49,254
+2007,232186,George Mason University,30276,31,103,0,49,183
+2008,232186,George Mason University,30613,23,295,0,49,367
+2009,232186,George Mason University,32067,16,190,2,49,257
+2010,232186,George Mason University,32562,35,326,0,49,410
+2011,232186,George Mason University,33320,39,255,0,49,343
+2012,232186,George Mason University,32961,56,602,0,49,707
+2013,232186,George Mason University,33917,26,469,6,49,550
+2014,232186,George Mason University,33729,36,551,4,49,640
+2001,232423,James Madison University,15562,30,531,3,19,583
+2002,232423,James Madison University,15965,41,398,1,19,459
+2003,232423,James Madison University,16203,29,644,0,19,692
+2004,232423,James Madison University,16108,44,528,0,19,591
+2005,232423,James Madison University,16938,52,501,0,19,572
+2006,232423,James Madison University,17393,47,624,0,19,690
+2007,232423,James Madison University,17918,44,499,0,19,562
+2008,232423,James Madison University,18454,27,614,0,19,660
+2009,232423,James Madison University,18971,27,482,0,19,528
+2010,232423,James Madison University,19434,32,599,0,19,650
+2011,232423,James Madison University,19722,20,1379,0,19,1418
+2012,232423,James Madison University,19927,20,1224,0,19,1263
+2013,232423,James Madison University,20181,31,552,0,19,602
+2014,232423,James Madison University,20855,28,1061,0,19,1108
+2001,232557,Liberty University,6162,8,29,0,7,44
+2002,232557,Liberty University,7709,10,18,0,7,35
+2003,232557,Liberty University,9050,20,7,0,7,34
+2004,232557,Liberty University,10475,15,42,0,7,64
+2005,232557,Liberty University,12458,12,67,0,7,86
+2006,232557,Liberty University,17798,13,82,0,7,102
+2007,232557,Liberty University,27068,12,41,0,7,60
+2008,232557,Liberty University,33604,21,33,0,7,61
+2009,232557,Liberty University,46312,27,113,0,7,147
+2010,232557,Liberty University,56625,12,73,0,7,92
+2011,232557,Liberty University,64096,15,77,0,7,99
+2012,232557,Liberty University,74372,3,98,0,7,108
+2013,232557,Liberty University,77338,13,92,0,7,112
+2014,232557,Liberty University,81459,20,85,0,7,112
+2001,232982,Old Dominion University,19627,24,212,0,34,270
+2002,232982,Old Dominion University,20105,28,192,0,34,254
+2003,232982,Old Dominion University,20802,20,220,0,34,274
+2004,232982,Old Dominion University,20595,10,350,0,34,394
+2005,232982,Old Dominion University,21274,10,178,0,34,222
+2006,232982,Old Dominion University,21625,16,392,0,34,442
+2007,232982,Old Dominion University,22287,29,351,0,34,414
+2008,232982,Old Dominion University,23086,51,158,0,34,243
+2009,232982,Old Dominion University,24013,53,307,0,34,394
+2010,232982,Old Dominion University,24466,35,448,0,34,517
+2011,232982,Old Dominion University,24753,55,506,0,34,595
+2012,232982,Old Dominion University,24670,36,709,0,34,779
+2013,232982,Old Dominion University,24828,46,501,0,34,581
+2014,232982,Old Dominion University,24932,38,511,0,34,583
+2001,233921,Virginia Polytechnic Institute and State University,28203,57,340,0,4,401
+2002,233921,Virginia Polytechnic Institute and State University,28027,57,398,0,4,459
+2003,233921,Virginia Polytechnic Institute and State University,27755,47,208,0,4,259
+2004,233921,Virginia Polytechnic Institute and State University,27619,78,555,0,4,637
+2005,233921,Virginia Polytechnic Institute and State University,27979,45,576,0,4,625
+2006,233921,Virginia Polytechnic Institute and State University,28470,52,784,0,4,840
+2007,233921,Virginia Polytechnic Institute and State University,29898,119,747,0,4,870
+2008,233921,Virginia Polytechnic Institute and State University,30739,94,588,0,4,686
+2009,233921,Virginia Polytechnic Institute and State University,30870,47,659,0,4,710
+2010,233921,Virginia Polytechnic Institute and State University,31006,57,435,0,4,496
+2011,233921,Virginia Polytechnic Institute and State University,30936,53,552,0,4,609
+2012,233921,Virginia Polytechnic Institute and State University,31087,45,412,0,4,461
+2013,233921,Virginia Polytechnic Institute and State University,31205,36,540,0,4,580
+2014,233921,Virginia Polytechnic Institute and State University,31224,40,650,0,4,694
+2001,234030,Virginia Commonwealth University,25001,45,40,0,32,117
+2002,234030,Virginia Commonwealth University,26009,40,108,1,32,181
+2003,234030,Virginia Commonwealth University,26631,56,236,0,32,324
+2004,234030,Virginia Commonwealth University,28303,66,398,0,32,496
+2005,234030,Virginia Commonwealth University,29168,145,238,0,32,415
+2006,234030,Virginia Commonwealth University,30189,236,192,0,32,460
+2007,234030,Virginia Commonwealth University,31700,153,273,0,32,458
+2008,234030,Virginia Commonwealth University,32044,87,291,0,32,410
+2009,234030,Virginia Commonwealth University,32172,117,146,0,32,295
+2010,234030,Virginia Commonwealth University,32027,137,126,0,32,295
+2011,234030,Virginia Commonwealth University,31627,22,367,0,32,421
+2012,234030,Virginia Commonwealth University,31445,44,120,0,32,196
+2013,234030,Virginia Commonwealth University,30974,50,151,0,32,233
+2014,234030,Virginia Commonwealth University,30848,33,158,0,32,223
+2001,234076,University of Virginia-Main Campus,22739,47,200,0,4,251
+2002,234076,University of Virginia-Main Campus,23144,51,52,0,4,107
+2003,234076,University of Virginia-Main Campus,23077,116,22,1,4,143
+2004,234076,University of Virginia-Main Campus,23341,126,48,1,4,179
+2005,234076,University of Virginia-Main Campus,23765,110,0,3,4,117
+2006,234076,University of Virginia-Main Campus,24068,112,47,0,4,163
+2007,234076,University of Virginia-Main Campus,24257,100,31,0,4,135
+2008,234076,University of Virginia-Main Campus,24541,102,34,0,4,140
+2009,234076,University of Virginia-Main Campus,24355,117,36,8,4,165
+2010,234076,University of Virginia-Main Campus,24391,97,33,0,4,134
+2011,234076,University of Virginia-Main Campus,24297,84,413,2,4,503
+2012,234076,University of Virginia-Main Campus,23907,84,348,2,4,438
+2013,234076,University of Virginia-Main Campus,23464,102,601,2,4,709
+2014,234076,University of Virginia-Main Campus,23732,84,638,0,4,726
+2001,248934,ECPI University,3132,9,0,0,0,9
+2002,248934,ECPI University,3297,0,0,0,0,0
+2003,248934,ECPI University,3346,0,0,0,0,0
+2004,248934,ECPI University,4759,0,0,0,0,0
+2005,248934,ECPI University,5301,0,0,0,0,0
+2006,248934,ECPI University,7016,0,0,0,0,0
+2007,248934,ECPI University,8122,0,0,0,0,0
+2008,248934,ECPI University,8543,0,0,0,0,0
+2009,248934,ECPI University,12194,1,0,0,0,1
+2010,248934,ECPI University,12764,0,0,0,0,0
+2011,248934,ECPI University,10762,0,0,0,0,0
+2012,248934,ECPI University,9840,6,0,0,0,6
+2013,248934,ECPI University,10845,0,0,0,0,0
+2014,248934,ECPI University,10932,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

@@ -1,0 +1,122 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2014,163204,University of Maryland-University College,47906,0,0,0,0,0
+2014,167358,Northeastern University,19798,1,0,0,0,1
+2001,177065,Columbia College,8564,0,0,0,0,0
+2002,177065,Columbia College,8958,1,0,0,0,1
+2003,177065,Columbia College,10146,0,0,0,0,0
+2004,177065,Columbia College,11017,0,0,0,0,0
+2005,177065,Columbia College,11792,0,0,0,0,0
+2006,177065,Columbia College,12280,0,0,0,0,0
+2007,177065,Columbia College,12954,0,0,0,0,0
+2008,177065,Columbia College,14081,0,0,0,0,0
+2009,177065,Columbia College,15556,0,0,0,0,0
+2010,177065,Columbia College,16962,0,0,0,0,0
+2011,177065,Columbia College,18091,0,0,0,0,0
+2012,177065,Columbia College,17830,0,0,0,0,0
+2013,177065,Columbia College,16946,0,0,0,0,0
+2014,177065,Columbia College,16567,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2001,234669,Bellevue College,11792,52,0,0,11,63
+2002,234669,Bellevue College,12393,49,0,0,11,60
+2003,234669,Bellevue College,12621,33,1,0,11,45
+2004,234669,Bellevue College,12621,22,0,0,11,33
+2005,234669,Bellevue College,12086,9,0,0,11,20
+2006,234669,Bellevue College,12041,7,0,0,11,18
+2007,234669,Bellevue College,12305,8,0,0,11,19
+2008,234669,Bellevue College,13035,17,1,0,11,29
+2009,234669,Bellevue College,14010,10,0,0,11,21
+2010,234669,Bellevue College,14675,5,6,0,11,22
+2011,234669,Bellevue College,14156,6,15,8,11,40
+2012,234669,Bellevue College,13484,1,5,10,11,27
+2013,234669,Bellevue College,13820,13,1,0,11,25
+2014,234669,Bellevue College,13469,13,0,0,11,24
+2001,234827,Central Washington University,8826,56,131,0,17,204
+2002,234827,Central Washington University,9203,71,197,0,17,285
+2003,234827,Central Washington University,9903,45,209,0,17,271
+2004,234827,Central Washington University,9912,41,434,0,17,492
+2005,234827,Central Washington University,10190,29,546,0,17,592
+2006,234827,Central Washington University,10688,21,811,0,17,849
+2007,234827,Central Washington University,10505,36,506,0,17,559
+2008,234827,Central Washington University,10662,48,483,0,17,548
+2009,234827,Central Washington University,11357,23,671,0,17,711
+2010,234827,Central Washington University,11614,23,541,0,17,581
+2011,234827,Central Washington University,11320,29,675,2,17,723
+2012,234827,Central Washington University,11268,37,537,2,17,593
+2013,234827,Central Washington University,11287,56,405,2,17,480
+2014,234827,Central Washington University,11799,15,559,0,17,591
+2001,235097,Eastern Washington University,8932,18,84,0,7,109
+2002,235097,Eastern Washington University,9924,26,120,0,7,153
+2003,235097,Eastern Washington University,10337,27,102,0,7,136
+2004,235097,Eastern Washington University,10706,17,198,0,7,222
+2005,235097,Eastern Washington University,10908,29,168,1,7,205
+2006,235097,Eastern Washington University,11161,23,197,0,7,227
+2007,235097,Eastern Washington University,10686,26,169,0,7,202
+2008,235097,Eastern Washington University,10809,13,179,0,7,199
+2009,235097,Eastern Washington University,11300,11,283,2,7,303
+2010,235097,Eastern Washington University,11534,47,325,0,7,379
+2011,235097,Eastern Washington University,12126,28,136,0,7,171
+2012,235097,Eastern Washington University,12587,18,147,0,7,172
+2013,235097,Eastern Washington University,12791,15,145,0,7,167
+2014,235097,Eastern Washington University,13453,11,232,0,7,250
+2001,236939,Washington State University,21073,81,500,0,18,599
+2002,236939,Washington State University,21880,66,815,0,18,899
+2003,236939,Washington State University,22712,87,953,0,18,1058
+2004,236939,Washington State University,23241,90,1178,0,18,1286
+2005,236939,Washington State University,23544,79,763,0,18,860
+2006,236939,Washington State University,23655,55,707,0,18,780
+2007,236939,Washington State University,24396,42,1003,0,18,1063
+2008,236939,Washington State University,25352,42,870,3,18,933
+2009,236939,Washington State University,26101,46,858,4,18,926
+2010,236939,Washington State University,26308,41,856,0,18,915
+2011,236939,Washington State University,27329,43,1004,2,18,1067
+2012,236939,Washington State University,27679,73,1053,4,18,1148
+2013,236939,Washington State University,27642,60,561,0,18,639
+2014,236939,Washington State University,28686,53,619,0,18,690
+2001,236948,University of Washington-Seattle Campus,37412,144,421,0,40,605
+2002,236948,University of Washington-Seattle Campus,39882,168,417,0,40,625
+2003,236948,University of Washington-Seattle Campus,39135,132,442,0,40,614
+2004,236948,University of Washington-Seattle Campus,39199,94,373,0,40,507
+2005,236948,University of Washington-Seattle Campus,39251,145,349,0,40,534
+2006,236948,University of Washington-Seattle Campus,39524,130,409,0,40,579
+2007,236948,University of Washington-Seattle Campus,40218,117,432,0,40,589
+2008,236948,University of Washington-Seattle Campus,39675,103,364,0,40,507
+2009,236948,University of Washington-Seattle Campus,45943,105,486,0,40,631
+2010,236948,University of Washington-Seattle Campus,42451,75,404,0,40,519
+2011,236948,University of Washington-Seattle Campus,42444,52,658,0,40,750
+2012,236948,University of Washington-Seattle Campus,43485,50,729,2,40,821
+2013,236948,University of Washington-Seattle Campus,43762,82,880,6,40,1008
+2014,236948,University of Washington-Seattle Campus,44784,73,738,6,40,857
+2001,237011,Western Washington University,12409,17,803,0,4,824
+2002,237011,Western Washington University,13865,13,694,0,4,711
+2003,237011,Western Washington University,13845,19,830,0,4,853
+2004,237011,Western Washington University,14190,23,622,0,4,649
+2005,237011,Western Washington University,14247,20,608,0,4,632
+2006,237011,Western Washington University,14035,39,557,0,4,600
+2007,237011,Western Washington University,14276,18,760,0,4,782
+2008,237011,Western Washington University,14620,25,671,0,4,700
+2009,237011,Western Washington University,14575,24,473,0,4,501
+2010,237011,Western Washington University,14979,19,325,0,4,348
+2011,237011,Western Washington University,14842,24,418,0,4,446
+2012,237011,Western Washington University,14833,15,617,0,4,636
+2013,237011,Western Washington University,14950,23,512,4,4,543
+2014,237011,Western Washington University,15060,14,623,6,4,647
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

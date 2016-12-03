@@ -1,0 +1,147 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2002,179894,Webster University,17249,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2001,219602,Austin Peay State University,7033,10,3,0,7,20
+2002,219602,Austin Peay State University,7482,9,0,1,7,17
+2003,219602,Austin Peay State University,7623,4,3,0,7,14
+2004,219602,Austin Peay State University,8650,10,0,0,7,17
+2005,219602,Austin Peay State University,8813,16,0,0,7,23
+2006,219602,Austin Peay State University,9207,11,0,0,7,18
+2007,219602,Austin Peay State University,9094,9,1,0,7,17
+2008,219602,Austin Peay State University,9401,29,3,0,7,39
+2009,219602,Austin Peay State University,10188,46,46,0,7,99
+2010,219602,Austin Peay State University,10723,55,64,0,7,126
+2011,219602,Austin Peay State University,10873,13,46,0,7,66
+2012,219602,Austin Peay State University,10597,22,90,0,7,119
+2013,219602,Austin Peay State University,10399,17,35,0,7,59
+2014,219602,Austin Peay State University,10111,17,39,0,7,63
+2001,220075,East Tennessee State University,11331,32,36,0,16,84
+2002,220075,East Tennessee State University,11365,44,0,0,16,60
+2003,220075,East Tennessee State University,11624,37,0,0,16,53
+2004,220075,East Tennessee State University,11869,23,0,0,16,39
+2005,220075,East Tennessee State University,11894,44,0,0,16,60
+2006,220075,East Tennessee State University,12390,45,0,0,16,61
+2007,220075,East Tennessee State University,13119,32,0,0,16,48
+2008,220075,East Tennessee State University,13646,30,0,0,16,46
+2009,220075,East Tennessee State University,14421,39,0,0,16,55
+2010,220075,East Tennessee State University,14952,36,7,0,16,59
+2011,220075,East Tennessee State University,15250,28,0,4,16,48
+2012,220075,East Tennessee State University,15133,26,96,0,16,138
+2013,220075,East Tennessee State University,14691,21,151,0,16,188
+2014,220075,East Tennessee State University,14434,10,110,0,16,136
+2001,220862,University of Memphis,20332,76,31,0,12,119
+2002,220862,University of Memphis,19797,82,69,0,12,163
+2003,220862,University of Memphis,19911,90,59,0,12,161
+2004,220862,University of Memphis,20668,66,52,0,12,130
+2005,220862,University of Memphis,20465,66,36,0,12,114
+2006,220862,University of Memphis,20562,74,42,0,12,128
+2007,220862,University of Memphis,20379,51,20,0,12,83
+2008,220862,University of Memphis,20220,51,17,0,12,80
+2009,220862,University of Memphis,21424,59,31,2,12,104
+2010,220862,University of Memphis,22420,54,36,0,12,102
+2011,220862,University of Memphis,22725,52,42,0,12,106
+2012,220862,University of Memphis,22139,52,38,0,12,102
+2013,220862,University of Memphis,21480,27,29,0,12,68
+2014,220862,University of Memphis,21059,50,22,0,12,84
+2001,220978,Middle Tennessee State University,20073,77,121,1,31,230
+2002,220978,Middle Tennessee State University,21163,55,156,1,31,243
+2003,220978,Middle Tennessee State University,21744,51,166,0,31,248
+2004,220978,Middle Tennessee State University,22322,44,136,0,31,211
+2005,220978,Middle Tennessee State University,22554,39,109,0,31,179
+2006,220978,Middle Tennessee State University,22863,65,205,0,31,301
+2007,220978,Middle Tennessee State University,23246,83,376,0,31,490
+2008,220978,Middle Tennessee State University,23872,79,206,0,31,316
+2009,220978,Middle Tennessee State University,25188,55,233,0,31,319
+2010,220978,Middle Tennessee State University,26430,84,138,10,31,263
+2011,220978,Middle Tennessee State University,26442,46,97,6,31,180
+2012,220978,Middle Tennessee State University,25394,48,154,8,31,241
+2013,220978,Middle Tennessee State University,23881,41,71,2,31,145
+2014,220978,Middle Tennessee State University,22729,31,120,2,31,184
+2001,221740,The University of Tennessee-Chattanooga,8485,74,137,0,1,212
+2002,221740,The University of Tennessee-Chattanooga,8524,97,145,0,1,243
+2003,221740,The University of Tennessee-Chattanooga,8557,66,108,0,1,175
+2004,221740,The University of Tennessee-Chattanooga,8689,59,120,0,1,180
+2005,221740,The University of Tennessee-Chattanooga,8656,100,187,0,1,288
+2006,221740,The University of Tennessee-Chattanooga,8923,91,306,0,1,398
+2007,221740,The University of Tennessee-Chattanooga,9558,74,104,0,1,179
+2008,221740,The University of Tennessee-Chattanooga,9807,46,231,0,1,278
+2009,221740,The University of Tennessee-Chattanooga,10526,31,153,0,1,185
+2010,221740,The University of Tennessee-Chattanooga,10781,25,167,0,1,193
+2011,221740,The University of Tennessee-Chattanooga,11438,19,533,0,1,553
+2012,221740,The University of Tennessee-Chattanooga,11660,27,281,0,1,309
+2013,221740,The University of Tennessee-Chattanooga,11674,32,347,0,1,380
+2014,221740,The University of Tennessee-Chattanooga,11670,20,591,0,1,612
+2001,221759,The University of Tennessee-Knoxville,26033,45,453,0,23,521
+2002,221759,The University of Tennessee-Knoxville,27971,64,380,0,23,467
+2003,221759,The University of Tennessee-Knoxville,27281,49,480,0,23,552
+2004,221759,The University of Tennessee-Knoxville,27792,52,527,0,23,602
+2005,221759,The University of Tennessee-Knoxville,28512,59,725,0,23,807
+2006,221759,The University of Tennessee-Knoxville,28901,47,686,0,23,756
+2007,221759,The University of Tennessee-Knoxville,29937,42,623,0,23,688
+2008,221759,The University of Tennessee-Knoxville,30410,35,686,0,23,744
+2009,221759,The University of Tennessee-Knoxville,29934,27,562,0,23,612
+2010,221759,The University of Tennessee-Knoxville,30300,35,592,6,23,656
+2011,221759,The University of Tennessee-Knoxville,30194,45,883,4,23,955
+2012,221759,The University of Tennessee-Knoxville,29833,71,829,2,23,925
+2013,221759,The University of Tennessee-Knoxville,30030,61,599,0,23,683
+2014,221759,The University of Tennessee-Knoxville,30386,44,658,0,23,725
+2001,221847,Tennessee Technological University,8653,13,16,0,7,36
+2002,221847,Tennessee Technological University,8890,50,31,0,7,88
+2003,221847,Tennessee Technological University,9107,54,33,0,7,94
+2004,221847,Tennessee Technological University,9217,63,46,0,7,116
+2005,221847,Tennessee Technological University,9313,16,20,0,7,43
+2006,221847,Tennessee Technological University,9733,8,16,0,7,31
+2007,221847,Tennessee Technological University,10321,20,19,0,7,46
+2008,221847,Tennessee Technological University,10793,12,8,0,7,27
+2009,221847,Tennessee Technological University,10847,20,14,0,7,41
+2010,221847,Tennessee Technological University,11538,29,11,0,7,47
+2011,221847,Tennessee Technological University,11768,20,27,0,7,54
+2012,221847,Tennessee Technological University,11469,22,28,0,7,57
+2013,221847,Tennessee Technological University,11118,26,47,6,7,86
+2014,221847,Tennessee Technological University,11339,22,34,0,7,63
+2001,221999,Vanderbilt University,10338,84,214,0,51,349
+2002,221999,Vanderbilt University,10712,120,173,0,51,344
+2003,221999,Vanderbilt University,11092,176,194,0,51,421
+2004,221999,Vanderbilt University,11294,154,313,0,51,518
+2005,221999,Vanderbilt University,11479,158,364,0,51,573
+2006,221999,Vanderbilt University,11607,134,335,0,51,520
+2007,221999,Vanderbilt University,11847,85,356,2,51,494
+2008,221999,Vanderbilt University,12093,57,228,0,51,336
+2009,221999,Vanderbilt University,12506,69,182,0,51,302
+2010,221999,Vanderbilt University,12714,37,282,2,51,372
+2011,221999,Vanderbilt University,12836,40,275,0,51,366
+2012,221999,Vanderbilt University,12710,38,460,0,51,549
+2013,221999,Vanderbilt University,12757,46,524,2,51,623
+2014,221999,Vanderbilt University,12686,44,552,2,51,649
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

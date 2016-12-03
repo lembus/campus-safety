@@ -1,0 +1,120 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,177065,Columbia College,8564,0,0,0,0,0
+2002,177065,Columbia College,8958,0,0,0,0,0
+2003,177065,Columbia College,10146,0,0,0,0,0
+2004,177065,Columbia College,11017,0,0,0,0,0
+2005,177065,Columbia College,11792,0,0,0,0,0
+2006,177065,Columbia College,12280,0,0,0,0,0
+2007,177065,Columbia College,12954,1,0,0,0,1
+2008,177065,Columbia College,14081,0,0,0,0,0
+2009,177065,Columbia College,15556,0,0,0,0,0
+2010,177065,Columbia College,16962,0,0,0,0,0
+2011,177065,Columbia College,18091,0,0,0,0,0
+2012,177065,Columbia College,17830,0,0,0,0,0
+2013,177065,Columbia College,16946,0,0,0,0,0
+2014,177065,Columbia College,16567,0,0,0,0,0
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0
+2001,230038,Brigham Young University-Provo,32771,21,0,0,11,32
+2002,230038,Brigham Young University-Provo,32408,20,1,0,11,32
+2003,230038,Brigham Young University-Provo,33008,14,0,0,11,25
+2004,230038,Brigham Young University-Provo,34347,22,0,0,11,33
+2005,230038,Brigham Young University-Provo,34067,39,1,0,11,51
+2006,230038,Brigham Young University-Provo,34185,44,3,0,11,58
+2007,230038,Brigham Young University-Provo,34174,24,0,0,11,35
+2008,230038,Brigham Young University-Provo,34244,41,2,0,11,54
+2009,230038,Brigham Young University-Provo,34130,23,0,0,11,34
+2010,230038,Brigham Young University-Provo,33841,21,1,0,11,33
+2011,230038,Brigham Young University-Provo,34101,18,0,2,11,31
+2012,230038,Brigham Young University-Provo,34409,22,3,0,11,36
+2013,230038,Brigham Young University-Provo,31123,3,0,0,11,14
+2014,230038,Brigham Young University-Provo,30484,21,0,4,11,36
+2001,230728,Utah State University,23001,38,4,0,8,50
+2002,230728,Utah State University,22848,18,0,0,8,26
+2003,230728,Utah State University,16460,22,0,0,8,30
+2004,230728,Utah State University,16130,22,0,0,8,30
+2005,230728,Utah State University,14458,20,0,0,8,28
+2006,230728,Utah State University,14444,14,0,0,8,22
+2007,230728,Utah State University,14893,14,0,0,8,22
+2008,230728,Utah State University,15099,37,0,0,8,45
+2009,230728,Utah State University,15612,10,0,0,8,18
+2010,230728,Utah State University,16472,8,0,0,8,16
+2011,230728,Utah State University,26757,16,0,0,8,24
+2012,230728,Utah State University,28786,17,14,0,8,39
+2013,230728,Utah State University,27812,7,9,0,8,24
+2014,230728,Utah State University,27662,18,31,2,8,59
+2001,230737,Utah Valley University,22609,4,0,0,12,16
+2002,230737,Utah Valley University,23609,2,0,0,12,14
+2003,230737,Utah Valley University,23803,8,0,0,12,20
+2004,230737,Utah Valley University,24149,3,0,0,12,15
+2005,230737,Utah Valley University,24180,3,0,0,12,15
+2006,230737,Utah Valley University,23305,4,13,0,12,29
+2007,230737,Utah Valley University,23840,6,0,0,12,18
+2008,230737,Utah Valley University,26696,2,2,0,12,16
+2009,230737,Utah Valley University,28765,16,0,0,12,28
+2010,230737,Utah Valley University,32670,0,1,0,12,13
+2011,230737,Utah Valley University,33395,15,0,0,12,27
+2012,230737,Utah Valley University,31562,8,1,0,12,21
+2013,230737,Utah Valley University,30564,4,2,0,12,18
+2014,230737,Utah Valley University,31332,2,5,0,12,19
+2001,230764,University of Utah,27668,36,6,0,23,65
+2002,230764,University of Utah,28369,68,0,0,23,91
+2003,230764,University of Utah,28436,25,0,0,23,48
+2004,230764,University of Utah,28933,28,130,0,23,181
+2005,230764,University of Utah,30558,44,223,0,23,290
+2006,230764,University of Utah,30511,8,233,0,23,264
+2007,230764,University of Utah,28025,30,186,0,23,239
+2008,230764,University of Utah,28211,33,200,0,23,256
+2009,230764,University of Utah,29284,39,200,0,23,262
+2010,230764,University of Utah,30819,41,247,2,23,313
+2011,230764,University of Utah,31660,98,364,4,23,489
+2012,230764,University of Utah,32388,99,305,2,23,429
+2013,230764,University of Utah,32077,210,366,2,23,601
+2014,230764,University of Utah,31515,140,379,10,23,552
+2001,230782,Weber State University,16873,24,0,0,7,31
+2002,230782,Weber State University,18059,32,0,0,7,39
+2003,230782,Weber State University,18821,20,0,0,7,27
+2004,230782,Weber State University,18498,21,0,0,7,28
+2005,230782,Weber State University,18142,24,0,0,7,31
+2006,230782,Weber State University,18303,29,0,0,7,36
+2007,230782,Weber State University,18081,26,2,0,7,35
+2008,230782,Weber State University,21388,32,0,0,7,39
+2009,230782,Weber State University,23001,16,0,0,7,23
+2010,230782,Weber State University,24048,17,0,0,7,24
+2011,230782,Weber State University,25301,13,0,0,7,20
+2012,230782,Weber State University,26532,9,0,0,7,16
+2013,230782,Weber State University,25155,14,0,0,7,21
+2014,230782,Weber State University,25954,8,73,0,7,88
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0
+2013,433387,Western Governors University,46733,0,0,0,0,0
+2014,433387,Western Governors University,57821,0,0,0,0,0
