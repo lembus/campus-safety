@@ -118,7 +118,7 @@ MapChart.prototype.init = function(){
     d3.select("#yearSlider").on("input", function() {
         self.year = +this.value;
         self.update(self.year);
-        new TypeChart(self.catSunburst);
+        //new TypeChart(self.catSunburst);
         self.typeChart.update(self.state,self.year,self.colorScale);
     });
 };
@@ -167,7 +167,7 @@ MapChart.prototype.drawMap = function() {
  */
 MapChart.prototype.update = function(year) {
     var self = this;
-    
+
     d3.csv("data/cumulativeData.csv", function (error, cumulativeData) {
         var max = d3.max(cumulativeData, function (d) {
             return d.totalRate
@@ -249,9 +249,8 @@ MapChart.prototype.update = function(year) {
                 d3.select(this)
                     .classed("selected",false);
                 self.state = '';
-                var typeChart = new TypeChart();
-                var typeChart = new TypeChart(self.catSunburst);
-                typeChart.update(self.state,self.year,self.colorScale);
+                //var typeChart = new TypeChart(self.catSunburst);
+                self.typeChart.update(self.state,self.year,self.colorScale);
 
                 //updateCharts();
                 //clearRectChart();
@@ -263,9 +262,9 @@ MapChart.prototype.update = function(year) {
                 //rectChart(d.id);
                 self.state = d.id;
 
-				var typeChart = new TypeChart();
-				var typeChart = new TypeChart(self.catSunburst);
-				typeChart.update(self.state,self.year,self.colorScale);
+                console.log(self.state)
+                //var typeChart = new TypeChart(self.catSunburst);
+                self.typeChart.update(self.state,self.year,self.colorScale);
 
                 var crimeChart = new CrimeChart();
                 crimeChart.update(d.id);
