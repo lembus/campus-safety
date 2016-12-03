@@ -5,7 +5,7 @@ var height;
 var width;
 var svgh;
 var svgw;
-var axismargin;
+var margint = 20, marginb = 150, marginl = 60, marginr = 20;
 var datah;
 var dataw;
 
@@ -19,7 +19,7 @@ function CrimeChart() {
 
 CrimeChart.prototype.init = function(){
 
-    var h = 0.45 * window.outerHeight;
+    var h = 0.5 * window.outerHeight;
     var self = this;
     self.divCrimeChart = d3.select("#lineCharts").classed("rightChart", true)
         .style('height',h +'px');
@@ -36,9 +36,8 @@ CrimeChart.prototype.init = function(){
         .attr("width", svgw)
         .attr("height", svgh);
 
-    axismargin = 60;
-    datah = svgh-2*axismargin;
-    dataw = svgw-2*axismargin;
+    datah = svgh-margint-marginb;
+    dataw = svgw-marginl-marginr;
 
 }
 
@@ -120,10 +119,10 @@ function createLineChart(state) {
 
 
     d3.selectAll("#yAxis").call(yAxis)
-        .attr("transform", "translate("+axismargin+","+axismargin+")");
+        .attr("transform", "translate("+marginl+","+margint+")");
 
     d3.selectAll("#xAxis").call(xAxis)
-        .attr("transform", "translate("+axismargin+","+(svgh-axismargin)+")")
+        .attr("transform", "translate("+marginl+","+(svgh-marginb)+")")
         .selectAll("text")
         .attr("dx", "1.6em")
         .attr("dy", ".3em")
@@ -134,8 +133,8 @@ function createLineChart(state) {
 
     var svg = d3.select("#line")
         .append("svg")
-        .attr("x", axismargin)
-        .attr("y", axismargin)
+        .attr("x", marginl)
+        .attr("y", margint)
         .attr("width", dataw)
         .attr("height", datah);
 
@@ -284,6 +283,8 @@ function createBarChart() {
     }
     //console.log(catName);
 
+    if (catName.length == 0) return;
+
     var nCat = new Array(catName.length);
 
     for (var i = 0; i < catName.length; i++) {
@@ -296,6 +297,11 @@ function createBarChart() {
         }
     }
 
+
+
+
+
+
     //console.log(nCat);
 
     var max = 0;
@@ -303,15 +309,26 @@ function createBarChart() {
         if (max < nCat[i]) max = nCat[i];
     }
 
+    var nonzero = 0;
+    for (var i = 0; i < nCat.length; i++) {
+        if (nCat[i] > 0.1*max) nonzero++;
+    }
+
+
     var spacing = [0];
 
+    for (var i = 0; i < nonzero; i++) {
+        spacing.push(dataw*(i+1)/nonzero);
+    }
+    /*
     for (var i = 0; i < catName.length; i++) {
         spacing.push(dataw*(i+1)/catName.length);
-    }
+    }*/
 
 
     d3.select("#barChart").select("#bar").selectAll("*").remove();
     var xScale = d3.scaleOrdinal();
+    /*
     if (catName.length < 50) {
         xScale.domain(catName)
             .range(spacing);
@@ -319,6 +336,10 @@ function createBarChart() {
         xScale.domain([])
             .range(spacing);
     }
+     */
+    xScale.domain([])
+        .range(spacing);
+
 
     var xAxis = d3.axisBottom().scale(xScale);
     var yScale = d3.scaleLinear()
@@ -328,30 +349,64 @@ function createBarChart() {
 
 
     d3.selectAll("#yAxis1").call(yAxis)
-        .attr("transform", "translate("+axismargin+","+axismargin+")");
+        .attr("transform", "translate("+marginl+","+margint+")");
 
     d3.selectAll("#xAxis1").call(xAxis)
-        .attr("transform", "translate("+axismargin+","+(svgh-axismargin)+")")
-        .selectAll("text")
-        .attr("dx", "1.6em")
-        .attr("dy", ".3em")
-        .attr("transform", "rotate(45)");
+        .attr("transform", "translate("+marginl+","+(svgh-marginb)+")");
+
+    var text = d3.selectAll("#text")
+        .attr("transform", "translate("+marginl+","+(svgh-marginb)+")");
+
 
     var svg = d3.select("#bar")
         .append("svg")
-        .attr("x", axismargin)
-        .attr("y", axismargin)
+        .attr("x", marginl)
+        .attr("y", margint)
         .attr("width", dataw)
         .attr("height", datah);
 
+
+    var tiparray = [];
     for (var i = 0; i < nCat.length; i++) {
+        var tipt = d3.tip().attr('class', 'd3-tip')
+            .direction('s')
+            .offset(function() {
+                return [0,0];
+            })
+            .html(catName[i]);
+        tiparray.push(tipt);
+    }
+
+
+
+    var j = 0;
+
+    for (var i = 0; i < nCat.length; i++) {
+        /*
         svg.append("rect")
             .attr("fill", "blue")
-            .attr("x", dataw*i/nCat.length)
+            .attr("x", dataw*(i+0.3)/nCat.length)
             .attr("y", datah-datah*nCat[i]/max)
-            .attr("width", dataw/nCat.length)
+            .attr("width", 0.4*dataw/nCat.length)
             .attr("height", datah*nCat[i]/max);
+            */
+        if (nCat[i] > 0.1*max) {
+            svg.append("rect")
+                .attr("fill", "blue")
+                .attr("x", dataw*(j+0.3)/nonzero)
+                .attr("y", datah-datah*nCat[i]/max)
+                .attr("width", 0.4*dataw/nonzero)
+                .attr("height", datah*nCat[i]/max)
+                .call(tiparray[i])
+                .on('mouseover', tiparray[i].show)
+                .on('mouseout', tiparray[i].hide);
+            j++;
+        }
     }
+
+
+
+
 
 
 
