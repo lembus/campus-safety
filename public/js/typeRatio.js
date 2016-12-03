@@ -170,6 +170,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 		circles.exit().remove();
 		var newCircles = circles.enter()
 			.append('circle')
+		        .style('cursor','pointer')
 			.attr('r', 1)
 			.attr('cx', 300)
 			.attr('cy', 0)
