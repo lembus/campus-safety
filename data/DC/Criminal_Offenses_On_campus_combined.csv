@@ -1,0 +1,140 @@
+Survey year,Unitid,Institution name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2001,110635,University of California-Berkeley,32128,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,110635,University of California-Berkeley,33145,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,110635,University of California-Berkeley,33065,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,110635,University of California-Berkeley,32803,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,110635,University of California-Berkeley,33547,0,0,1,0,0,0,0,0,0,0,0,0,0
+2006,110635,University of California-Berkeley,33920,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,110635,University of California-Berkeley,34940,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,110635,University of California-Berkeley,35396,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,110635,University of California-Berkeley,35830,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,110635,University of California-Berkeley,35833,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,110635,University of California-Berkeley,36137,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,110635,University of California-Berkeley,35893,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,110635,University of California-Berkeley,36198,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,110635,University of California-Berkeley,37565,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,131159,American University,10692,0,0,5,0,0,0,0,0,2,2,37,3,0
+2002,131159,American University,11052,0,0,6,0,0,0,0,0,1,2,17,2,0
+2003,131159,American University,10978,0,0,7,0,0,0,0,0,0,1,36,1,3
+2004,131159,American University,11192,0,0,5,0,0,0,0,0,3,0,40,2,0
+2005,131159,American University,11279,0,0,1,0,0,0,0,0,0,0,50,2,0
+2006,131159,American University,11378,0,0,2,0,0,0,0,0,1,4,18,0,0
+2007,131159,American University,11449,0,0,2,0,0,0,0,0,6,2,23,1,1
+2008,131159,American University,11684,0,0,0,0,0,0,0,0,0,3,50,1,5
+2009,131159,American University,12241,0,0,3,0,0,0,0,0,1,6,40,2,3
+2010,131159,American University,12795,0,0,1,0,0,0,0,0,0,2,17,3,0
+2011,131159,American University,12724,0,0,5,0,0,0,0,0,2,3,37,4,6
+2012,131159,American University,12904,0,0,7,0,0,0,0,0,0,0,27,0,5
+2013,131159,American University,12818,0,0,8,0,0,0,0,0,1,7,20,0,8
+2014,131159,American University,13061,0,0,0,12,9,0,0,0,0,7,8,1,4
+2001,131469,George Washington University,22184,0,0,12,0,0,0,0,0,2,2,66,1,0
+2002,131469,George Washington University,23019,0,0,6,0,0,0,0,0,2,0,74,1,0
+2003,131469,George Washington University,23417,0,0,3,0,0,1,0,0,1,3,110,2,5
+2004,131469,George Washington University,24092,0,0,5,0,0,0,0,0,3,2,109,0,4
+2005,131469,George Washington University,24099,0,0,10,0,0,0,0,0,0,9,119,2,0
+2006,131469,George Washington University,24531,0,0,2,0,0,0,0,0,0,4,134,0,0
+2007,131469,George Washington University,25078,0,0,5,0,0,0,0,0,1,0,157,3,1
+2008,131469,George Washington University,25116,0,0,7,0,0,2,0,0,4,7,131,3,1
+2009,131469,George Washington University,25061,0,0,9,0,0,0,0,0,3,2,108,1,0
+2010,131469,George Washington University,25135,0,0,11,0,0,0,0,0,4,0,74,0,2
+2011,131469,George Washington University,25260,0,0,16,0,0,0,0,0,1,4,45,2,1
+2012,131469,George Washington University,25653,0,0,10,0,0,0,0,0,1,3,18,4,1
+2013,131469,George Washington University,25264,0,0,14,0,0,0,0,0,1,3,38,1,1
+2014,131469,George Washington University,25613,0,0,0,24,12,0,0,0,1,1,11,1,0
+2001,131496,Georgetown University,12688,0,0,8,0,0,0,0,0,2,1,75,5,1
+2002,131496,Georgetown University,12856,0,0,9,0,0,0,0,0,0,1,31,2,0
+2003,131496,Georgetown University,13164,0,0,16,0,0,0,0,0,1,0,30,5,0
+2004,131496,Georgetown University,13233,0,0,18,0,0,0,0,0,0,0,42,4,1
+2005,131496,Georgetown University,13652,0,0,4,0,0,0,0,0,1,11,28,1,0
+2006,131496,Georgetown University,14148,0,0,5,0,0,0,0,0,1,0,32,0,0
+2007,131496,Georgetown University,14826,0,0,6,0,0,0,0,0,0,1,21,0,1
+2008,131496,Georgetown University,15318,0,0,9,0,0,0,0,0,0,3,14,0,0
+2009,131496,Georgetown University,16520,0,0,9,0,0,0,0,0,3,3,28,0,0
+2010,131496,Georgetown University,16937,0,0,8,0,0,0,0,0,2,2,40,1,0
+2011,131496,Georgetown University,17130,0,0,3,0,0,0,0,0,1,2,46,0,0
+2012,131496,Georgetown University,17357,0,0,4,0,0,0,0,0,2,9,60,0,1
+2013,131496,Georgetown University,17849,0,0,6,0,0,0,0,0,2,3,50,1,0
+2014,131496,Georgetown University,17858,0,0,0,12,4,0,0,0,1,2,43,3,0
+2001,131520,Howard University,11004,0,0,6,0,0,0,0,0,14,24,92,19,0
+2002,131520,Howard University,10517,0,0,3,0,0,0,0,0,7,24,73,24,0
+2003,131520,Howard University,10658,0,0,0,0,0,0,0,0,7,22,35,9,0
+2004,131520,Howard University,10623,0,0,1,0,0,0,0,0,1,7,46,0,0
+2005,131520,Howard University,10930,0,0,2,0,0,0,0,0,8,4,31,24,0
+2006,131520,Howard University,10771,0,0,2,0,0,0,0,0,14,6,51,15,0
+2007,131520,Howard University,10125,0,0,1,0,0,0,0,0,11,8,50,12,0
+2008,131520,Howard University,10320,0,0,1,0,0,0,0,0,28,5,49,7,0
+2009,131520,Howard University,10573,0,0,4,0,0,0,0,0,27,1,37,10,0
+2010,131520,Howard University,10379,0,0,7,0,0,0,0,0,9,6,16,5,0
+2011,131520,Howard University,10583,0,0,3,0,0,0,0,0,7,7,17,4,0
+2012,131520,Howard University,10002,0,0,6,0,0,0,0,0,26,8,18,11,0
+2013,131520,Howard University,10297,0,0,7,0,0,0,0,0,16,11,5,5,0
+2014,131520,Howard University,10265,0,0,0,6,3,0,0,0,7,3,12,4,0
+2006,147767,Northwestern University,18486,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,147767,Northwestern University,19005,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,147767,Northwestern University,19291,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,147767,Northwestern University,19853,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,147767,Northwestern University,20481,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,147767,Northwestern University,20959,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,147767,Northwestern University,21215,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,147767,Northwestern University,21592,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,147767,Northwestern University,21554,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,162928,Johns Hopkins University,17826,0,0,0,0,0,0,0,0,1,0,0,0,0
+2002,162928,Johns Hopkins University,17989,0,0,0,0,0,0,0,0,0,0,3,0,0
+2003,162928,Johns Hopkins University,18820,0,0,0,0,0,0,0,0,0,2,0,0,0
+2004,162928,Johns Hopkins University,18626,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,162928,Johns Hopkins University,19225,0,0,0,0,0,0,0,0,0,0,1,0,0
+2006,162928,Johns Hopkins University,19708,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,162928,Johns Hopkins University,19682,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,162928,Johns Hopkins University,19758,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,162928,Johns Hopkins University,20383,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,162928,Johns Hopkins University,20977,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,162928,Johns Hopkins University,20996,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,162928,Johns Hopkins University,20871,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,162928,Johns Hopkins University,20918,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,162928,Johns Hopkins University,21372,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,163204,University of Maryland-University College,47906,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,179894,Webster University,18740,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,193900,New York University,44599,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,193900,New York University,49274,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,196413,Syracuse University,21029,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,196413,Syracuse University,21267,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,196413,Syracuse University,21492,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,230038,Brigham Young University-Provo,32771,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,230038,Brigham Young University-Provo,32408,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,230038,Brigham Young University-Provo,33008,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,230038,Brigham Young University-Provo,34347,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,230038,Brigham Young University-Provo,34067,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,230038,Brigham Young University-Provo,34185,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,230038,Brigham Young University-Provo,34174,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,230038,Brigham Young University-Provo,34244,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,230038,Brigham Young University-Provo,34130,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,230038,Brigham Young University-Provo,33841,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,230038,Brigham Young University-Provo,34101,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,230038,Brigham Young University-Provo,34409,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,230038,Brigham Young University-Provo,31123,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,230038,Brigham Young University-Provo,30484,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,243744,Stanford University,18591,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,243744,Stanford University,18297,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,243744,Stanford University,17824,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,243744,Stanford University,18836,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,243744,Stanford University,19042,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,243744,Stanford University,17747,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,243744,Stanford University,19782,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,243744,Stanford University,17833,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,243744,Stanford University,18498,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,243744,Stanford University,19535,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,243744,Stanford University,19945,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,243744,Stanford University,18519,0,0,0,0,0,0,0,0,0,0,3,0,0
+2013,243744,Stanford University,18346,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,243744,Stanford University,16963,0,0,0,0,0,0,0,0,0,0,0,0,0

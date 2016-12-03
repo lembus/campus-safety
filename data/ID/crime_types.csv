@@ -1,0 +1,78 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,142115,Boise State University,17100,30,127,0,19,176
+2002,142115,Boise State University,17637,44,158,0,19,221
+2003,142115,Boise State University,18332,50,42,0,19,111
+2004,142115,Boise State University,18332,40,54,0,19,113
+2005,142115,Boise State University,18385,31,0,0,19,50
+2006,142115,Boise State University,18829,26,61,0,19,106
+2007,142115,Boise State University,19540,28,184,0,19,231
+2008,142115,Boise State University,19667,16,173,0,19,208
+2009,142115,Boise State University,18933,16,210,0,19,245
+2010,142115,Boise State University,19992,10,233,0,19,262
+2011,142115,Boise State University,19664,15,543,0,19,577
+2012,142115,Boise State University,22344,30,470,0,19,519
+2013,142115,Boise State University,21981,29,454,0,19,502
+2014,142115,Boise State University,22227,16,524,2,19,561
+2001,142276,Idaho State University,13663,13,31,0,5,49
+2002,142276,Idaho State University,13350,4,71,0,5,80
+2003,142276,Idaho State University,13621,5,37,0,5,47
+2004,142276,Idaho State University,13802,5,36,0,5,46
+2005,142276,Idaho State University,13977,9,18,0,5,32
+2006,142276,Idaho State University,12679,6,24,0,5,35
+2007,142276,Idaho State University,13208,6,42,0,5,53
+2008,142276,Idaho State University,12653,7,38,0,5,50
+2009,142276,Idaho State University,13493,5,48,0,5,58
+2010,142276,Idaho State University,12543,11,65,0,5,81
+2011,142276,Idaho State University,12418,13,76,0,5,94
+2012,142276,Idaho State University,13852,7,44,0,5,56
+2013,142276,Idaho State University,13326,12,45,0,5,62
+2014,142276,Idaho State University,13429,4,67,0,5,76
+2001,142285,University of Idaho,12067,15,37,0,4,56
+2002,142285,University of Idaho,12424,5,26,0,4,35
+2003,142285,University of Idaho,12895,3,93,0,4,100
+2004,142285,University of Idaho,12824,10,131,0,4,145
+2005,142285,University of Idaho,12476,9,78,0,4,91
+2006,142285,University of Idaho,11739,9,92,0,4,105
+2007,142285,University of Idaho,11636,16,100,0,4,120
+2008,142285,University of Idaho,11791,6,60,0,4,70
+2009,142285,University of Idaho,11957,10,90,6,4,110
+2010,142285,University of Idaho,12302,23,80,2,4,109
+2011,142285,University of Idaho,12312,32,166,6,4,208
+2012,142285,University of Idaho,12420,16,257,0,4,277
+2013,142285,University of Idaho,12024,14,148,0,4,166
+2014,142285,University of Idaho,11702,11,171,0,4,186
+2001,142522,Brigham Young University-Idaho,9200,5,25,0,2,32
+2002,142522,Brigham Young University-Idaho,10701,6,19,0,2,27
+2003,142522,Brigham Young University-Idaho,11136,4,13,0,2,19
+2004,142522,Brigham Young University-Idaho,11555,5,22,0,2,29
+2005,142522,Brigham Young University-Idaho,13047,10,0,0,2,12
+2006,142522,Brigham Young University-Idaho,14116,4,3,0,2,9
+2007,142522,Brigham Young University-Idaho,13824,6,0,0,2,8
+2008,142522,Brigham Young University-Idaho,14276,4,0,0,2,6
+2009,142522,Brigham Young University-Idaho,14944,2,0,0,2,4
+2010,142522,Brigham Young University-Idaho,14933,2,2,0,2,6
+2011,142522,Brigham Young University-Idaho,18110,4,0,0,2,6
+2012,142522,Brigham Young University-Idaho,23261,0,7,0,2,9
+2013,142522,Brigham Young University-Idaho,27692,13,5,0,2,20
+2014,142522,Brigham Young University-Idaho,36624,2,40,0,2,44
+2001,178721,Park University,9482,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0
