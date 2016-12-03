@@ -1,0 +1,143 @@
+
+
+body {
+    font-family: Lato;
+}
+
+h1 {
+    font-family: "Arvo";
+    font-size:35px;
+    color: #464646;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+}
+
+#map {
+    stroke: lightgray;
+}
+
+
+h2{
+    -webkit-margin-before: 5px;
+    -webkit-margin-after:  5px;
+}
+
+.highlighted{
+    fill: yellow;
+}
+
+.uniCircle{
+}
+
+.uniCircle:hover{
+    fill: #8B0000;
+    stroke: #8B0000;
+    stroke-width:2;
+}
+
+.typetext{
+    text-anchor:middle;
+    font-size: 15px;
+    fill: #565656;
+    stroke-width: 0.1px;
+    /*stroke: #e5e5e5;*/
+}
+
+.selected {
+    fill: lightblue;
+}
+
+.d3-tip {
+     position: absolute;
+     text-align: left;
+     padding: 20px;
+     margin: 10px;
+     font: 12px sans-serif;
+     background: lightsteelblue;
+     border: 1px;
+     border-radius: 2px;
+     pointer-events: none;
+ }
+.d3-tip h4{
+    margin:0;
+    font-size:14px;
+}
+.d3-tip {
+    background:rgba(0,0,0,0.9);
+    border:1px solid grey;
+    border-radius:5px;
+    font-size:12px;
+    width:auto;
+    padding:4px;
+    color:white;
+    opacity:0;
+}
+.d3-tip table{
+    table-layout:fixed;
+}
+.d3-tip tr td{
+    padding:0;
+    margin:0;
+}
+.d3-tip tr td:nth-child(1){
+    width:100px;
+}
+.d3-tip tr td:nth-child(2){
+    text-align:left;
+}
+
+.timeline-wrapper {
+    font-size: 12px;
+    color: black;
+    padding: 0 15px;
+}
+
+#yearSlider {
+    padding: 0 8px;
+}
+
+.leftChart {
+    display: inline-block;
+    width: 50%;
+}
+
+.rightChart {
+    display: inline-block;
+    width: 50%;
+    float:right;
+}
+
+.wholeChart {
+    display: inline-block;
+	padding-left: 3%;
+    width: 94%;
+}
+
+.brush {
+    fill-opacity: .5;
+}
+
+.uniName {
+    text-align: left;
+    border-left: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead, td {
+    text-align: left;
+    padding: 8px;
+}
+
+#compare-chart tbody tr:nth-child(even){background-color:  #d0d3d4}
+#compare-chart tbody tr:nth-child(odd){background-color:   #b3b6b7}
+ 
+thead {
+    background-color: #3e2622;
+    color: white;
+	font-weight: bold;
+}
+
