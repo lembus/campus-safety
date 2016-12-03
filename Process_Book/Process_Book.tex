@@ -214,9 +214,18 @@ But there is only one problem with the third design (\cref{fig:p2-overall}), whi
 \subsection{Issues and critiques}
 According to the feedback and critiques we received from our peers and our assigned TA (Yogesh Mishra) there were some issues with our initial designs. Since there may be a lot of  universities in some states like California, the line plot for showing them in \cref{fig:p1-3} may not be a good option to do that. Therefore, we decided to use our third prototype described in \cref{sec:prot3}. But we use it for a selected state here instead of all the universities in US. This will make the universities more distinct.
 
-There was also a suggestion to combine our stack bar charts into one layered donut chart. This can be inspired by the visualization shown at ``https://www.jasondavies.com/coffee-wheel/". In this way we can see the ratio of all the categories at once. We will also get better transitions when selecting one category.  
+There was also a suggestion to combine our stack bar charts into one layered donut chart. This can be inspired by the visualization shown at ``https://www.jasondavies.com/coffee-wheel/". In this way we can see the ratio of all the categories at once. We will also get better transitions when selecting one category. There was also a suggestion to combine our stack bar charts into one layered donut chart. This can be inspired by the visualization shown at ``https://www.jasondavies.com/coffee-wheel/". In this way we can see the ratio of all the categories at once. We will also get better transitions when selecting one category. \Cref{fig:SBchartEx} shows a snapshot of this visualization. The real visualization is interactive and suitable for categorical datasets.
+
+\begin{figure}[tbph]
+   \centering{}
+	       \includegraphics[width=4in]{sunburst-ex}           
+\caption{A sample of sunburst tree used as inspiration for showing crime types and categories.}
+\label{fig:SBchartEx}
+\end{figure}
 
 We also decided to include a line for All of the crimes combined together on the line chart beside the map as you can see in \cref{fig:p1-overall}.
+
+Another issue that we thought of was for comparing universities. Previously we wanted to do that using two search boxes. But, only two search boxes for a large number of universities and comparing only two of them is so limited. Therefore, we decided to compare several universities in a table. For selection of the universities, we used a brush selection in the scatter plot of the universities similar to the plot in \cref{fig:prot3}. In this way we can choose several universities simultaneously for comparison. We can also see the crime rate of the selected universities in more detail.
 
 
 \section{Implementation}
@@ -228,7 +237,21 @@ By choosing a state in the map, the institutes in that state would be displayed 
 
 \section{Evaluation}
 
+By working on this dataset, we found that the data records for the crimes in US universities is sparse and their data collection has not been done all years for all universities. As we go back later in time the amount of data reduces, which is expected. 
 
+Using this visualization we could answer all of our question regarding the safety in US universities. For example in 2014 Utah, Wyoming and Mississippi has been among the safest states with lowest crime to school size ratio, Utah has stayed among the safest states for all these years from 2001-2014. We also found that the Vermont was always the unsafest state. But we only had one big campus in Vermont which had about 128000 students and 1081 crimes in 2014. But there are other Universities in other states with higher crime ratio. The state ratio may get small because of some universities with low crime rate. For example West Virginia University had about 0.6 crime to number of student which is so high. 
+
+For someone trying to find a safe school in California, it is useful to know that the University of California-San Diego had the highest number of crimes in 2014. This is while Carnegie Mellon did not have any recorded crime for that year .
+
+By looking at the scatter plot of the schools in a few states over the years, we will find out that the most of the crimes are related to disciplinary actions or criminal offenses. Universities with high hate crime numbers or violation against women are rare, which is fortunate. But there are still some outliers like several universities in Florida.
+
+It can also slightly interpret from the scatter plots that the number of violence against women has decreased in time. 
+
+The other thing we can find is that what kind of crime a specific school has the most. For example, most of the crime in University of Utah is related to disciplinary actions, which are mostly drug and liquor related violations. 
+
+We can also see the trend of crime at different states. As instance, in Florida criminal offenses number has decreased in time while disciplinary actions number has increased from 2001-2014. Generally, the number of crimes has increased in Florida during this period. The number of crime in almost all the states has been increasing, but they have also got bigger in size, so slight increases should not worry us. However, there has been a period in around 2007 that Nevada has experienced a good reduction in the number of campus crimes.
+
+This visualization can also be useful for social researchers, who are looking for the roots of the problems related to campus crimes in different geographical locations.
 
  
 

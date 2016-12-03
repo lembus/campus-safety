@@ -222,15 +222,7 @@ MapChart.prototype.update = function(year) {
         var thisYearData = cumulativeData.filter(filterByYear);
 
         var map = d3.select("#map")
-            .selectAll("path")
-            .attr('fill', function (d) {
-                function findState(yearData) {
-                    return yearData.state == d.id;
-                }
-                var state=thisYearData.find(findState);
-                return (self.colorScale(state.totalRate));
-
-            });
+            .selectAll("path");
 
         map.call(tip);
         map.on("mouseover", function (d) {
@@ -272,6 +264,18 @@ MapChart.prototype.update = function(year) {
             crimeChart.update(d.id);
 
         });
+
+        map.transition()
+            .duration(500)
+            .attr('fill', function (d) {
+                function findState(yearData) {
+                    return yearData.state == d.id;
+                }
+                var state=thisYearData.find(findState);
+                return (self.colorScale(state.totalRate));
+
+            });
+
 
 
     });
