@@ -25,12 +25,14 @@ CompareChart.prototype.init = function(){
 	$("#uni-table").remove();
 
 	var width = 0.90 * window.outerWidth;
+	cellWidth = width/20
     var height = 0.80 * window.innerWidth;
 
     var compareChart = d3.select("#compare-chart")
 		.attr('width',width)
-		.style('padding-left',0.05 * window.outerWidth)
-		.style('padding-left',20)
+		.style('padding-left',0.05 * window.outerWidth + 'px')
+		.style('padding-top','40px')
+		.style('padding-bottom','40px')
         //.classed("wholeChart",true);
 
 	
