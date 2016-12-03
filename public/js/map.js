@@ -262,7 +262,6 @@ MapChart.prototype.update = function(year) {
                 //rectChart(d.id);
                 self.state = d.id;
 
-                console.log(self.state)
                 //var typeChart = new TypeChart(self.catSunburst);
                 self.typeChart.update(self.state,self.year,self.colorScale);
 

@@ -39,14 +39,18 @@ TypeChart.prototype.init = function(){
 		.attr('style',"border: 3px solid black; display: block; margin: auto;")
 		.attr('id','uni-svg');
 	self.selectedUni = '';
+	self.selectedState = '';
 };
 
 TypeChart.prototype.update = function(state,year,colorScale){
 	var uYear = year;
-	console.log('state: ' + state + 'year: ' + uYear)
 	$("#uni-table").remove();
 	d3.select("#rect-chart").select('#uni-svg').select('recr').select('selection').attr('width',0).attr('height',0);
 	var self = this;
+	if (self.selectedState != state) {
+		self.selectedUni = '';
+	}
+	self.selectedState = state;
 	self.catSunburst.update(state,year,self.selectedUni)
 
 	if(state=='') {
