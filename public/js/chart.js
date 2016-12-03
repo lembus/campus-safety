@@ -24,7 +24,7 @@ CrimeChart.prototype.init = function(){
     self.divCrimeChart = d3.select("#lineCharts").classed("rightChart", true)
         .style('height',h +'px');
     var dimension = d3.select("#lineCharts").node().getBoundingClientRect();
-    console.log(dimension);
+    //console.log(dimension);
 
 
     svgh = dimension.height;
@@ -150,7 +150,7 @@ function createLineChart(state) {
                 else if (j == 3) return "blue";
                 else if (j == 4) return "red";
             })
-            .attr("stroke-width", 3)
+            .attr("stroke-width", 5)
             .attr("d", function () {
                 var str = "M ";
                 for (var i = 0; i < 14; i++) {
@@ -169,34 +169,105 @@ function createLineChart(state) {
             .attr("id", "line" + j);
     }
 
-    d3.select("#line1")
+    var tip0 = d3.tip().attr('class', 'd3-tip')
+        .direction('s')
+        .offset(function() {
+            return [0,0];
+        })
+        .html("Total");
+    var line0 = d3.select("#line0");
+    line0.call(tip0);
+    line0.on("mouseover", function () {
+        tip0.show();
+    })
+        .on("mouseout",function(){
+            tip0.hide();
+        });
+
+    var tip1 = d3.tip().attr('class', 'd3-tip')
+        .direction('s')
+        .offset(function() {
+            return [0,0];
+        })
+        .html("Criminal Offenses");
+    var line1 = d3.select("#line1");
+    line1.call(tip1);
+    line1.on("mouseover", function () {
+        tip1.show();
+    })
+        .on("mouseout",function(){
+            tip1.hide();
+        })
         .on("click", function () {
             d3.csv("data/" + state + "/Criminal_Offenses_On_campus_combined.csv", function (error, csv) {
                 crime_cat = csv;
                 createBarChart();
             })
         });
-    d3.select("#line2")
+
+    var tip2 = d3.tip().attr('class', 'd3-tip')
+        .direction('s')
+        .offset(function() {
+            return [0,0];
+        })
+        .html("Disciplinary Actions");
+    var line2 = d3.select("#line2");
+    line2.call(tip2);
+    line2.on("mouseover", function () {
+        tip2.show();
+    })
+        .on("mouseout",function(){
+            tip2.hide();
+        })
         .on("click", function () {
             d3.csv("data/" + state + "/Disciplinary_Actions_On_campus_combined.csv", function (error, csv) {
                 crime_cat = csv;
                 createBarChart();
             })
         });
-    d3.select("#line3")
+
+    var tip3 = d3.tip().attr('class', 'd3-tip')
+        .direction('s')
+        .offset(function() {
+            return [0,0];
+        })
+        .html("Hate Crimes");
+    var line3 = d3.select("#line3");
+    line3.call(tip3);
+    line3.on("mouseover", function () {
+        tip3.show();
+    })
+        .on("mouseout",function(){
+            tip3.hide();
+        })
         .on("click", function () {
             d3.csv("data/" + state + "/Hate_Crimes_On_campus_combined.csv", function (error, csv) {
                 crime_cat = csv;
                 createBarChart();
             })
         });
-    d3.select("#line4")
+
+    var tip4 = d3.tip().attr('class', 'd3-tip')
+        .direction('s')
+        .offset(function() {
+            return [0,0];
+        })
+        .html("VAWA Offenses");
+    var line4 = d3.select("#line4");
+    line4.call(tip4);
+    line4.on("mouseover", function () {
+        tip4.show();
+    })
+        .on("mouseout",function(){
+            tip4.hide();
+        })
         .on("click", function () {
             d3.csv("data/" + state + "/VAWA_Offenses_On_campus_combined.csv", function (error, csv) {
                 crime_cat = csv;
                 createBarChart();
             })
         });
+
 
 }
 
@@ -241,7 +312,7 @@ function createBarChart() {
 
     d3.select("#barChart").select("#bar").selectAll("*").remove();
     var xScale = d3.scaleOrdinal();
-    if (catName.length < 5) {
+    if (catName.length < 50) {
         xScale.domain(catName)
             .range(spacing);
     } else {
