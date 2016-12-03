@@ -21,6 +21,41 @@
 
 <h1>US Campuses Crime Records from 2001 to 2014</h1>
 <p class="info">Collaborators: Amir Biglari; E-Mail: amir.biglari@utah.edu; UID: U0613845. Mohsen Abbasi; E-Mail: m.abbasi@utah.edu; UID: U1011952. Waiming Tai; E-Mail: u1008421@utah.edu; UID: U1008421</p>
+<p>This project is the visualization of "The Campus Safety and Security"
+
+    data set. It consists of the statistics for different types of criminal
+
+    activities at postsecondary institutions in the United States between 2001
+
+    and 2014. The crimes covered in the data set are categorized into
+
+    criminal offenses such as theft, disciplinary actions such as drug
+
+    violations, hate crimes, VAWA offenses and others.<br/>
+
+
+    The first view of this visualization is the map of United states. This map shows the ratio of the number of crimes
+    in each state to the number of its students, by using a gradient color scale. By hovering over each state you'll see
+    a tool tip containing general information about that specific state like number of students and number of crimes.
+    Also the slider below the map can change the results on the map with respect to a desired year.<br/>
+
+    If you choose a state the first thing that you'll see is this line chart that shows the trend of number of different
+    crime types from 2001-2014 alongside of the total number of crimes. By hovering over the lines you can see their crime
+    type. If you select a line, you will see a barchart showing different categories of that crime type.<br/>
+
+    The second chart which gets updated after selecting a state is the ratio scatter plot. In this chart, each corner
+    represents one of the four crime types. And as a crime type has a larger role in the total number of crimes in an institute, the said institute would be
+    placed closer to the corresponding corner.<br/>
+
+    By clicking on one of the circles on the ratio chart, the SunBurstTree chart would pop up displaying the full crime
+    statistics for the university which has been selected. The first layer
+    represents the crime types and the second one represents the categories in each type. by hovering over different
+    pieces you can see the name and number of them. Also, by clicking on a specific type of crime, the chart gets updated.<br/>
+
+    The last thing we have in this visualization is universities comparison. By brushing a set of universities on the
+    scatter plot, the comparison table gets updated. This table can be sorted with respect to different attributes as
+    well for easier and more understandable comparisons.</p>
+	
 <div id="mapArea" class="view">
     <svg></svg>
 </div>
