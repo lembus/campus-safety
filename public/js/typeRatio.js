@@ -141,8 +141,8 @@ TypeChart.prototype.update = function(state,year,colorScale){
 		})
 
 		var colorScale = d3.scaleLinear()
-			.domain([0,maxCrime])
-			.range(["white", "darkred"]);
+			.domain([0,maxRatio])
+			.range(["#d98880 ", "#7b241c"]);
 
 		//total crimes by year
 		/*
@@ -207,10 +207,10 @@ TypeChart.prototype.update = function(state,year,colorScale){
 				return d['Institution name'];
 			})
 			.attr('fill',function(d){
-				return colorScale(d.total)
+				return colorScale(d.total/d["Institution Size"])
 			})
 			.attr('class','uniCircle')
-			.style('opacity',0.8);
+			.style('opacity',0.7);
 		circles
 			.on('click', function(d) {
 				self.selectedUni = d['Institution name'];
@@ -228,10 +228,15 @@ TypeChart.prototype.update = function(state,year,colorScale){
 			var interval = d3.event.selection;
 			var x1 = interval[0]
 			var x2 = interval[1]
-
 			selected = combinedYears.filter(function(d){
-				dx = ratioChartScale((parseFloat(d['DA']) + parseFloat(d['HC']))/(parseFloat(d['CO'])+parseFloat(d['VW'])+parseFloat(d['HC'])+parseFloat(d['DA'])))
-				dy = ratioChartScale((parseFloat(d['DA']) + parseFloat(d['VW']))/(parseFloat(d['CO'])+parseFloat(d['VW'])+parseFloat(d['HC'])+parseFloat(d['DA'])))
+				if (d.total != 0){
+					dx = ratioChartScale((parseFloat(d['DA']) + parseFloat(d['HC']))/(parseFloat(d['CO'])+parseFloat(d['VW'])+parseFloat(d['HC'])+parseFloat(d['DA'])))
+					dy = ratioChartScale((parseFloat(d['DA']) + parseFloat(d['VW']))/(parseFloat(d['CO'])+parseFloat(d['VW'])+parseFloat(d['HC'])+parseFloat(d['DA'])))
+				}
+				else{
+					dx = ratioChartScale(0.5);
+					dy = dx;
+				}
 				return ((x1[0] <= dx && dx <= x2[0])&&(x1[1] <= dy && dy <= x2[1]))
 			});
 			var compareChart = new CompareChart();

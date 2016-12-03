@@ -1,13 +1,13 @@
 var crime_type;
 var crime_cat;
 
-var height = 800;
-var width = 400;
-var svgh = height/2;
-var svgw = width;
-var axismargin = 50;
-var datah = svgh-2*axismargin;
-var dataw = svgw-2*axismargin;
+var height;
+var width;
+var svgh;
+var svgw;
+var axismargin;
+var datah;
+var dataw;
 
 var curstate = "none";
 
@@ -18,16 +18,27 @@ function CrimeChart() {
 };
 
 CrimeChart.prototype.init = function(){
+
+    var h = 0.45 * window.outerHeight;
     var self = this;
     self.divCrimeChart = d3.select("#lineCharts").classed("rightChart", true)
-        .style('height',height +'px')
-        .style('width', width+'px');
+        .style('height',h +'px');
+    var dimension = d3.select("#lineCharts").node().getBoundingClientRect();
+    console.log(dimension);
+
+
+    svgh = dimension.height;
+    svgw = dimension.width*0.45;
     d3.select("#lineChart")
         .attr("width", svgw)
         .attr("height", svgh);
     d3.select("#barChart")
         .attr("width", svgw)
         .attr("height", svgh);
+
+    axismargin = 60;
+    datah = svgh-2*axismargin;
+    dataw = svgw-2*axismargin;
 
 }
 
@@ -94,6 +105,10 @@ function createLineChart(state) {
 
     d3.select("#lineChart").select("#line").selectAll("*").remove();
 
+    var legend = d3.select("#legend")
+        .append();
+
+
     var xScale = d3.scaleLinear()
         .domain([2001, 2014])
         .range([0,dataw]);
@@ -110,9 +125,9 @@ function createLineChart(state) {
     d3.selectAll("#xAxis").call(xAxis)
         .attr("transform", "translate("+axismargin+","+(svgh-axismargin)+")")
         .selectAll("text")
-        .attr("dx", "-2em")
-        .attr("dy", "-.5em")
-        .attr("transform", "rotate(270)");
+        .attr("dx", "1.6em")
+        .attr("dy", ".3em")
+        .attr("transform", "rotate(45)");
 
 
 
@@ -133,7 +148,7 @@ function createLineChart(state) {
                 else if (j == 1) return "orange";
                 else if (j == 2) return "green";
                 else if (j == 3) return "blue";
-                else return "red";
+                else if (j == 4) return "red";
             })
             .attr("stroke-width", 3)
             .attr("d", function () {
@@ -145,7 +160,7 @@ function createLineChart(state) {
                     else if (j == 1) str += (datah - co[i] * datah / max);
                     else if (j == 2) str += (datah - da[i] * datah / max);
                     else if (j == 3) str += (datah - hc[i] * datah / max);
-                    else return str += (datah - vw[i] * datah / max);
+                    else if (j == 4) str += (datah - vw[i] * datah / max);
                     str += " ";
                     if (i != 13) str += "L ";
                 }
@@ -225,9 +240,15 @@ function createBarChart() {
 
 
     d3.select("#barChart").select("#bar").selectAll("*").remove();
-    var xScale = d3.scaleOrdinal()
-        .domain(catName)
-        .range(spacing);
+    var xScale = d3.scaleOrdinal();
+    if (catName.length < 5) {
+        xScale.domain(catName)
+            .range(spacing);
+    } else {
+        xScale.domain([])
+            .range(spacing);
+    }
+
     var xAxis = d3.axisBottom().scale(xScale);
     var yScale = d3.scaleLinear()
         .domain([max, 0])
@@ -239,11 +260,11 @@ function createBarChart() {
         .attr("transform", "translate("+axismargin+","+axismargin+")");
 
     d3.selectAll("#xAxis1").call(xAxis)
-        .attr("transform", "translate("+axismargin+","+(svgw-axismargin)+")")
+        .attr("transform", "translate("+axismargin+","+(svgh-axismargin)+")")
         .selectAll("text")
-        .attr("dx", "-2em")
-        .attr("dy", "0.5em")
-        .attr("transform", "rotate(270)");
+        .attr("dx", "1.6em")
+        .attr("dy", ".3em")
+        .attr("transform", "rotate(45)");
 
     var svg = d3.select("#bar")
         .append("svg")
