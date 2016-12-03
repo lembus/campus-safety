@@ -241,8 +241,32 @@ By choosing a state on the map, two new charts would get updated. The first one 
 \label{fig:charts}
 \end{figure}
 
-the institutes in that state would be displayed on a rectangular ratio chart, each being represented by a circle. In this chart, each corner represents one of the four types of crimes. And as a crime type has a larger role in the total number of crimes in an institute, the said institute would be placed closer to the corresponding corner. In this chart the size of each university is displayed via the size of its circle. Also, color saturation is used to display the ratio of number of crimes in each institute to its number of students.
+The second chart which get updated after selecting s state is the ratio Chart. The institutes in the selected state would be displayed on a rectangular chart, each being represented by a circle. In this chart, each corner represents one of the four types of crimes. And as a crime type has a larger role in the total number of crimes in an institute, the said institute would be placed closer to the corresponding corner. In this chart the size of each university is displayed via the size of its circle. Also, color saturation is used to display the ratio of number of crimes in each institute to its number of students. An example could be seen in \cref{fig:ratio}.
 
+\begin{figure}[H]
+   \centering{}
+	       \includegraphics[width=4in]{ratio.PNG}           
+\caption{}
+\label{fig:ratio}
+\end{figure}
+
+By clicking on one of the circles on the ratio chart, the SunBurstTree chart would pop up displaying the full crime stats for the university which has been selected. This chart looks like a layered donut in which, the first layer represents the crime types and the second one represents the categories in each type. Also, by clicking on a a specific type of crime, the chart gets updated and as shown in \cref{fig:donut} and by clicking on the inner circle it goes back to its initial shape.
+
+\begin{figure}[H]
+   \centering{}
+	       \includegraphics[width=7in]{donut.PNG}           
+\caption{}
+\label{fig:donut}
+\end{figure}
+
+By selecting a set of universities on the ratio chart via brush, the comparison table gets updated. As the name suggest, the goal of this table is to compare crime statistics in different schools \cref{fig:donut}:
+
+\begin{figure}[H]
+   \centering{}
+	       \includegraphics[width=6in]{table.PNG}        
+\caption{}
+\label{fig:donut}
+\end{figure}
 
 \section{Evaluation}
 
