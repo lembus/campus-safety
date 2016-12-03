@@ -1,0 +1,64 @@
+Survey year,Unitid,Institution name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2001,178721,Park University,9482,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,178721,Park University,10123,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,178721,Park University,11868,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,178721,Park University,12548,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,178721,Park University,13253,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,178721,Park University,13182,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,178721,Park University,13259,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,178721,Park University,12457,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,178721,Park University,12775,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,178721,Park University,12022,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,178721,Park University,11759,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,178721,Park University,11765,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,178721,Park University,10978,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,178721,Park University,10792,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,187985,University of New Mexico-Main Campus,23753,0,0,2,0,0,0,0,0,5,12,140,42,1
+2002,187985,University of New Mexico-Main Campus,24593,0,0,2,0,0,0,0,0,2,26,100,38,2
+2003,187985,University of New Mexico-Main Campus,25686,0,0,5,0,0,0,0,0,6,12,44,59,3
+2004,187985,University of New Mexico-Main Campus,26242,0,0,3,0,0,0,0,0,0,6,33,45,1
+2005,187985,University of New Mexico-Main Campus,26172,0,0,1,0,0,0,0,0,7,15,29,63,5
+2006,187985,University of New Mexico-Main Campus,25721,0,0,3,0,0,0,0,0,3,10,55,69,1
+2007,187985,University of New Mexico-Main Campus,25672,0,0,3,0,0,0,0,0,2,14,52,67,5
+2008,187985,University of New Mexico-Main Campus,25754,0,0,2,0,0,0,0,0,7,6,56,71,8
+2009,187985,University of New Mexico-Main Campus,27241,0,0,6,0,0,0,0,0,6,6,50,35,3
+2010,187985,University of New Mexico-Main Campus,28688,0,0,2,0,0,0,0,0,2,8,33,31,4
+2011,187985,University of New Mexico-Main Campus,28977,0,0,2,0,0,0,0,0,4,10,19,57,0
+2012,187985,University of New Mexico-Main Campus,29033,0,0,4,0,0,0,0,0,0,10,35,38,0
+2013,187985,University of New Mexico-Main Campus,28592,0,0,10,0,0,0,0,0,0,6,24,41,1
+2014,187985,University of New Mexico-Main Campus,27844,0,0,0,12,7,0,0,0,5,16,15,32,1
+2001,188030,New Mexico State University-Main Campus,15224,0,0,2,0,0,0,0,0,2,8,43,9,1
+2002,188030,New Mexico State University-Main Campus,15243,0,0,1,0,0,0,0,0,1,10,41,13,0
+2003,188030,New Mexico State University-Main Campus,16174,0,0,4,0,0,0,0,0,1,14,48,5,0
+2004,188030,New Mexico State University-Main Campus,16428,0,0,2,0,0,0,0,0,0,5,47,17,2
+2005,188030,New Mexico State University-Main Campus,16072,0,0,2,0,0,0,0,0,1,12,38,13,5
+2006,188030,New Mexico State University-Main Campus,16415,0,0,3,0,0,0,0,0,0,11,41,19,3
+2007,188030,New Mexico State University-Main Campus,16722,0,0,6,0,0,0,0,0,0,6,92,19,1
+2008,188030,New Mexico State University-Main Campus,17239,0,0,5,0,0,0,0,0,4,5,32,13,3
+2009,188030,New Mexico State University-Main Campus,18526,0,0,4,0,0,0,0,0,2,8,58,15,1
+2010,188030,New Mexico State University-Main Campus,18600,0,0,7,0,0,0,0,0,2,11,85,10,0
+2011,188030,New Mexico State University-Main Campus,18024,0,0,3,0,0,0,0,0,1,11,76,9,1
+2012,188030,New Mexico State University-Main Campus,17651,0,0,2,0,0,1,0,0,1,4,51,4,7
+2013,188030,New Mexico State University-Main Campus,16765,0,0,2,0,0,2,0,0,0,4,63,14,2
+2014,188030,New Mexico State University-Main Campus,15829,0,0,0,4,0,0,0,0,2,6,37,12,3
+2001,228246,Southern Methodist University,10266,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,228246,Southern Methodist University,10955,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,228246,Southern Methodist University,11161,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,228246,Southern Methodist University,10901,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,228246,Southern Methodist University,11152,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,228246,Southern Methodist University,10941,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,228246,Southern Methodist University,10829,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,228246,Southern Methodist University,10965,0,0,0,0,0,0,0,0,0,0,1,0,0
+2009,228246,Southern Methodist University,10891,0,0,0,0,0,0,0,0,0,0,1,0,0
+2010,228246,Southern Methodist University,10938,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,228246,Southern Methodist University,10982,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,228246,Southern Methodist University,10893,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,228246,Southern Methodist University,10929,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,228246,Southern Methodist University,11272,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0,0,0,0,0,0,0,0,0

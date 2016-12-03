@@ -1,0 +1,89 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,125231,Walden University,2082,0,0,0,0,0
+2002,125231,Walden University,4565,0,0,0,0,0
+2003,125231,Walden University,8227,0,0,0,0,0
+2010,125231,Walden University,47456,0,0,0,0,0
+2011,125231,Walden University,48982,0,0,0,0,0
+2012,125231,Walden University,50209,0,0,0,0,0
+2013,125231,Walden University,51016,0,0,0,0,0
+2014,125231,Walden University,52188,0,0,0,0,0
+2001,173920,Minnesota State University-Mankato,13275,21,606,0,23,650
+2002,173920,Minnesota State University-Mankato,13795,21,611,0,23,655
+2003,173920,Minnesota State University-Mankato,14058,23,712,0,23,758
+2004,173920,Minnesota State University-Mankato,14151,18,721,1,23,763
+2005,173920,Minnesota State University-Mankato,14333,23,636,0,23,682
+2006,173920,Minnesota State University-Mankato,14149,22,662,0,23,707
+2007,173920,Minnesota State University-Mankato,14515,21,693,0,23,737
+2008,173920,Minnesota State University-Mankato,14621,35,598,0,23,656
+2009,173920,Minnesota State University-Mankato,14955,33,528,2,23,586
+2010,173920,Minnesota State University-Mankato,15435,36,889,6,23,954
+2011,173920,Minnesota State University-Mankato,15709,21,327,0,23,371
+2012,173920,Minnesota State University-Mankato,15441,22,317,0,23,362
+2013,173920,Minnesota State University-Mankato,15426,21,257,0,23,301
+2014,173920,Minnesota State University-Mankato,15387,19,380,2,23,424
+2001,174066,University of Minnesota-Twin Cities,46597,65,659,0,14,738
+2002,174066,University of Minnesota-Twin Cities,48677,131,1067,0,14,1212
+2003,174066,University of Minnesota-Twin Cities,49474,143,976,0,14,1133
+2004,174066,University of Minnesota-Twin Cities,50954,103,1340,0,14,1457
+2005,174066,University of Minnesota-Twin Cities,51175,97,1631,0,14,1742
+2006,174066,University of Minnesota-Twin Cities,50402,311,1553,0,14,1878
+2007,174066,University of Minnesota-Twin Cities,50883,306,1478,0,14,1798
+2008,174066,University of Minnesota-Twin Cities,51140,213,1263,0,14,1490
+2009,174066,University of Minnesota-Twin Cities,51659,112,1094,0,14,1220
+2010,174066,University of Minnesota-Twin Cities,51721,78,977,6,14,1075
+2011,174066,University of Minnesota-Twin Cities,52557,70,990,0,14,1074
+2012,174066,University of Minnesota-Twin Cities,51853,59,1127,0,14,1200
+2013,174066,University of Minnesota-Twin Cities,51526,52,1370,4,14,1440
+2014,174066,University of Minnesota-Twin Cities,51147,71,1340,2,14,1427
+2001,174233,University of Minnesota-Duluth,9380,3,703,0,10,716
+2002,174233,University of Minnesota-Duluth,9815,5,585,0,10,600
+2003,174233,University of Minnesota-Duluth,10114,13,666,0,10,689
+2004,174233,University of Minnesota-Duluth,10366,15,793,0,10,818
+2005,174233,University of Minnesota-Duluth,10496,16,945,0,10,971
+2006,174233,University of Minnesota-Duluth,11190,17,996,0,10,1023
+2007,174233,University of Minnesota-Duluth,11184,15,0,0,10,25
+2008,174233,University of Minnesota-Duluth,11366,9,0,0,10,19
+2009,174233,University of Minnesota-Duluth,11664,10,0,0,10,20
+2010,174233,University of Minnesota-Duluth,11729,4,0,8,10,22
+2011,174233,University of Minnesota-Duluth,11806,6,330,10,10,356
+2012,174233,University of Minnesota-Duluth,11491,9,543,4,10,566
+2013,174233,University of Minnesota-Duluth,11241,13,525,0,10,548
+2014,174233,University of Minnesota-Duluth,11093,9,469,0,10,488
+2001,174783,Saint Cloud State University,15920,26,349,0,11,386
+2002,174783,Saint Cloud State University,16224,35,393,0,11,439
+2003,174783,Saint Cloud State University,16133,30,326,1,11,368
+2004,174783,Saint Cloud State University,16077,28,355,0,11,394
+2005,174783,Saint Cloud State University,15954,27,330,0,11,368
+2006,174783,Saint Cloud State University,16334,29,628,1,11,669
+2007,174783,Saint Cloud State University,16940,42,1034,0,11,1087
+2008,174783,Saint Cloud State University,17430,18,684,0,11,713
+2009,174783,Saint Cloud State University,18123,37,678,14,11,740
+2010,174783,Saint Cloud State University,18650,32,728,6,11,777
+2011,174783,Saint Cloud State University,17604,22,648,0,11,681
+2012,174783,Saint Cloud State University,16922,30,410,4,11,455
+2013,174783,Saint Cloud State University,16765,13,362,4,11,390
+2014,174783,Saint Cloud State University,16076,31,409,0,11,451
+2001,174914,University of St Thomas,11473,22,521,0,6,549
+2002,174914,University of St Thomas,11257,36,472,0,6,514
+2003,174914,University of St Thomas,11037,20,459,0,6,485
+2004,174914,University of St Thomas,10474,14,467,0,6,487
+2005,174914,University of St Thomas,10641,47,518,0,6,571
+2006,174914,University of St Thomas,10712,61,619,0,6,686
+2007,174914,University of St Thomas,10984,57,536,0,6,599
+2008,174914,University of St Thomas,10963,17,519,0,6,542
+2009,174914,University of St Thomas,10851,18,522,0,6,546
+2010,174914,University of St Thomas,10815,20,425,0,6,451
+2011,174914,University of St Thomas,10506,18,386,0,6,410
+2012,174914,University of St Thomas,10289,14,405,0,6,425
+2013,174914,University of St Thomas,10192,15,472,0,6,493
+2014,174914,University of St Thomas,10140,5,448,0,6,459
+2004,413413,Capella University,12599,4,0,0,0,4
+2005,413413,Capella University,13907,7,0,0,0,7
+2006,413413,Capella University,17203,1,0,0,0,1
+2007,413413,Capella University,21773,0,0,0,0,0
+2009,413413,Capella University,31998,0,0,0,0,0
+2010,413413,Capella University,39457,0,0,0,0,0
+2011,413413,Capella University,36375,0,0,0,0,0
+2012,413413,Capella University,35754,0,0,0,0,0
+2013,413413,Capella University,34007,0,0,0,0,0
+2014,413413,Capella University,35061,0,0,0,0,0

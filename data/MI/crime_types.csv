@@ -1,0 +1,127 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,169248,Central Michigan University,27797,16,112,0,13,141
+2002,169248,Central Michigan University,27919,26,572,0,13,611
+2003,169248,Central Michigan University,27758,23,579,0,13,615
+2004,169248,Central Michigan University,27683,13,625,0,13,651
+2005,169248,Central Michigan University,27221,16,410,0,13,439
+2006,169248,Central Michigan University,26710,16,563,0,13,592
+2007,169248,Central Michigan University,26611,28,459,0,13,500
+2008,169248,Central Michigan University,27225,43,538,0,13,594
+2009,169248,Central Michigan University,27247,35,503,0,13,551
+2010,169248,Central Michigan University,28292,19,606,0,13,638
+2011,169248,Central Michigan University,28194,25,604,0,13,642
+2012,169248,Central Michigan University,27626,20,419,0,13,452
+2013,169248,Central Michigan University,26841,33,398,0,13,444
+2014,169248,Central Michigan University,26879,21,598,0,13,632
+2001,169798,Eastern Michigan University,24287,38,299,0,18,355
+2002,169798,Eastern Michigan University,24532,58,199,0,18,275
+2003,169798,Eastern Michigan University,24419,95,226,0,18,339
+2004,169798,Eastern Michigan University,23862,65,218,0,18,301
+2005,169798,Eastern Michigan University,23486,141,135,1,18,295
+2006,169798,Eastern Michigan University,22950,129,111,1,18,259
+2007,169798,Eastern Michigan University,22837,142,131,1,18,292
+2008,169798,Eastern Michigan University,22032,61,136,0,18,215
+2009,169798,Eastern Michigan University,22893,60,106,0,18,184
+2010,169798,Eastern Michigan University,23565,46,281,4,18,349
+2011,169798,Eastern Michigan University,23419,29,218,2,18,267
+2012,169798,Eastern Michigan University,23518,40,154,2,18,214
+2013,169798,Eastern Michigan University,23447,32,204,2,18,256
+2014,169798,Eastern Michigan University,22401,42,264,0,18,324
+2001,169910,Ferris State University,10930,40,559,0,9,608
+2002,169910,Ferris State University,11074,24,609,0,9,642
+2003,169910,Ferris State University,11821,22,751,0,9,782
+2004,169910,Ferris State University,11803,15,401,0,9,425
+2005,169910,Ferris State University,12547,22,256,0,9,287
+2006,169910,Ferris State University,12574,22,244,0,9,275
+2007,169910,Ferris State University,13087,28,397,0,9,434
+2008,169910,Ferris State University,13532,28,438,0,9,475
+2009,169910,Ferris State University,13865,28,329,0,9,366
+2010,169910,Ferris State University,14381,23,325,0,9,357
+2011,169910,Ferris State University,14560,19,410,0,9,438
+2012,169910,Ferris State University,14533,14,341,0,9,364
+2013,169910,Ferris State University,14707,17,420,0,9,446
+2014,169910,Ferris State University,14600,24,496,2,9,531
+2001,170082,Grand Valley State University,19762,8,6,0,25,39
+2002,170082,Grand Valley State University,20407,12,0,0,25,37
+2003,170082,Grand Valley State University,21429,15,5,0,25,45
+2004,170082,Grand Valley State University,22063,14,6,0,25,45
+2005,170082,Grand Valley State University,22565,7,5,0,25,37
+2006,170082,Grand Valley State University,23295,12,6,0,25,43
+2007,170082,Grand Valley State University,23464,10,3,0,25,38
+2008,170082,Grand Valley State University,23892,8,0,0,25,33
+2009,170082,Grand Valley State University,24408,3,1,0,25,29
+2010,170082,Grand Valley State University,24541,3,0,0,25,28
+2011,170082,Grand Valley State University,24662,9,0,0,25,34
+2012,170082,Grand Valley State University,24654,20,4,0,25,49
+2013,170082,Grand Valley State University,24477,9,1,0,25,35
+2014,170082,Grand Valley State University,25094,27,27,0,25,79
+2001,170976,University of Michigan-Ann Arbor,38248,173,362,0,36,571
+2002,170976,University of Michigan-Ann Arbor,38972,248,699,1,36,984
+2003,170976,University of Michigan-Ann Arbor,39031,126,96,1,36,259
+2004,170976,University of Michigan-Ann Arbor,39533,85,157,1,36,279
+2005,170976,University of Michigan-Ann Arbor,39993,116,376,0,36,528
+2006,170976,University of Michigan-Ann Arbor,40025,104,859,0,36,999
+2007,170976,University of Michigan-Ann Arbor,41042,118,496,0,36,650
+2008,170976,University of Michigan-Ann Arbor,41028,130,617,1,36,784
+2009,170976,University of Michigan-Ann Arbor,41674,52,732,4,36,824
+2010,170976,University of Michigan-Ann Arbor,41924,71,692,14,36,813
+2011,170976,University of Michigan-Ann Arbor,42716,79,1063,12,36,1190
+2012,170976,University of Michigan-Ann Arbor,43426,111,1141,12,36,1300
+2013,170976,University of Michigan-Ann Arbor,43710,68,1387,4,36,1495
+2014,170976,University of Michigan-Ann Arbor,43625,71,1576,4,36,1687
+2001,171100,Michigan State University,44227,180,409,0,69,658
+2002,171100,Michigan State University,44937,199,377,0,69,645
+2003,171100,Michigan State University,44542,186,166,2,69,423
+2004,171100,Michigan State University,44836,210,219,0,69,498
+2005,171100,Michigan State University,45166,168,199,0,69,436
+2006,171100,Michigan State University,45520,205,255,0,69,529
+2007,171100,Michigan State University,46045,171,272,0,69,512
+2008,171100,Michigan State University,46510,180,322,0,69,571
+2009,171100,Michigan State University,47071,169,300,4,69,542
+2010,171100,Michigan State University,46985,139,228,10,69,446
+2011,171100,Michigan State University,47825,112,2047,18,69,2246
+2012,171100,Michigan State University,48783,123,2157,6,69,2355
+2013,171100,Michigan State University,49317,182,2059,16,69,2326
+2014,171100,Michigan State University,50081,191,1768,50,69,2078
+2001,171571,Oakland University,15875,8,64,0,13,85
+2002,171571,Oakland University,16059,14,41,0,13,68
+2003,171571,Oakland University,16575,9,68,0,13,90
+2004,171571,Oakland University,16902,8,1,0,13,22
+2005,171571,Oakland University,17339,17,1,0,13,31
+2006,171571,Oakland University,17737,24,0,0,13,37
+2007,171571,Oakland University,18081,20,0,0,13,33
+2008,171571,Oakland University,18175,15,0,0,13,28
+2009,171571,Oakland University,18918,13,0,0,13,26
+2010,171571,Oakland University,19053,16,0,0,13,29
+2011,171571,Oakland University,19379,25,0,0,13,38
+2012,171571,Oakland University,19740,15,0,2,13,30
+2013,171571,Oakland University,20169,12,1,2,13,28
+2014,171571,Oakland University,20519,27,1,2,13,43
+2001,172644,Wayne State University,31040,172,0,0,8,180
+2002,172644,Wayne State University,31167,109,0,0,8,117
+2003,172644,Wayne State University,32208,161,4,0,8,173
+2004,172644,Wayne State University,32386,216,0,0,8,224
+2005,172644,Wayne State University,32160,189,22,0,8,219
+2006,172644,Wayne State University,32061,145,28,0,8,181
+2007,172644,Wayne State University,32380,88,2,0,8,98
+2008,172644,Wayne State University,31024,151,9,0,8,168
+2009,172644,Wayne State University,31786,66,49,0,8,123
+2010,172644,Wayne State University,31505,52,55,0,8,115
+2011,172644,Wayne State University,30765,35,25,0,8,68
+2012,172644,Wayne State University,28938,28,88,0,8,124
+2013,172644,Wayne State University,27897,28,106,0,8,142
+2014,172644,Wayne State University,27578,29,63,0,8,100
+2001,172699,Western Michigan University,28931,58,441,0,17,516
+2002,172699,Western Michigan University,29732,53,594,0,17,664
+2003,172699,Western Michigan University,29178,47,574,0,17,638
+2004,172699,Western Michigan University,27829,56,612,0,17,685
+2005,172699,Western Michigan University,26239,52,833,0,17,902
+2006,172699,Western Michigan University,24841,101,562,0,17,680
+2007,172699,Western Michigan University,24433,55,448,0,17,520
+2008,172699,Western Michigan University,24818,74,790,0,17,881
+2009,172699,Western Michigan University,24576,57,671,0,17,745
+2010,172699,Western Michigan University,25045,53,535,0,17,605
+2011,172699,Western Michigan University,25086,22,727,0,17,766
+2012,172699,Western Michigan University,24598,67,822,0,17,906
+2013,172699,Western Michigan University,24294,45,791,0,17,853
+2014,172699,Western Michigan University,23914,52,1036,0,17,1105

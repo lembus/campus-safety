@@ -1,0 +1,132 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2008,131113,Wilmington University,9133,1,0,0,0,1
+2009,131113,Wilmington University,9650,0,0,0,0,0
+2010,131113,Wilmington University,10101,0,0,0,0,0
+2011,131113,Wilmington University,10848,0,0,0,0,0
+2012,131113,Wilmington University,12581,2,0,0,0,2
+2013,131113,Wilmington University,13621,1,0,0,0,1
+2014,131113,Wilmington University,14467,2,0,0,0,2
+2014,169248,Central Michigan University,26879,0,0,0,0,0
+2001,184782,Rowan University,9788,10,139,0,27,176
+2002,184782,Rowan University,9685,15,126,0,27,168
+2003,184782,Rowan University,9667,22,223,0,27,272
+2004,184782,Rowan University,9688,16,346,0,27,389
+2005,184782,Rowan University,9762,24,355,0,27,406
+2006,184782,Rowan University,9578,31,342,0,27,400
+2007,184782,Rowan University,10091,23,338,0,27,388
+2008,184782,Rowan University,10270,35,394,0,27,456
+2009,184782,Rowan University,11006,16,361,0,27,404
+2010,184782,Rowan University,11300,18,397,2,27,444
+2011,184782,Rowan University,11786,19,528,2,27,576
+2012,184782,Rowan University,12183,23,469,4,27,523
+2013,184782,Rowan University,13349,28,362,2,27,419
+2014,184782,Rowan University,14778,39,468,0,27,534
+2001,185262,Kean University,12094,45,85,0,6,136
+2002,185262,Kean University,12779,27,122,0,6,155
+2003,185262,Kean University,12978,23,149,0,6,178
+2004,185262,Kean University,12897,24,158,0,6,188
+2005,185262,Kean University,12958,22,139,0,6,167
+2006,185262,Kean University,13050,23,50,0,6,79
+2007,185262,Kean University,13394,25,96,0,6,127
+2008,185262,Kean University,14203,58,29,0,6,93
+2009,185262,Kean University,15051,68,65,0,6,139
+2010,185262,Kean University,15939,41,58,6,6,111
+2011,185262,Kean University,16187,38,111,0,6,155
+2012,185262,Kean University,15391,15,184,0,6,205
+2013,185262,Kean University,14404,13,133,0,6,152
+2014,185262,Kean University,14359,9,149,0,6,164
+2001,185590,Montclair State University,13855,74,48,0,18,140
+2002,185590,Montclair State University,14673,78,0,0,18,96
+2003,185590,Montclair State University,15204,80,0,0,18,98
+2004,185590,Montclair State University,15637,81,0,0,18,99
+2005,185590,Montclair State University,16063,77,0,0,18,95
+2006,185590,Montclair State University,16076,66,9,0,18,93
+2007,185590,Montclair State University,16736,52,5,0,18,75
+2008,185590,Montclair State University,17475,51,16,0,18,85
+2009,185590,Montclair State University,18171,40,7,16,18,81
+2010,185590,Montclair State University,18402,76,2,16,18,112
+2011,185590,Montclair State University,18498,94,3,6,18,121
+2012,185590,Montclair State University,18382,73,4,10,18,105
+2013,185590,Montclair State University,19464,56,7,6,18,87
+2014,185590,Montclair State University,20022,46,7,8,18,79
+2001,185828,New Jersey Institute of Technology,8862,14,8,0,6,28
+2002,185828,New Jersey Institute of Technology,8828,8,25,0,6,39
+2003,185828,New Jersey Institute of Technology,8770,11,8,0,6,25
+2004,185828,New Jersey Institute of Technology,8249,21,16,0,6,43
+2005,185828,New Jersey Institute of Technology,8058,14,54,0,6,74
+2006,185828,New Jersey Institute of Technology,8209,13,26,0,6,45
+2007,185828,New Jersey Institute of Technology,8288,12,51,0,6,69
+2008,185828,New Jersey Institute of Technology,8398,14,39,0,6,59
+2009,185828,New Jersey Institute of Technology,8840,3,23,2,6,34
+2010,185828,New Jersey Institute of Technology,8934,14,35,0,6,55
+2011,185828,New Jersey Institute of Technology,9558,9,33,4,6,52
+2012,185828,New Jersey Institute of Technology,9944,9,7,4,6,26
+2013,185828,New Jersey Institute of Technology,10130,8,26,0,6,40
+2014,185828,New Jersey Institute of Technology,10646,10,45,0,6,61
+2001,186380,Rutgers University-New Brunswick,35650,200,317,2,74,593
+2002,186380,Rutgers University-New Brunswick,35886,121,352,0,74,547
+2003,186380,Rutgers University-New Brunswick,35318,196,257,0,74,527
+2004,186380,Rutgers University-New Brunswick,34696,172,494,1,74,741
+2005,186380,Rutgers University-New Brunswick,34449,176,263,0,74,513
+2006,186380,Rutgers University-New Brunswick,34392,165,402,0,74,641
+2007,186380,Rutgers University-New Brunswick,34804,117,410,0,74,601
+2008,186380,Rutgers University-New Brunswick,36041,141,1006,0,74,1221
+2009,186380,Rutgers University-New Brunswick,37366,83,1099,26,74,1282
+2010,186380,Rutgers University-New Brunswick,38912,108,1165,18,74,1365
+2011,186380,Rutgers University-New Brunswick,39950,92,897,16,74,1079
+2012,186380,Rutgers University-New Brunswick,40434,109,632,14,74,829
+2013,186380,Rutgers University-New Brunswick,48036,112,694,4,74,884
+2014,186380,Rutgers University-New Brunswick,48378,103,798,12,74,987
+2001,186399,Rutgers University-Newark,9602,22,16,0,13,51
+2002,186399,Rutgers University-Newark,10346,19,40,0,13,72
+2003,186399,Rutgers University-Newark,10465,19,37,0,13,69
+2004,186399,Rutgers University-Newark,10293,22,34,0,13,69
+2005,186399,Rutgers University-Newark,10246,16,75,0,13,104
+2006,186399,Rutgers University-Newark,10203,25,110,0,13,148
+2007,186399,Rutgers University-Newark,10553,14,215,0,13,242
+2008,186399,Rutgers University-Newark,11032,6,110,0,13,129
+2009,186399,Rutgers University-Newark,11501,7,36,0,13,56
+2010,186399,Rutgers University-Newark,11798,11,62,0,13,86
+2011,186399,Rutgers University-Newark,11804,13,71,0,13,97
+2012,186399,Rutgers University-Newark,12011,7,119,0,13,139
+2013,186399,Rutgers University-Newark,11212,9,89,0,13,111
+2014,186399,Rutgers University-Newark,11314,10,89,0,13,112
+2001,187046,Thomas Edison State College,8335,2,0,0,0,2
+2002,187046,Thomas Edison State College,9225,1,0,0,0,1
+2003,187046,Thomas Edison State College,10233,0,0,0,0,0
+2004,187046,Thomas Edison State College,11000,1,0,0,0,1
+2005,187046,Thomas Edison State College,11224,0,0,0,0,0
+2006,187046,Thomas Edison State College,13173,0,0,0,0,0
+2007,187046,Thomas Edison State College,16423,1,0,0,0,1
+2008,187046,Thomas Edison State College,17369,0,0,0,0,0
+2009,187046,Thomas Edison State College,18206,0,0,0,0,0
+2010,187046,Thomas Edison State College,18736,1,0,0,0,1
+2011,187046,Thomas Edison State College,20251,0,0,0,0,0
+2012,187046,Thomas Edison State College,20606,2,0,0,0,2
+2013,187046,Thomas Edison State College,20877,0,0,0,0,0
+2014,187046,Thomas Edison State College,21495,0,0,0,0,0
+2001,187444,William Paterson University of New Jersey,10466,71,14,0,17,102
+2002,187444,William Paterson University of New Jersey,10924,71,20,0,17,108
+2003,187444,William Paterson University of New Jersey,11210,58,87,0,17,162
+2004,187444,William Paterson University of New Jersey,11409,53,122,0,17,192
+2005,187444,William Paterson University of New Jersey,10970,57,156,0,17,230
+2006,187444,William Paterson University of New Jersey,10599,50,142,0,17,209
+2007,187444,William Paterson University of New Jersey,10443,31,105,0,17,153
+2008,187444,William Paterson University of New Jersey,10256,47,238,0,17,302
+2009,187444,William Paterson University of New Jersey,10820,20,305,0,17,342
+2010,187444,William Paterson University of New Jersey,11339,13,678,0,17,708
+2011,187444,William Paterson University of New Jersey,11518,11,707,0,17,735
+2012,187444,William Paterson University of New Jersey,11423,17,572,0,17,606
+2013,187444,William Paterson University of New Jersey,11414,14,484,0,17,515
+2014,187444,William Paterson University of New Jersey,11048,21,336,0,17,374
+2011,212054,Drexel University,24860,0,0,0,0,0
+2012,212054,Drexel University,25500,0,0,0,0,0
+2013,212054,Drexel University,26132,1,0,0,0,1
+2014,212054,Drexel University,26359,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0

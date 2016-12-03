@@ -1,0 +1,102 @@
+Survey year,Unitid,Institution name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2001,162928,Johns Hopkins University,17826,0,0,0,0,0,0,0,0,13,3,22,4,2
+2002,162928,Johns Hopkins University,17989,0,0,2,0,0,0,0,0,4,3,12,2,2
+2003,162928,Johns Hopkins University,18820,0,0,2,0,0,0,0,0,3,3,8,6,2
+2004,162928,Johns Hopkins University,18626,0,0,1,0,0,0,0,0,1,2,5,5,2
+2005,162928,Johns Hopkins University,19225,0,0,2,0,0,0,0,0,1,2,12,0,0
+2006,162928,Johns Hopkins University,19708,0,0,0,0,0,0,0,0,0,3,3,2,0
+2007,162928,Johns Hopkins University,19682,0,0,1,0,0,0,0,0,0,1,7,0,0
+2008,162928,Johns Hopkins University,19758,0,0,0,0,0,0,0,0,1,0,4,0,0
+2009,162928,Johns Hopkins University,20383,0,0,0,0,0,0,0,0,0,0,1,0,0
+2010,162928,Johns Hopkins University,20977,1,0,0,0,0,0,0,0,1,1,2,0,0
+2011,162928,Johns Hopkins University,20996,0,0,1,0,0,0,0,0,0,0,1,2,0
+2012,162928,Johns Hopkins University,20871,0,0,5,0,0,0,0,0,1,1,5,0,0
+2013,162928,Johns Hopkins University,20918,0,0,2,0,0,0,0,0,1,2,6,0,0
+2014,162928,Johns Hopkins University,21372,0,0,0,3,1,0,0,0,4,5,8,3,0
+2001,163204,University of Maryland-University College,22233,0,0,0,0,0,0,0,0,0,0,2,0,0
+2002,163204,University of Maryland-University College,24030,0,0,0,0,0,0,0,0,0,2,0,0,0
+2003,163204,University of Maryland-University College,25857,0,0,0,0,0,0,0,0,0,1,1,0,0
+2004,163204,University of Maryland-University College,28374,0,0,0,0,0,0,0,0,0,1,1,1,0
+2005,163204,University of Maryland-University College,27429,0,0,1,0,0,0,0,0,0,0,0,1,0
+2006,163204,University of Maryland-University College,33096,0,0,0,0,0,0,0,0,0,0,5,0,0
+2007,163204,University of Maryland-University College,32540,0,0,0,0,0,0,0,0,0,0,4,0,0
+2008,163204,University of Maryland-University College,34172,0,0,0,0,0,0,0,0,0,0,3,0,0
+2009,163204,University of Maryland-University College,37347,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,163204,University of Maryland-University College,39577,0,0,0,0,0,0,0,0,1,0,1,0,0
+2011,163204,University of Maryland-University College,42713,0,0,0,0,0,0,0,0,1,0,0,0,0
+2012,163204,University of Maryland-University College,42268,0,0,1,0,0,0,0,0,0,0,3,0,0
+2013,163204,University of Maryland-University College,39557,0,0,0,0,0,0,0,0,0,0,3,0,0
+2014,163204,University of Maryland-University College,47906,0,0,0,0,0,0,0,0,0,0,1,0,0
+2001,163268,University of Maryland-Baltimore County,11237,0,0,1,0,0,1,0,0,2,1,16,6,0
+2002,163268,University of Maryland-Baltimore County,11711,0,0,0,0,0,0,0,0,1,0,21,6,0
+2003,163268,University of Maryland-Baltimore County,11872,0,0,0,0,0,0,0,0,1,0,11,19,0
+2004,163268,University of Maryland-Baltimore County,11852,1,0,2,0,0,0,0,0,1,1,9,3,1
+2005,163268,University of Maryland-Baltimore County,11650,0,0,4,0,0,0,0,0,1,0,14,2,0
+2006,163268,University of Maryland-Baltimore County,11798,0,0,2,0,0,0,0,0,2,0,14,3,2
+2007,163268,University of Maryland-Baltimore County,12041,0,0,0,0,0,0,0,0,0,0,27,9,0
+2008,163268,University of Maryland-Baltimore County,12268,0,0,4,0,0,0,0,0,2,0,20,1,1
+2009,163268,University of Maryland-Baltimore County,12870,0,0,3,0,0,0,0,0,0,3,6,1,2
+2010,163268,University of Maryland-Baltimore County,12888,0,0,1,0,0,0,0,0,0,0,9,0,1
+2011,163268,University of Maryland-Baltimore County,13199,0,0,6,0,0,0,0,0,4,1,7,1,1
+2012,163268,University of Maryland-Baltimore County,13637,0,0,4,0,0,0,0,0,1,2,5,2,0
+2013,163268,University of Maryland-Baltimore County,13908,0,0,4,0,0,0,0,0,0,1,10,0,0
+2014,163268,University of Maryland-Baltimore County,13979,0,0,0,3,6,0,0,0,0,0,5,1,1
+2001,163286,University of Maryland-College Park,34160,0,0,7,0,0,0,0,0,9,21,123,104,6
+2002,163286,University of Maryland-College Park,34801,0,0,14,0,0,1,0,0,9,11,139,75,4
+2003,163286,University of Maryland-College Park,35329,0,0,11,0,0,0,0,0,11,23,148,71,2
+2004,163286,University of Maryland-College Park,34933,0,0,9,0,0,0,0,0,8,13,115,65,2
+2005,163286,University of Maryland-College Park,35369,0,0,27,0,0,0,0,0,16,17,101,30,3
+2006,163286,University of Maryland-College Park,35102,0,0,31,0,0,0,0,0,13,14,202,51,4
+2007,163286,University of Maryland-College Park,36014,0,0,16,0,0,0,0,0,8,12,91,34,6
+2008,163286,University of Maryland-College Park,37000,0,0,15,0,0,0,0,0,10,6,143,44,1
+2009,163286,University of Maryland-College Park,37195,0,0,4,0,0,0,0,0,7,9,87,37,2
+2010,163286,University of Maryland-College Park,37641,0,0,9,0,0,0,0,0,9,9,75,46,6
+2011,163286,University of Maryland-College Park,37631,0,0,4,0,0,0,0,0,4,4,64,37,1
+2012,163286,University of Maryland-College Park,37248,0,0,9,0,0,0,0,0,3,0,50,22,3
+2013,163286,University of Maryland-College Park,37272,0,0,19,0,0,0,0,0,3,4,56,12,1
+2014,163286,University of Maryland-College Park,37610,0,0,0,10,9,0,0,0,3,3,74,40,3
+2001,164076,Towson University,16980,0,0,10,0,0,0,0,0,2,6,63,3,3
+2002,164076,Towson University,17481,0,0,4,0,0,0,0,0,3,7,62,5,1
+2003,164076,Towson University,17188,0,0,3,0,0,0,0,0,1,3,45,3,2
+2004,164076,Towson University,17667,0,0,6,0,0,0,0,0,2,4,26,2,0
+2005,164076,Towson University,18011,0,0,2,0,0,0,0,0,1,5,27,1,4
+2006,164076,Towson University,18921,0,0,2,0,0,0,0,0,3,4,46,3,3
+2007,164076,Towson University,19758,0,0,4,0,0,0,0,0,0,13,53,1,2
+2008,164076,Towson University,21111,0,0,0,0,0,0,0,0,3,9,34,1,2
+2009,164076,Towson University,21177,0,0,3,0,0,0,0,0,0,0,24,2,1
+2010,164076,Towson University,21840,0,0,2,0,0,0,0,0,3,6,15,0,1
+2011,164076,Towson University,21464,0,0,7,0,0,0,0,0,2,3,11,0,0
+2012,164076,Towson University,21960,0,0,2,0,0,0,0,0,0,4,9,2,0
+2013,164076,Towson University,22499,0,0,5,0,0,0,0,0,0,0,6,1,0
+2014,164076,Towson University,22285,0,0,0,4,1,0,0,0,0,5,5,1,0
+2014,169248,Central Michigan University,26879,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,179894,Webster University,19038,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,179894,Webster University,18407,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,179894,Webster University,18963,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,179894,Webster University,19398,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,179894,Webster University,19154,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,179894,Webster University,19372,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,179894,Webster University,19342,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,179894,Webster University,19224,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,179894,Webster University,18456,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,179894,Webster University,17904,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,179894,Webster University,16769,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,241739,Universidad Metropolitana,13616,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,241739,Universidad Metropolitana,13631,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,241739,Universidad Metropolitana,13773,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,243346,Universidad Del Este,13630,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,243346,Universidad Del Este,13420,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,243346,Universidad Del Este,13331,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,243601,Universidad Del Turabo,17040,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,243601,Universidad Del Turabo,17287,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,243601,Universidad Del Turabo,17325,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,260901,Kaplan University-Davenport Campus,48865,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,260901,Kaplan University-Davenport Campus,52407,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,260901,Kaplan University-Davenport Campus,52018,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,426314,Embry-Riddle Aeronautical University-Worldwide,15225,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,426314,Embry-Riddle Aeronautical University-Worldwide,15249,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,426314,Embry-Riddle Aeronautical University-Worldwide,15488,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,426314,Embry-Riddle Aeronautical University-Worldwide,15320,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,426314,Embry-Riddle Aeronautical University-Worldwide,15562,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,426314,Embry-Riddle Aeronautical University-Worldwide,14564,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,426314,Embry-Riddle Aeronautical University-Worldwide,14176,0,0,0,0,0,0,0,0,0,0,0,0,0

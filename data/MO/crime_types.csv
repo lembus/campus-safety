@@ -1,0 +1,172 @@
+Survey year,Unitid,Institution name,Institution Size,CO,DA,HC,VW,total
+2001,176965,University of Central Missouri,10822,45,276,0,14,335
+2002,176965,University of Central Missouri,10313,62,176,0,14,252
+2003,176965,University of Central Missouri,10351,57,104,0,14,175
+2004,176965,University of Central Missouri,10051,83,232,0,14,329
+2005,176965,University of Central Missouri,10604,83,340,0,14,437
+2006,176965,University of Central Missouri,10711,63,451,0,14,528
+2007,176965,University of Central Missouri,10918,28,256,0,14,298
+2008,176965,University of Central Missouri,11063,46,167,0,14,227
+2009,176965,University of Central Missouri,11191,71,413,0,14,498
+2010,176965,University of Central Missouri,11351,33,193,0,14,240
+2011,176965,University of Central Missouri,11637,21,252,0,14,287
+2012,176965,University of Central Missouri,11878,27,485,0,14,526
+2013,176965,University of Central Missouri,12513,27,267,0,14,308
+2014,176965,University of Central Missouri,13379,22,270,0,14,306
+2001,177065,Columbia College,8564,3,4,0,2,9
+2002,177065,Columbia College,8958,3,21,0,2,26
+2003,177065,Columbia College,10146,2,12,0,2,16
+2004,177065,Columbia College,11017,2,39,0,2,43
+2005,177065,Columbia College,11792,1,53,0,2,56
+2006,177065,Columbia College,12280,1,28,0,2,31
+2007,177065,Columbia College,12954,3,17,0,2,22
+2008,177065,Columbia College,14081,1,18,0,2,21
+2009,177065,Columbia College,15556,1,11,0,2,14
+2010,177065,Columbia College,16962,5,10,0,2,17
+2011,177065,Columbia College,18091,3,6,0,2,11
+2012,177065,Columbia College,17830,0,7,0,2,9
+2013,177065,Columbia College,16946,1,10,0,2,13
+2014,177065,Columbia College,16567,2,5,0,2,9
+2001,177968,Lindenwood University,6446,24,66,0,4,94
+2002,177968,Lindenwood University,6939,6,47,0,4,57
+2003,177968,Lindenwood University,7838,11,66,0,4,81
+2004,177968,Lindenwood University,8615,17,25,0,4,46
+2005,177968,Lindenwood University,9076,20,20,0,4,44
+2006,177968,Lindenwood University,9525,20,22,0,4,46
+2007,177968,Lindenwood University,9633,19,31,0,4,54
+2008,177968,Lindenwood University,10074,22,34,0,4,60
+2009,177968,Lindenwood University,10408,18,91,0,4,113
+2010,177968,Lindenwood University,11345,19,78,0,4,101
+2011,177968,Lindenwood University,11483,15,110,0,4,129
+2012,177968,Lindenwood University,11904,31,90,0,4,125
+2013,177968,Lindenwood University,12213,26,109,0,4,139
+2014,177968,Lindenwood University,12151,20,192,0,4,216
+2001,178396,University of Missouri-Columbia,23667,68,625,0,14,707
+2002,178396,University of Missouri-Columbia,26124,81,426,0,14,521
+2003,178396,University of Missouri-Columbia,26805,53,461,0,14,528
+2004,178396,University of Missouri-Columbia,27003,55,656,0,14,725
+2005,178396,University of Missouri-Columbia,27930,48,290,0,14,352
+2006,178396,University of Missouri-Columbia,28184,46,496,0,14,556
+2007,178396,University of Missouri-Columbia,28405,38,631,0,14,683
+2008,178396,University of Missouri-Columbia,30130,31,430,0,14,475
+2009,178396,University of Missouri-Columbia,31237,30,883,6,14,933
+2010,178396,University of Missouri-Columbia,32341,22,849,6,14,891
+2011,178396,University of Missouri-Columbia,33762,32,929,4,14,979
+2012,178396,University of Missouri-Columbia,34704,31,679,2,14,726
+2013,178396,University of Missouri-Columbia,34616,29,728,6,14,777
+2014,178396,University of Missouri-Columbia,35425,41,1058,0,14,1113
+2001,178402,University of Missouri-Kansas City,12969,108,13,0,10,131
+2002,178402,University of Missouri-Kansas City,13881,116,17,0,10,143
+2003,178402,University of Missouri-Kansas City,14226,68,14,0,10,92
+2004,178402,University of Missouri-Kansas City,14256,84,7,0,10,101
+2005,178402,University of Missouri-Kansas City,14310,60,1,0,10,71
+2006,178402,University of Missouri-Kansas City,14213,62,33,0,10,105
+2007,178402,University of Missouri-Kansas City,14442,33,51,0,10,94
+2008,178402,University of Missouri-Kansas City,14481,34,69,1,10,114
+2009,178402,University of Missouri-Kansas City,14799,44,64,0,10,118
+2010,178402,University of Missouri-Kansas City,15259,46,93,2,10,151
+2011,178402,University of Missouri-Kansas City,15473,62,143,2,10,217
+2012,178402,University of Missouri-Kansas City,15990,70,103,2,10,185
+2013,178402,University of Missouri-Kansas City,15718,89,120,0,10,219
+2014,178402,University of Missouri-Kansas City,16146,52,98,6,10,166
+2001,178420,University of Missouri-St Louis,14993,30,9,0,10,49
+2002,178420,University of Missouri-St Louis,15658,27,13,0,10,50
+2003,178420,University of Missouri-St Louis,15599,54,3,0,10,67
+2004,178420,University of Missouri-St Louis,15498,34,4,0,10,48
+2005,178420,University of Missouri-St Louis,15548,31,10,0,10,51
+2006,178420,University of Missouri-St Louis,15528,30,24,0,10,64
+2007,178420,University of Missouri-St Louis,15527,32,14,0,10,56
+2008,178420,University of Missouri-St Louis,15741,40,13,0,10,63
+2009,178420,University of Missouri-St Louis,16534,20,14,0,10,44
+2010,178420,University of Missouri-St Louis,16791,20,8,0,10,38
+2011,178420,University of Missouri-St Louis,16809,23,5,0,10,38
+2012,178420,University of Missouri-St Louis,16705,19,4,0,10,33
+2013,178420,University of Missouri-St Louis,16809,8,7,0,10,25
+2014,178420,University of Missouri-St Louis,17072,12,14,2,10,38
+2001,178721,Park University,9482,1,2,0,0,3
+2002,178721,Park University,10123,12,6,0,0,18
+2003,178721,Park University,11868,7,1,0,0,8
+2004,178721,Park University,12548,2,2,0,0,4
+2005,178721,Park University,13253,14,4,0,0,18
+2006,178721,Park University,13182,5,2,0,0,7
+2007,178721,Park University,13259,0,0,0,0,0
+2008,178721,Park University,12457,0,13,0,0,13
+2009,178721,Park University,12775,2,4,0,0,6
+2010,178721,Park University,12022,0,14,0,0,14
+2011,178721,Park University,11759,0,15,0,0,15
+2012,178721,Park University,11765,3,7,0,0,10
+2013,178721,Park University,10978,7,19,0,0,26
+2014,178721,Park University,10792,0,17,0,0,17
+2001,179159,Saint Louis University,13521,22,497,0,14,533
+2002,179159,Saint Louis University,14004,31,390,0,14,435
+2003,179159,Saint Louis University,14386,32,402,0,14,448
+2004,179159,Saint Louis University,14549,26,510,0,14,550
+2005,179159,Saint Louis University,14966,22,686,0,14,722
+2006,179159,Saint Louis University,14897,28,517,0,14,559
+2007,179159,Saint Louis University,15539,26,369,0,14,409
+2008,179159,Saint Louis University,16086,25,509,0,14,548
+2009,179159,Saint Louis University,16317,47,327,0,14,388
+2010,179159,Saint Louis University,17709,35,542,0,14,591
+2011,179159,Saint Louis University,17859,26,422,4,14,466
+2012,179159,Saint Louis University,17640,26,408,2,14,450
+2013,179159,Saint Louis University,17343,38,400,4,14,456
+2014,179159,Saint Louis University,17052,38,315,10,14,377
+2001,179557,Southeast Missouri State University,9348,9,52,0,5,66
+2002,179557,Southeast Missouri State University,9533,8,131,0,5,144
+2003,179557,Southeast Missouri State University,9570,15,96,0,5,116
+2004,179557,Southeast Missouri State University,9615,5,109,0,5,119
+2005,179557,Southeast Missouri State University,10288,10,139,0,5,154
+2006,179557,Southeast Missouri State University,10454,35,93,0,5,133
+2007,179557,Southeast Missouri State University,10624,31,79,0,5,115
+2008,179557,Southeast Missouri State University,10736,17,90,0,5,112
+2009,179557,Southeast Missouri State University,10801,11,101,0,5,117
+2010,179557,Southeast Missouri State University,11033,13,112,0,5,130
+2011,179557,Southeast Missouri State University,11378,15,129,0,5,149
+2012,179557,Southeast Missouri State University,11601,9,125,0,5,139
+2013,179557,Southeast Missouri State University,11767,16,135,0,5,156
+2014,179557,Southeast Missouri State University,12087,10,160,0,5,175
+2001,179566,Missouri State University-Springfield,18252,21,667,0,4,692
+2002,179566,Missouri State University-Springfield,18718,23,686,0,4,713
+2003,179566,Missouri State University-Springfield,18930,29,821,0,4,854
+2004,179566,Missouri State University-Springfield,19114,45,621,0,4,670
+2005,179566,Missouri State University-Springfield,18928,37,704,0,4,745
+2006,179566,Missouri State University-Springfield,19218,53,559,0,4,616
+2007,179566,Missouri State University-Springfield,19348,55,631,0,4,690
+2008,179566,Missouri State University-Springfield,19489,44,428,0,4,476
+2009,179566,Missouri State University-Springfield,20371,24,496,0,4,524
+2010,179566,Missouri State University-Springfield,20472,13,474,0,4,491
+2011,179566,Missouri State University-Springfield,20276,9,485,0,4,498
+2012,179566,Missouri State University-Springfield,20629,11,647,0,4,662
+2013,179566,Missouri State University-Springfield,21271,16,708,0,4,728
+2014,179566,Missouri State University-Springfield,21816,18,610,0,4,632
+2001,179867,Washington University in St Louis,12187,49,85,0,15,149
+2002,179867,Washington University in St Louis,12767,71,73,0,15,159
+2003,179867,Washington University in St Louis,13020,48,66,0,15,129
+2004,179867,Washington University in St Louis,13210,57,169,0,15,241
+2005,179867,Washington University in St Louis,13383,46,146,0,15,207
+2006,179867,Washington University in St Louis,13355,57,234,0,15,306
+2007,179867,Washington University in St Louis,13382,41,232,0,15,288
+2008,179867,Washington University in St Louis,13339,57,351,0,15,423
+2009,179867,Washington University in St Louis,13575,35,339,0,15,389
+2010,179867,Washington University in St Louis,13820,43,367,0,15,425
+2011,179867,Washington University in St Louis,13908,25,292,2,15,334
+2012,179867,Washington University in St Louis,13952,34,372,0,15,421
+2013,179867,Washington University in St Louis,14032,78,461,0,15,554
+2014,179867,Washington University in St Louis,14348,50,384,0,15,449
+2001,179894,Webster University,15402,6,157,0,2,165
+2002,179894,Webster University,17249,18,40,0,2,60
+2003,179894,Webster University,18740,17,59,0,2,78
+2004,179894,Webster University,19038,33,41,0,2,76
+2005,179894,Webster University,18407,14,29,0,2,45
+2006,179894,Webster University,18963,59,59,0,2,120
+2007,179894,Webster University,19398,30,44,0,2,76
+2008,179894,Webster University,19154,31,52,0,2,85
+2009,179894,Webster University,19372,10,62,0,2,74
+2010,179894,Webster University,19342,25,47,0,2,74
+2011,179894,Webster University,19224,17,118,0,2,137
+2012,179894,Webster University,18456,18,106,0,2,126
+2013,179894,Webster University,17904,7,117,0,2,126
+2014,179894,Webster University,16769,8,92,0,2,102
+2012,260901,Kaplan University-Davenport Campus,48865,0,0,0,0,0
+2013,260901,Kaplan University-Davenport Campus,52407,0,0,0,0,0
+2014,260901,Kaplan University-Davenport Campus,52018,0,0,0,0,0
