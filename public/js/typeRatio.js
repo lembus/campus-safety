@@ -72,13 +72,13 @@ TypeChart.prototype.update = function(state,year,colorScale){
 
 	var ratioChartScale = d3.scaleLinear()
 		.domain([0, 1])
-		.range([100,  self.svgWidth - 50]);
+		.range([self.margin.left,  self.svgWidth - self.margin.right]);
 
 	typeNames = [
-		{'name': 'Disciplinary Actions', 'x': 0.93, 'y': 1.05},
-		{'name': 'Hate Crimes', 'x': 0.93, 'y': -0.07},
-		{'name': 'VAWA Offenses', 'x':-0.07, 'y': 1.05},
-		{'name': 'Criminal offenses', 'x':-0.07, 'y':-0.07}
+		{'name': 'Disciplinary Actions', 'x': 0.93, 'y': 1},
+		{'name': 'Hate Crimes', 'x': 0.93, 'y': 0},
+		{'name': 'VAWA Offenses', 'x':0.07, 'y': 1},
+		{'name': 'Criminal offenses', 'x':0.07, 'y':0}
 	]
 	texts = svg.selectAll('text')
 		.data(typeNames)
@@ -91,9 +91,9 @@ TypeChart.prototype.update = function(state,year,colorScale){
 
 
 	d3.csv("data/" + state + "/crime_types.csv", function (error, crimes) {
-		var ratioChartScale = d3.scaleLinear()
-			.domain([0, 1])
-			.range([100,  self.svgWidth - 50]);
+		//var ratioChartScale = d3.scaleLinear()
+			//.domain([0, 1])
+			//.range([100,  self.svgWidth - 50]);
 
 		crimes = crimes.sort(function (a,b) {return d3.ascending(a['Unitid'], b['Unitid'])})
 
@@ -155,7 +155,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 		 });
 		 */
 		var brush = d3.brush()
-			.extent([[self.margin.left,self.margin.top],[self.svgWidth, self.svgHeight]])
+			.extent([[0,0],[self.svgWidth, self.svgHeight]])
 			.on("end", brushed);
 		if(svg.select('g').empty()){
 			svg.append('g')
@@ -191,7 +191,7 @@ TypeChart.prototype.update = function(state,year,colorScale){
 		circles.transition()
 			.duration(1000)
 			.attr('r', function(d){
-				return (parseFloat(d['Institution Size'])/maxUniSize)*10
+				return (parseFloat(d['Institution Size'])/maxUniSize)*20
 			})
 			.attr('cx', function (d) {
 				if (d.total != 0)

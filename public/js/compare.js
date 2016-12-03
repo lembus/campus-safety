@@ -30,7 +30,6 @@ CompareChart.prototype.init = function(){
 
     var compareChart = d3.select("#compare-chart")
 		.attr('width',width)
-		.style('padding-left',0.05 * window.outerWidth + 'px')
 		.style('padding-top','40px')
 		.style('padding-bottom','40px')
         //.classed("wholeChart",true);
